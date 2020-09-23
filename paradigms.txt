@@ -524,6 +524,9 @@
  -flex: <0>.фы<.>//<0>.ф<.>
   gramm: белый,incorp
   gloss: белый
+ -flex: <0>.ныкъо<.>
+  gramm: половина,incorp
+  gloss: половина
  paradigm: S_number
 
 -paradigm: S_incorp_NtoV
@@ -627,6 +630,9 @@
  -flex: <0>.фы<.>//<0>.ф<.>
   gramm: белый,incorp
   gloss: белый
+ -flex: <0>.ныкъо<.>
+  gramm: половина,incorp
+  gloss: половина
  paradigm: S_number_NtoV
 
 -paradigm: poly_N_famn
@@ -1891,6 +1897,7 @@
  -flex: .п<.>.<.>
   gramm: loc
   gloss: LOC
+  paradigm: V_minus_6_intr
   paradigm: V_minus_5_intr
  -flex: .лъы<.>.<.>
   gramm: loc
