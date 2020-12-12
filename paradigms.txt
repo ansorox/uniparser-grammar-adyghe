@@ -47,6 +47,8 @@
  -flex: .<.>
   gramm: 
   paradigm: S_aug
+  paradigm: S_car
+  paradigm: S_int
   paradigm: S_incorp
   paradigm: S_nmlz
  -flex: <0,2>.<.>
@@ -67,6 +69,8 @@
  -flex: .<.>
   gramm: 
   paradigm: S_aug
+  paradigm: S_car
+  paradigm: S_int
   paradigm: S_incorp
   paradigm: S_nmlz
  -flex: <0,2>.<.>
@@ -81,6 +85,8 @@
  -flex: .<.>
   gramm: 
   paradigm: S_aug
+  paradigm: S_car
+  paradigm: S_int
   paradigm: S_incorp
   paradigm: S_nmlz
  -flex: <0,2>.<.>
@@ -91,6 +97,8 @@
   gramm: dir
   gloss: DIR
   paradigm: S_aug
+  paradigm: S_car
+  paradigm: S_int
   paradigm: S_incorp
   paradigm: S_nmlz
   paradigm: S_number
@@ -142,6 +150,8 @@
   gramm: p.3pl,poss,neg
   gloss: 3PL.P+POSS|NEG
  paradigm: S_aug
+ paradigm: S_car
+ paradigm: S_int
  paradigm: S_incorp
  paradigm: S_nmlz
  paradigm: S_number
@@ -206,6 +216,7 @@
   gloss: 3PL.P+POSS|NEG
   regex-prev: .*сы[<>.]*$
  paradigm: S_aug_NtoV
+ paradigm: S_car_NtoV
  paradigm: S_incorp_NtoV
  paradigm: S_number_NtoV
 
@@ -243,6 +254,8 @@
   gramm: neg
   gloss: NEG
  paradigm: S_aug
+ paradigm: S_car
+ paradigm: S_int
  paradigm: S_nmlz
  paradigm: S_incorp
  paradigm: S_number
@@ -394,6 +407,8 @@
   gramm: p.3pl,neg
   gloss: 3PL.P|NEG
  paradigm: S_aug
+ paradigm: S_car
+ paradigm: S_int
  paradigm: S_nmlz
  paradigm: S_incorp
  paradigm: S_number
@@ -412,6 +427,27 @@
   gloss: AUG
   paradigm: S_number_NtoV
   paradigm: S_incorp_NtoV
+
+-paradigm: S_car
+ -flex: <0,1>.нчъа<.>//<0>.нчъэ<.>
+  gramm: car
+  gloss: CAR
+  paradigm: S_number
+  paradigm: S_incorp
+
+-paradigm: S_car_NtoV
+ -flex: <0,1>.нчъа<.>//<0>.нчъэ<.>
+  gramm: car
+  gloss: CAR
+  paradigm: S_number_NtoV
+  paradigm: S_incorp_NtoV
+
+-paradigm: S_int
+ -flex: .кӏэе<.>//.кӏэй<.>//.кӏэя<.>//.кӏае<.>//.кӏай<.>
+  gramm: int
+  gloss: INT
+  paradigm: S_number
+  paradigm: S_incorp
 
 -paradigm: S_nmlz
  -flex: <0,1>.пӏэ<.>//<0,1>.пӏ<.>
@@ -1234,6 +1270,7 @@
   gloss: 2PL.ABS
   regex-next: ^[.,<>0-9]*[бвгджз].*
  paradigm: S_aug_NtoV
+ paradigm: S_car_NtoV
  paradigm: S_incorp_NtoV
  paradigm: S_number_NtoV
 
@@ -3123,6 +3160,46 @@
   paradigm: V_minus_1_empty
 
 -paradigm: V_plus_1            # common incorporated verbal stems
+ -flex: .кӏэе<.>//.кӏэй<.>//.кӏэя<.>//.кӏае<.>//.кӏай<.>
+  gramm: int
+  gloss: INT
+  paradigm: V_plus_2
+  paradigm: V_plus_3
+  paradigm: V_plus_4
+  paradigm: V_plus_5_mod
+  paradigm: V_plus_5
+  paradigm: additives
+  paradigm: V_nmlz
+ -flex: .гъое<.>//.гъуае<.>//.гъуай<.>//.гъой<.>//.гъоя<.>
+  gramm: dificil
+  gloss: DIFICIL
+  paradigm: V_plus_2
+  paradigm: V_plus_3
+  paradigm: V_plus_4
+  paradigm: V_plus_5_mod
+  paradigm: V_plus_5
+  paradigm: additives
+  paradigm: V_nmlz
+ -flex: .гъошӏу<.>
+  gramm: facil
+  gloss: FACIL
+  paradigm: V_plus_2
+  paradigm: V_plus_3
+  paradigm: V_plus_4
+  paradigm: V_plus_5_mod
+  paradigm: V_plus_5
+  paradigm: additives
+  paradigm: V_nmlz
+ -flex: .гущэ<.>
+  gramm: pity
+  gloss: PITY
+  paradigm: V_plus_2
+  paradigm: V_plus_3
+  paradigm: V_plus_4
+  paradigm: V_plus_5_mod
+  paradigm: V_plus_5
+  paradigm: additives
+  paradigm: V_nmlz
  -flex: <1>.хьэ<.>//<1>.хь<.>
   gramm: ill
   gloss: ILL
@@ -3218,6 +3295,7 @@
   gramm: nmlz
   gloss: NMLZ.TIME
  paradigm: S_aug
+ paradigm: S_car
  paradigm: S_incorp
  paradigm: S_number
 
@@ -3348,6 +3426,33 @@
  -flex: <0>.жьы|гъа|гъо<.>
   gramm: re,pst,opt
   gloss: RE|PST|OPT
+ -flex: <0>.гъэ|ха|гъ<.>//<0>.гъэ|ха|гъэ<.>
+  gramm: pst,inc,pst2,alt_stem
+  gloss: PST|INC|PST
+ -flex: <0>.гъа|х<.>//<0>.гъа|хэ<.>
+  gramm: pst,inc,alt_stem
+  gloss: PST|INC
+ -flex: <0>.хэ|щт<.>//<0>.хэ|щты<.>
+  gramm: aux,inc
+  gloss: INC|FUT
+
+ -flex: <0>.пэ<.>
+  gramm: asrt
+  gloss: ASRT
+  regex-prev-gramm: ^(.(?!V))*$
+ -flex: <0>.па<.>
+  gramm: asrt,alt_stem
+  gloss: ASRT
+ -flex: <0>.па|гъ<.>//<0>.па|гъэ<.>
+  gramm: asrt,pst,alt_stem
+  gloss: ASRT|PST
+ -flex: <0>.жьы|па|гъ<.>//<0>.жьы|па|гъэ<.>
+  gramm: re,asrt,pst,alt_stem
+  gloss: RE|ASRT|PST
+ -flex: <0>.жьы|пэ<.>//<0>.жьы|пэ<.>
+  gramm: re,asrt
+  gloss: RE|ASRT
+
  paradigm: V_plus_3
  paradigm: V_plus_4
  paradigm: V_plus_5_mod
@@ -3478,5 +3583,3 @@
   gramm:
  paradigm: V_plus_5
  paradigm: additives
-
-
