@@ -30,7 +30,6 @@
   {"gloss": "REL\\.TMP.*-DYN.*-STEM(.(?!ABS|ERG|INS|OBL|ADV))*$"},
   {"gloss": "REL\\.TMP(.(?!DYN|PST|FUT|MOD|INS))*$"},
   {"gloss": "^((?<!REL).)*\\.ABS(?!TR)(.(?!REL|MOD))*-(ABS|ERG|INS|OBL).*$"},
-  {"gloss": ".*DAT-STEM", "wfGlossed": ".*я-.*", "gramm": ".*alt_stem.*"},
   {"gloss": ".*NMLZ\\.TIME-добрый.*"},
   {"gloss": ".*[12]SG\\.ABS(.(?!REL))*-PL.*"},
   {"gramm": ".*alt_stem.*", "gloss": ".*STEM-([^P][^-]*|PL|)$", "wfGlossed": "^.*а-[^аоуыеёэюяи-]*$"},
