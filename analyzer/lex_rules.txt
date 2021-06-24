@@ -10842,14 +10842,14 @@
   lex2: итыпӏэ
   gramm2: N  
   trans_ru2: вместилище
--lex_rule
- -search
-  stem: .ты.
-  wfGlossed: (?:^|[+-])и[-+].*?ты
- -add
-  lex2: итыр
-  gramm2: N  
-  trans_ru2: содержимое
+#-lex_rule
+# -search
+#  stem: .ты.
+#  wfGlossed: (?:^|[+-])и[-+].*?ты
+# -add
+#  lex2: итыр
+#  gramm2: N  
+#  trans_ru2: содержимое
 -lex_rule
  -search
   stem: .тэкъо.
