@@ -1,6 +1,7 @@
 ﻿-paradigm: poly_ANUM
  -flex: .<.>
   gramm: 
+  paradigm: poly_INT_incorp
  -flex: .рэ<.>
   gramm: adj
   gloss: ADJ
@@ -73,6 +74,7 @@
   paradigm: S_int
   paradigm: S_incorp
   paradigm: S_nmlz
+  paradigm: poly_INT_incorp
  -flex: <0,2>.<.>
   paradigm: S_number
 
@@ -671,6 +673,12 @@
   gloss: половина
  paradigm: S_number_NtoV
 
+-paradigm: poly_INT_incorp
+ -flex: .дэдэ<.>
+  gramm: именно,incorp
+  gloss: именно
+ paradigm: S_number
+
 -paradigm: poly_N_famn
  -flex: .хэ<.>//.х<.>
   gramm: pl
@@ -942,10 +950,15 @@
  -flex: .<.>
   gramm: 
   paradigm: SPRO_number
+  paradigm: poly_INT_incorp
  -flex: <.>.ры<.>
   gramm: pred
   gloss: PRED
   paradigm: poly_V_intr
+ -flex: .р<.>
+  gramm: pred
+  gloss: PRED
+  paradigm: poly_INT_incorp
  -flex: .р<.>
   gramm: pred
   gloss: PRED
@@ -995,15 +1008,21 @@
  -flex: .<.>
   gramm: 
   paradigm: S_number
+  paradigm: poly_INT_incorp
 
 -paradigm: poly_NPRO
  -flex: .<.>
   gramm: 
   paradigm: SPRO_number
+  paradigm: poly_INT_incorp
  -flex: <.>.ры<.>
   gramm: pred
   gloss: PRED
   paradigm: poly_V_intr
+ -flex: .р<.>
+  gramm: pred
+  gloss: PRED
+  paradigm: poly_INT_incorp
  -flex: .р<.>
   gramm: pred
   gloss: PRED
@@ -3501,7 +3520,21 @@
  -flex: <0>.жьы|пэ<.>//<0>.жьы|пэ<.>
   gramm: re,asrt
   gloss: RE|ASRT
-
+ -flex: <0,1>.къо<.>
+  gramm: appr
+  gloss: APPR
+ -flex: <0>.къуа<.>
+  gramm: appr, alt_stem
+  gloss: APPR
+ -flex: <0>.гъэ|къо<.>
+  gramm: pst,appr
+  gloss: PST|APPR
+ -flex: <0>.гъэ|къуа<.>
+  gramm: pst,appr,alt_stem
+  gloss: PST|APPR
+ -flex: <0>.гъа|къо<.>
+  gramm: pst,appr,alt_stem
+  gloss: PST|APPR
  paradigm: V_plus_3
  paradigm: V_plus_4
  paradigm: V_plus_5_mod

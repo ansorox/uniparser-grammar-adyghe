@@ -70199,11 +70199,11 @@
  paradigm: poly_N
  trans_ru: маслобойня
 -lexeme
- lex: дэд
+ lex: дэдэ
  stem: .дэдэ.//.дэд.|.дэда.|.дадэ.//.дад.
  gramm: ADV|ADV,alt_stem,alt_stem1|ADV,alt_stem,alt_stem2
  paradigm: poly_ADV
- trans_ru: именно
+ trans_ru: именно; очень
 -lexeme
  lex: дэжь
  stem: .дэжь.

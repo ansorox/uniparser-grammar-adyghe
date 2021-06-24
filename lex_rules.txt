@@ -1454,14 +1454,6 @@
 -lex_rule
  -search
   stem: .джы.
-  wfGlossed: джыы?[+-]дэд[аэ]ы?[+-].*м(?:ы?[+-]|$)
- -add
-  lex2: джыдэдэм
-  gramm2: ADV  
-  trans_ru2: теперь
--lex_rule
- -search
-  stem: .джы.
   wfGlossed: джыы?[+-]ри(?:ы?[+-]|$)
  -add
   lex2: джыри
@@ -10842,14 +10834,14 @@
   lex2: итыпӏэ
   gramm2: N  
   trans_ru2: вместилище
--lex_rule
- -search
-  stem: .ты.
-  wfGlossed: (?:^|[+-])и[-+].*?ты
- -add
-  lex2: итыр
-  gramm2: N  
-  trans_ru2: содержимое
+#-lex_rule
+# -search
+#  stem: .ты.
+#  wfGlossed: (?:^|[+-])и[-+].*?ты
+# -add
+#  lex2: итыр
+#  gramm2: N  
+#  trans_ru2: содержимое
 -lex_rule
  -search
   stem: .тэкъо.

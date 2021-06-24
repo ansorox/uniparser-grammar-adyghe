@@ -1,6 +1,7 @@
 ﻿-paradigm: poly_ANUM
  -flex: .<.>
   gramm: 
+  paradigm: poly_INT_incorp
  -flex: .рэ<.>
   gramm: adj
   gloss: ADJ
@@ -73,6 +74,7 @@
   paradigm: S_int
   paradigm: S_incorp
   paradigm: S_nmlz
+  paradigm: poly_INT_incorp
  -flex: <0,2>.<.>
   paradigm: S_number
 
@@ -671,6 +673,12 @@
   gloss: половина
  paradigm: S_number_NtoV
 
+-paradigm: poly_INT_incorp
+ -flex: .дэдэ<.>
+  gramm: именно,incorp
+  gloss: именно
+ paradigm: S_number
+
 -paradigm: poly_N_famn
  -flex: .хэ<.>//.х<.>
   gramm: pl
@@ -942,10 +950,15 @@
  -flex: .<.>
   gramm: 
   paradigm: SPRO_number
+  paradigm: poly_INT_incorp
  -flex: <.>.ры<.>
   gramm: pred
   gloss: PRED
   paradigm: poly_V_intr
+ -flex: .р<.>
+  gramm: pred
+  gloss: PRED
+  paradigm: poly_INT_incorp
  -flex: .р<.>
   gramm: pred
   gloss: PRED
@@ -995,15 +1008,21 @@
  -flex: .<.>
   gramm: 
   paradigm: S_number
+  paradigm: poly_INT_incorp
 
 -paradigm: poly_NPRO
  -flex: .<.>
   gramm: 
   paradigm: SPRO_number
+  paradigm: poly_INT_incorp
  -flex: <.>.ры<.>
   gramm: pred
   gloss: PRED
   paradigm: poly_V_intr
+ -flex: .р<.>
+  gramm: pred
+  gloss: PRED
+  paradigm: poly_INT_incorp
  -flex: .р<.>
   gramm: pred
   gloss: PRED
@@ -2591,6 +2610,11 @@
   paradigm: V_minus_2_3
   paradigm: V_minus_1
   paradigm: V_minus_1_empty
+ -flex: <0>.с|а<.>.<.>
+  gramm: 1.io,sg.io,dat,alt_stem
+  gloss: 1SG.IO|DAT
+  regex-stem: ^[^аеёиоуыэюя]*[оэе][.,<>0-9]*$
+  paradigm: V_plus_1
  -flex: .с<.>.<.>
   gramm: 1.io,sg.io,dat
   gloss: 1SG.IO
@@ -2610,6 +2634,10 @@
   paradigm: V_minus_2_3
   paradigm: V_minus_1
   paradigm: V_minus_1_empty
+ -flex: <0>.п|а<.>.<.>
+  gramm: 2.io,sg.io,dat,alt_stem
+  regex-stem: ^[^аеёиоуыэюя]*[оэе][.,<>0-9]*$
+  paradigm: V_plus_1
  -flex: .е<.>.<.>
   gramm: 3.io,sg.io,dat
   gloss: DAT
@@ -2638,6 +2666,11 @@
   paradigm: V_minus_2_3
   paradigm: V_minus_1
   paradigm: V_minus_1_empty
+ -flex: .т|а<.>.<.>
+  gramm: 1.io,pl.io,dat,alt_stem
+  gloss: 1PL.IO|DAT
+  regex-stem: ^[^аеёиоуыэюя]*[оэе][.,<>0-9]*$
+  paradigm: V_plus_1
  -flex: .т<.>.<.>
   gramm: 1.io,pl.io,dat
   gloss: 1PL.IO
@@ -2674,6 +2707,11 @@
   paradigm: V_minus_2_3
   paradigm: V_minus_1
   paradigm: V_minus_1_empty
+ -flex: <0>.з|а<.>.<.>
+  gramm: rfl.io,dat,alt_stem
+  gloss: RFL.IO|DAT
+  regex-stem: ^[^аеёиоуыэюя]*[оэе][.,<>0-9]*$
+  paradigm: V_plus_1
  -flex: .зэ|р<.>.<.>
   gramm: rfl.io,dat
   gloss: RFL.IO|DAT
@@ -2684,6 +2722,11 @@
   gloss: REL.IO|DAT
   paradigm: V_minus_4
   regex-next: ^[.,<>0-9]*[иа].*
+ -flex: <0>.за|р<.>.<.>
+  gramm: rfl.io,dat,alt_stem
+  gloss: RFL.IO|DAT
+  regex-stem: ^[^аеёиоуыэюя]*[оэе][.,<>0-9]*$
+  paradigm: V_plus_1
  -flex: .з<.>.<.>
   gramm: rfl.io,dat
   gloss: RFL.IO|DAT
@@ -2698,6 +2741,11 @@
   paradigm: V_minus_1
   paradigm: V_minus_1_empty
   paradigm: V_minus_4_intr
+ -flex: <0>.с|а<.>.<.>
+  gramm: 1.io,sg.io,dat,alt_stem
+  gloss: 1SG.IO|DAT
+  regex-stem: ^[^аеёиоуыэюя]*[оэе][.,<>0-9]*$
+  paradigm: V_plus_1
  -flex: .с<.>.<.>
   gramm: 1.io,sg.io,dat
   gloss: 1SG.IO
@@ -2717,6 +2765,11 @@
   paradigm: V_minus_1
   paradigm: V_minus_1_empty
   paradigm: V_minus_4_intr
+ -flex: <0>.п|а<.>.<.>
+  gramm: 2.io,sg.io,dat,alt_stem
+  gloss: 2SG.IO|DAT
+  regex-stem: ^[^аеёиоуыэюя]*[оэе][.,<>0-9]*$
+  paradigm: V_plus_1
  -flex: .е<.>.<.>
   gramm: 3.io,sg.io,dat
   gloss: DAT
@@ -2745,6 +2798,11 @@
   paradigm: V_minus_1
   paradigm: V_minus_1_empty
   paradigm: V_minus_4_intr
+ -flex: <0>.т|а<.>.<.>
+  gramm: 1.io,pl.io,dat,alt_stem
+  gloss: 1PL.IO|DAT
+  regex-stem: ^[^аеёиоуыэюя]*[оэе][.,<>0-9]*$
+  paradigm: V_plus_1
  -flex: .т<.>.<.>
   gramm: 1.io,pl.io,dat
   gloss: 1PL.IO
@@ -2781,11 +2839,21 @@
   paradigm: V_minus_1
   paradigm: V_minus_1_empty
   paradigm: V_minus_4_intr
+ -flex: .з|а<.>.<.>
+  gramm: rfl.io,dat,alt_stem
+  gloss: RFL.IO|DAT
+  regex-stem: ^[^аеёиоуыэюя]*[оэе][.,<>0-9]*$
+  paradigm: V_plus_1
  -flex: .зэ|р<.>.<.>
   gramm: rfl.io,dat
   gloss: RFL.IO|DAT
   paradigm: V_minus_4_intr
   regex-next: ^[.,<>0-9]*[иа].*
+ -flex: <0>.за|р<.>.<.>
+  gramm: rfl.io,dat,alt_stem
+  gloss: RFL.IO|DAT
+  regex-stem: ^[^аеёиоуыэюя]*[оэе][.,<>0-9]*$
+  paradigm: V_plus_1
  -flex: .з<.>.<.>
   gramm: rfl.io,dat
   gloss: RFL.IO
@@ -3435,7 +3503,6 @@
  -flex: <0>.хэ|щт<.>//<0>.хэ|щты<.>
   gramm: aux,inc
   gloss: INC|FUT
-
  -flex: <0>.пэ<.>
   gramm: asrt
   gloss: ASRT
@@ -3443,6 +3510,7 @@
  -flex: <0>.па<.>
   gramm: asrt,alt_stem
   gloss: ASRT
+  regex-prev-gramm: ^(.(?!V))*$
  -flex: <0>.па|гъ<.>//<0>.па|гъэ<.>
   gramm: asrt,pst,alt_stem
   gloss: ASRT|PST
@@ -3452,7 +3520,21 @@
  -flex: <0>.жьы|пэ<.>//<0>.жьы|пэ<.>
   gramm: re,asrt
   gloss: RE|ASRT
-
+ -flex: <0,1>.къо<.>
+  gramm: appr
+  gloss: APPR
+ -flex: <0>.къуа<.>
+  gramm: appr, alt_stem
+  gloss: APPR
+ -flex: <0>.гъэ|къо<.>
+  gramm: pst,appr
+  gloss: PST|APPR
+ -flex: <0>.гъэ|къуа<.>
+  gramm: pst,appr,alt_stem
+  gloss: PST|APPR
+ -flex: <0>.гъа|къо<.>
+  gramm: pst,appr,alt_stem
+  gloss: PST|APPR
  paradigm: V_plus_3
  paradigm: V_plus_4
  paradigm: V_plus_5_mod

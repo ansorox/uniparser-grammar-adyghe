@@ -1454,14 +1454,6 @@
 -lex_rule
  -search
   stem: .джы.
-  wfGlossed: джыы?[+-]дэд[аэ]ы?[+-].*м(?:ы?[+-]|$)
- -add
-  lex2: джыдэдэм
-  gramm2: ADV  
-  trans_ru2: теперь
--lex_rule
- -search
-  stem: .джы.
   wfGlossed: джыы?[+-]ри(?:ы?[+-]|$)
  -add
   lex2: джыри
