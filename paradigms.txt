@@ -49,7 +49,6 @@
   gramm: 
   paradigm: S_aug
   paradigm: S_car
-  paradigm: S_int
   paradigm: S_incorp
   paradigm: S_nmlz
  -flex: <0,2>.<.>
@@ -71,7 +70,7 @@
   gramm: 
   paradigm: S_aug
   paradigm: S_car
-  paradigm: S_int
+  paradigm: A_int
   paradigm: S_incorp
   paradigm: S_nmlz
   paradigm: poly_INT_incorp
@@ -100,7 +99,6 @@
   gloss: DIR
   paradigm: S_aug
   paradigm: S_car
-  paradigm: S_int
   paradigm: S_incorp
   paradigm: S_nmlz
   paradigm: S_number
@@ -153,7 +151,6 @@
   gloss: 3PL.P+POSS|NEG
  paradigm: S_aug
  paradigm: S_car
- paradigm: S_int
  paradigm: S_incorp
  paradigm: S_nmlz
  paradigm: S_number
@@ -257,7 +254,6 @@
   gloss: NEG
  paradigm: S_aug
  paradigm: S_car
- paradigm: S_int
  paradigm: S_nmlz
  paradigm: S_incorp
  paradigm: S_number
@@ -308,6 +304,10 @@
  -flex: ны.<.>
   gramm: dir
   gloss: DIR
+ -flex: нэ|мы.<.>
+  gramm: dir,neg
+  gloss: DIR|NEG
+  paradigm: S_cond
  paradigm: S_number
  paradigm: V_possess_neg
 
@@ -332,11 +332,11 @@
  -flex: .с.<.>
   gramm: p.1sg
   gloss: 1SG.P
-  regex-stem: ^[.,<>0-9]*[аэикпстфхцчш].*
+  regex-stem: ^[.,<>0-9]*[аэикпстфхцчшл].*
  -flex: .сы.<.>
   gramm: p.1sg
   gloss: 1SG.P
-  regex-stem: ^[.,<>0-9]*[^аэикпстфхцчш.<>].*
+  regex-stem: ^[.,<>0-9]*[^аэикпстфхцчшл.<>].*
  -flex: .са.<.>
   gramm: p.1sg
   gloss: 1SG.P
@@ -344,22 +344,22 @@
  -flex: .п.<.>
   gramm: p.2sg
   gloss: 2SG.P
-  regex-stem: ^[.,<>0-9]*[аэикпстфхцчш].*
+  regex-stem: ^[.,<>0-9]*[аэикпстфхцчшл].*
  -flex: .у.<.>
   gramm: p.2sg
   gloss: 2SG.P
-  regex-stem: ^[.,<>0-9]*[^аэикпстфхцчш.<>].*
+  regex-stem: ^[.,<>0-9]*[^аэикпстфхцчшл.<>].*
  -flex: .уа.<.>
   gramm: p.2sg
   gloss: 2SG.P
-  regex-stem: ^[.,<>0-9]*[^аэикпстфхцчш.<>].*
+  regex-stem: ^[.,<>0-9]*[^аэикпстфхцчшл.<>].*
  -flex: .ы.<.>
   gramm: p.3sg
   gloss: 3SG.P
  -flex: .т.<.>
   gramm: p.1pl
   gloss: 1PL.P
-  regex-stem: ^[.,<>0-9]*[аэикпстфхцчш].*
+  regex-stem: ^[.,<>0-9]*[аэикпстфхцчшл].*
  -flex: .та.<.>
   gramm: p.1pl
   gloss: 1PL.P
@@ -367,7 +367,7 @@
  -flex: .ты.<.>
   gramm: p.1pl
   gloss: 1PL.P
-  regex-stem: ^[.,<>0-9]*[^аэикпстфхцчш.<>].*
+  regex-stem: ^[.,<>0-9]*[^аэикпстфхцчшл.<>].*
  -flex: .шъу.<.>
   gramm: p.2pl
   gloss: 2PL.P
@@ -410,7 +410,6 @@
   gloss: 3PL.P|NEG
  paradigm: S_aug
  paradigm: S_car
- paradigm: S_int
  paradigm: S_nmlz
  paradigm: S_incorp
  paradigm: S_number
@@ -444,12 +443,15 @@
   paradigm: S_number_NtoV
   paradigm: S_incorp_NtoV
 
--paradigm: S_int
+-paradigm: A_int
  -flex: .кӏэе<.>//.кӏэй<.>//.кӏэя<.>//.кӏае<.>//.кӏай<.>
-  gramm: int
-  gloss: INT
-  paradigm: S_number
-  paradigm: S_incorp
+  gramm: int, int_1
+  gloss: INT1
+ -flex: .бзэ<.>
+  gramm: int, int_2
+  gloss: INT2
+ paradigm: S_number
+ paradigm: S_incorp
 
 -paradigm: S_nmlz
  -flex: <0,1>.пӏэ<.>//<0,1>.пӏ<.>
