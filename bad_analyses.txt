@@ -60,5 +60,6 @@
   {"gramm": ".*nmlz.*", "gloss": ".*APPR.*"}, 
   {"gloss": ".*APPR-OBL.PL.*"},
   {"lemma": "дэдэ", "gloss": "3PL.P.*"},
-  {"gramm": "V,.*", "gloss": ".*STEM-OBL.*"}
+  {"gramm": "V,.*", "gloss": ".*STEM-OBL.*"},
+  {"gramm": "V,tr.*", "gloss": ".*(ABS|ERG|DYN).*(INT3|SEEM).*$"}
 ]
