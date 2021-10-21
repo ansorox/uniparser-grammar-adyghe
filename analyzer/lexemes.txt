@@ -4107,12 +4107,6 @@
  paradigm: poly_N
  trans_ru: Алина
 -lexeme
- lex: Алинэ
- stem: .алинэ.//.алин.
- gramm: N,persn
- paradigm: poly_N
- trans_ru: Алинэ
--lexeme
  lex: Алонсо
  stem: .алонсо.
  gramm: N,persn
@@ -5252,12 +5246,6 @@
  gramm: N,persn
  paradigm: poly_N
  trans_ru: Виллий
--lexeme
- lex: Вилле
- stem: .вилле.
- gramm: N,persn
- paradigm: poly_N
- trans_ru: Вилля
 -lexeme
  lex: Вильнюс
  stem: .вильнюс.//.вильнюсы.
@@ -6861,12 +6849,6 @@
  paradigm: poly_N
  trans_ru: Карино
 -lexeme
- lex: Каринэ
- stem: .каринэ.//.карин.
- gramm: N,persn
- paradigm: poly_N
- trans_ru: Каринэ
--lexeme
  lex: Карлос
  stem: .карлос.//.карлосы.
  gramm: N,persn
@@ -7250,12 +7232,6 @@
  gramm: N,persn
  paradigm: poly_N
  trans_ru: Кристино
--lexeme
- lex: Кристинэ
- stem: .кристинэ.//.кристин.
- gramm: N,persn
- paradigm: poly_N
- trans_ru: Кристинэ
 -lexeme
  lex: Кристоф
  stem: .кристоф.//.кристофы.
@@ -8840,12 +8816,6 @@
  gramm: N,famn
  paradigm: poly_N
  trans_ru: Петросян
--lexeme
- lex: Петрэ
- stem: .петрэ.//.петр.
- gramm: N,persn
- paradigm: poly_N
- trans_ru: Петрэ
 -lexeme
  lex: Пианинэ
  stem: .пианинэ.//.пианин.
@@ -68088,13 +68058,7 @@
  stem: .бзэджэ.//.бзэдж.|.бзэджа.|.бзаджэ.//.бзадж.
  gramm: A|A,alt_stem,alt_stem1|A,alt_stem,alt_stem2
  paradigm: poly_A
- trans_ru: балованный; вредный
--lexeme
- lex: бзаджэ
- stem: .бзэджэ.//.бзэдж.|.бзэджа.|.бзаджэ.//.бзадж.
- gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
- paradigm: poly_N
- trans_ru: проказник
+ trans_ru: балованный
 -lexeme
  lex: бзы
  stem: .бзы.//.бз.
@@ -68166,7 +68130,7 @@
  stem: .бзэджэшӏэ.//.бзэджэшӏ.|.бзэджэшӏа.|.бзэджашӏэ.//.бзэджашӏ.
  gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
  paradigm: poly_N
- trans_ru: злодей; преступник; правонарушитель
+ trans_ru: преступник; хулиган
 -lexeme
  lex: бзэджэн
  stem: .бзэджэ.//.бзэдж.|.бзэджа.|.бзаджэ.//.бзадж.
@@ -68222,23 +68186,11 @@
  paradigm: poly_A
  trans_ru: близкий
 -lexeme
- lex: благъэ
- stem: .блэгъэ.//.блэгъ.|.блэгъа.|.благъэ.//.благъ.
- gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
- paradigm: poly_N
- trans_ru: приятель; близкий человек
--lexeme
  lex: бланэ
  stem: .блэнэ.//.блэн.|.блэна.|.бланэ.//.блан.
  gramm: A|A,alt_stem,alt_stem1|A,alt_stem,alt_stem2
  paradigm: poly_A
  trans_ru: смелый
--lexeme
- lex: бланэ
- stem: .блэнэ.//.блэн.|.блэна.|.бланэ.//.блан.
- gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
- paradigm: poly_N
- trans_ru: силач
 -lexeme
  lex: блы
  stem: .блы.//.бл.
@@ -68443,7 +68395,7 @@
  stem: .быу.
  gramm: V,intr
  paradigm: poly_V_intr
- trans_ru: рычать; мычать; гудеть
+ trans_ru: мычать; гудеть
 -lexeme
  lex: быхъу
  stem: .быхъу.
@@ -68461,7 +68413,7 @@
  stem: .быӏобыщ.//.быӏобыщы.
  gramm: A
  paradigm: poly_A
- trans_ru: корявый; искривленный; кривобокий
+ trans_ru: кривобокий
 -lexeme
  lex: бэ
  stem: .бэ.|.ба.|.бэ.
@@ -68749,13 +68701,7 @@
  stem: .гопэгъу.
  gramm: N
  paradigm: poly_N
- trans_ru: духота
--lexeme
- lex: гопэгъу
- stem: .гопэгъу.
- gramm: A
- paradigm: poly_A
- trans_ru: душный
+ trans_ru: духота, беспокойство
 -lexeme
  lex: пэн
  stem: .пэн.//.пэны.
@@ -68900,7 +68846,7 @@
  stem: .гугъэ.//.гугъ.|.гугъа.|.гугъэ.//.гугъ.
  gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr
  paradigm: poly_V_intr
- trans_ru: считать; надеяться; намереваться
+ trans_ru: надеяться; полагать
 -lexeme
  lex: гугъэуз
  stem: .гугъэуз.//.гугъэузы.
@@ -68948,7 +68894,7 @@
  stem: .гукъау.
  gramm: N
  paradigm: poly_N
- trans_ru: досада; печаль; обида; кручина
+ trans_ru: печаль
 -lexeme
  lex: гукъэкӏыжь
  stem: .гукъэкӏыжь.//.гукъэкӏыжьы.
@@ -69052,12 +68998,6 @@
  gramm: A|A,alt_stem,alt_stem1|A
  paradigm: poly_A
  trans_ru: отзывчивый
--lexeme
- lex: гупсэ
- stem: .гупсэ.//.гупс.|.гупса.|.гупсэ.//.гупс.
- gramm: N|N,alt_stem,alt_stem1|N
- paradigm: poly_N
- trans_ru: милый
 -lexeme
  lex: гупсэфын
  stem: .гупсэфы.//.гупсэф.
@@ -69270,12 +69210,6 @@
  trans_ru: говорить
 -lexeme
  lex: гуӏэн
- stem: .гуӏэн.//.гуӏан.//.гуӏэны.//.гуӏаны.
- gramm: N
- paradigm: poly_N
- trans_ru: спешка
--lexeme
- lex: гуӏэн
  stem: .гуӏэ.//.гуӏ.|.гуӏа.|.гуӏэ.//.гуӏ.
  gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr
  paradigm: poly_V_intr
@@ -69432,12 +69366,6 @@
  paradigm: poly_V_intr
  trans_ru: закоптиться
 -lexeme
- lex: гъотын
- stem: .гъоты.//.гъот.
- gramm: V,intr
- paradigm: poly_V_intr
- trans_ru: найти; получить
--lexeme
  lex: гъоу
  stem: .гъоу.
  gramm: N
@@ -69539,13 +69467,13 @@
  stem: .гъу.
  gramm: V,intr
  paradigm: poly_V_intr
- trans_ru: вянуть; сушиться
+ trans_ru: усыхать
 -lexeme
  lex: гъунапкъ
  stem: .гъунэпкъэ.//.гъунэпкъ.|.гъунэпкъа.|.гъунапкъэ.//.гъунапкъ.
  gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
  paradigm: poly_N
- trans_ru: линия; граница; межа
+ trans_ru: граница
 -lexeme
  lex: гъундж
  stem: .гъунджэ.//.гъундж.|.гъунджа.|.гъунджэ.//.гъундж.
@@ -69764,12 +69692,6 @@
  paradigm: poly_N
  trans_ru: курок
 -lexeme
- lex: тӏыргъон
- stem: .тӏыргъо.//.тӏыргъу.|.тӏыргъуа.|.тӏыргъо.//.тӏыргъу.
- gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr
- paradigm: poly_V_intr
- trans_ru: завиваться
--lexeme
  lex: укӏорэин
  stem: .укӏорэи.
  gramm: V,intr
@@ -69822,7 +69744,7 @@
  stem: .шӏоӏу.
  gramm: V,intr
  paradigm: poly_V_intr
- trans_ru: закваситься; засолиться; прокиснуть
+ trans_ru: прокисать
 -lexeme
  lex: гъэшӏэгъоны
  stem: .гъэшӏэгъоны.//.гъэшӏэгъон.
@@ -69859,7 +69781,7 @@
  stem: .дэгъэ.//.дэгъ.|.дэгъа.|.дагъэ.//.дагъ.
  gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
  paradigm: poly_N
- trans_ru: масло; сало; жир
+ trans_ru: масло
 -lexeme
  lex: дао
  stem: .дэо.//.дэу.|.дэуа.|.дао.//.дау.
@@ -70027,7 +69949,7 @@
  stem: .джэ.//.дж.|.джа.|.джэ.//.дж.
  gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr
  paradigm: poly_V_intr
- trans_ru: звать; читать
+ trans_ru: звать
 -lexeme
  lex: джэнджэш
  stem: .джэнджэшы.//.джэнджэш.
@@ -70221,13 +70143,13 @@
  stem: .дэ.|.да.|.дэ.
  gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr
  paradigm: poly_V_intr
- trans_ru: шить;соглашаться;позволять
+ trans_ru: шить
 -lexeme
  lex: дэн
  stem: .дэ.|.да.|.дэ.
  gramm: V,tr|V,tr,alt_stem,alt_stem1|V,tr
  paradigm: poly_V_tr
- trans_ru: согласовывать
+ trans_ru: позволять
 -lexeme
  lex: дэнэшӏ
  stem: .дэнэшӏ.//.дэнэшӏы.
@@ -70245,7 +70167,7 @@
  stem: .пшы.//.пш.
  gramm: V,intr
  paradigm: poly_V_intr
- trans_ru: ползти;мерить;месить
+ trans_ru: ползти; мерить; месить
 -lexeme
  lex: дэхэнапцэ
  stem: .дэхэнэпцэ.//.дэхэнэпц.|.дэхэнэпца.|.дэхэнапцэ.//.дэхэнапц.
@@ -70293,7 +70215,7 @@
  stem: .бэджы.//.бэдж.
  gramm: V,intr,dat_v
  paradigm: poly_V_intr
- trans_ru: упасть; полететь; валиться
+ trans_ru: падать
 -lexeme
  lex: ебэн
  stem: .бэ.|.ба.|.бэ.
@@ -70337,12 +70259,6 @@
  paradigm: poly_V_intr
  trans_ru: постараться
 -lexeme
- lex: егупшысэн
- stem: .гупшысэ.//.гупшыс.|.гупшыса.|.гупшысэ.//.гупшыс.
- gramm: V,intr,dat_v|V,intr,alt_stem,alt_stem1,dat_v|V,intr,dat_v
- paradigm: poly_V_intr
- trans_ru: думать
--lexeme
  lex: егуцэфэн
  stem: .гуцэфэ.//.гуцэф.|.гуцэфа.|.гуцафэ.//.гуцаф.
  gramm: V,intr,dat_v|V,intr,alt_stem,alt_stem1,dat_v|V,intr,alt_stem,alt_stem2,dat_v
@@ -70359,7 +70275,7 @@
  stem: .гъу.
  gramm: V,intr,dat_v
  paradigm: poly_V_intr
- trans_ru: грызть; обглодать
+ trans_ru: грызть
 -lexeme
  lex: егыин
  stem: .гыи.
@@ -70377,7 +70293,7 @@
  stem: .джэ.//.дж.|.джа.|.джэ.//.дж.
  gramm: V,intr,dat_v|V,intr,alt_stem,alt_stem1,dat_v|V,intr,dat_v
  paradigm: poly_V_intr
- trans_ru: читать; учиться; звать
+ trans_ru: читать; учиться
 -lexeme
  lex: еджэнджэшын
  stem: .джэнджэшы.//.джэнджэш.
@@ -70419,31 +70335,19 @@
  stem: .зэгъы.//.зэгъ.
  gramm: V,intr,dat_v
  paradigm: poly_V_intr
- trans_ru: смириться;согласиться
--lexeme
- lex: езэон
- stem: .зэ-о.//.зэ-у.|.зэ-уа.|.за-о.//.за-у.
- gramm: V,intr,dat_v|V,intr,alt_stem,alt_stem1,dat_v|V,intr,alt_stem,alt_stem2,dat_v
- paradigm: poly_V_intr
- trans_ru: воевать; биться
+ trans_ru: соглашаться
 -lexeme
  lex: езэщын
  stem: .зэщы.//.зэщ.
  gramm: V,intr,dat_v
  paradigm: poly_V_intr
- trans_ru: измотаться;устать
+ trans_ru: уставать
 -lexeme
  lex: екӏун
  stem: .кӏу.
  gramm: V,intr,dat_v
  paradigm: poly_V_intr
  trans_ru: соответствовать; подходить
--lexeme
- lex: елъэн
- stem: .лъэ.//.лъ.|.лъа.|.лъэ.//.лъ.
- gramm: V,intr,dat_v|V,intr,alt_stem,alt_stem1,dat_v|V,intr,dat_v
- paradigm: poly_V_intr
- trans_ru: прыгнуть
 -lexeme
  lex: елъэӏун
  stem: .лъэӏу.
@@ -70469,35 +70373,29 @@
  paradigm: poly_V_intr
  trans_ru: обольститься
 -lexeme
- lex: еон
- stem: .о.|.уа.|.о.
- gramm: V,intr,dat_v|V,intr,alt_stem,alt_stem1,dat_v|V,intr,dat_v
- paradigm: poly_V_intr
- trans_ru: бить
--lexeme
  lex: епкун
  stem: .пку.
  gramm: V,intr,dat_v
  paradigm: poly_V_intr
  trans_ru: рискнуть
--lexeme
- lex: епкӏын
- stem: .пкӏы.//.пкӏ.
- gramm: V,intr,dat_v
- paradigm: poly_V_intr
- trans_ru: липнуть; клеиться
+# -lexeme
+# lex: епкӏын
+# stem: .пкӏы.//.пкӏ.
+# gramm: V,intr,dat_v
+# paradigm: poly_V_intr
+# trans_ru: клеиться
 -lexeme
  lex: епкӏэн
  stem: .пкӏэ.//.пкӏ.|.пкӏа.|.пкӏэ.//.пкӏ.
  gramm: V,intr,dat_v|V,intr,alt_stem,alt_stem1,dat_v|V,intr,dat_v
  paradigm: poly_V_intr
- trans_ru: перепрыгнуть
+ trans_ru: перепрыгивать
 -lexeme
  lex: еплъын
  stem: .плъы.//.плъ.
  gramm: V,intr,dat_v
  paradigm: poly_V_intr
- trans_ru: взглянуть; отведать; высмотреть
+ trans_ru: смотреть
 -lexeme
  lex: епщэн
  stem: .пщэ.//.пщ.|.пща.|.пщэ.//.пщ.
@@ -70547,12 +70445,6 @@
  paradigm: poly_V_intr
  trans_ru: схватить
 -lexeme
- lex: етын
- stem: .ты.//.т.
- gramm: V,tr,dat_v
- paradigm: poly_V_tr
- trans_ru: дать; вручить
--lexeme
  lex: етэн
  stem: .тэ.|.та.|.тэ.
  gramm: V,intr,dat_v|V,intr,alt_stem,alt_stem1,dat_v|V,intr,dat_v
@@ -70581,13 +70473,7 @@
  stem: .етӏэф.//.етӏэфы.
  gramm: N
  paradigm: poly_N
- trans_ru: мел; известка; известь; извёстка
--lexeme
- lex: еубзэн
- stem: .убзэ.//.убз.|.убза.|.убзэ.//.убз.
- gramm: V,intr,dat_v|V,intr,alt_stem,alt_stem1,dat_v|V,intr,dat_v
- paradigm: poly_V_intr
- trans_ru: заискивать
+ trans_ru: известь
 -lexeme
  lex: еужьырын
  stem: .ужьыры.//.ужьыр.
@@ -70605,7 +70491,7 @@
  stem: .упчӏы.//.упчӏ.
  gramm: V,intr,dat_v
  paradigm: poly_V_intr
- trans_ru: порасспросить
+ trans_ru: спрашивать
 -lexeme
  lex: еутхын
  stem: .утхы.//.утх.
@@ -70649,12 +70535,6 @@
  paradigm: poly_V_intr
  trans_ru: поругать
 -lexeme
- lex: ехъопсэн
- stem: .хъопсэ.//.хъопс.|.хъопса.|.хъуапсэ.//.хъуапс.
- gramm: V,intr,dat_v|V,intr,alt_stem,alt_stem1,dat_v|V,intr,alt_stem,alt_stem2,dat_v
- paradigm: poly_V_intr
- trans_ru: завидовать; соблазниться
--lexeme
  lex: ехъырэхъышэн
  stem: .хъырэхъышэ.//.хъырэхъыш.|.хъырэхъыша.|.хъырэхъышэ.//.хъырэхъыш.
  gramm: V,intr,dat_v|V,intr,alt_stem,alt_stem1,dat_v|V,intr,dat_v
@@ -70665,7 +70545,7 @@
  stem: .хы.//.х.
  gramm: V,intr,dat_v
  paradigm: poly_V_intr
- trans_ru: сойти; спуститься
+ trans_ru: спускаться
 -lexeme
  lex: ехьщыр
  stem: .хьщыр.//.хьщыры.
@@ -70689,7 +70569,7 @@
  stem: .цэкъэ.//.цэкъ.|.цэкъа.|.цакъэ.//.цакъ.
  gramm: V,intr,dat_v|V,intr,alt_stem,alt_stem1,dat_v|V,intr,alt_stem,alt_stem2,dat_v
  paradigm: poly_V_intr
- trans_ru: закусить; кусать; отведать; ужалить; надкусить
+ trans_ru: кусать
 -lexeme
  lex: ецэлэшхэн
  stem: .цэлэшхэ.//.цэлэшх.|.цэлэшха.|.цэлашхэ.//.цэлашх.
@@ -70807,12 +70687,6 @@
  paradigm: poly_A
  trans_ru: неторопливый
 -lexeme
- lex: жъажъ
- stem: .жъажъ.//.жъажъы.
- gramm: N
- paradigm: poly_N
- trans_ru: увалень
--lexeme
  lex: жъалым
  stem: .жъалымэ.//.жъалым.|.жъалыма.|.жъалымэ.//.жъалым.
  gramm: A|A,alt_stem,alt_stem1|A
@@ -70841,13 +70715,13 @@
  stem: .жъо.//.жъу.|.жъуа.|.жъо.//.жъу.
  gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr
  paradigm: poly_V_intr
- trans_ru: кипеть; вариться; вспахать
+ trans_ru: кипеть; вариться; пахать
 -lexeme
  lex: жъоркъ
  stem: .жъоркъ.//.жъоркъы.
  gramm: N
  paradigm: poly_N
- trans_ru: жара; жар; зной
+ trans_ru: жара; знойный
 -lexeme
  lex: жъуагъо
  stem: .жъогъо.//.жъогъу.|.жъогъуа.|.жъуагъо.//.жъуагъу.
@@ -70879,17 +70753,11 @@
  paradigm: poly_N
  trans_ru: напев
 -lexeme
- lex: жъыун
- stem: .жъыу.
- gramm: V,intr
- paradigm: poly_V_intr
- trans_ru: блестеть; блестеть; лосниться
--lexeme
  lex: жъыон
  stem: .жъыо.//.жъыу.|.жъыуа.|.жъыо.//.жъыу.
  gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr
  paradigm: poly_V_intr
- trans_ru: блестеть; блестеть; лосниться
+ trans_ru: блестеть
 -lexeme
  lex: жъэжъый
  stem: .жъэжъый.//.жъэжъыи.
@@ -70969,7 +70837,7 @@
  stem: .загъорэ.//.загъор.|.загъора.|.загъуарэ.//.загъуар.
  gramm: ADV|ADV,alt_stem,alt_stem1|ADV,alt_stem,alt_stem2
  paradigm: poly_ADV
- trans_ru: иногда; изредка; урывками
+ trans_ru: иногда
 -lexeme
  lex: законопроект
  stem: .законопроект.//.законопроекты.
@@ -71005,7 +70873,7 @@
  stem: .зэо.//.зэу.|.зэуа.|.зао.//.зау.
  gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
  paradigm: poly_N
- trans_ru: война; бой; битва
+ trans_ru: война; битва
 -lexeme
  lex: заседание
  stem: .заседание.|.заседания.|.заседание.
@@ -71121,18 +70989,6 @@
  paradigm: poly_V_intr
  trans_ru: присмиреть
 -lexeme
- lex: зэгъын
- stem: .зэгъ.//.зэгъы.
- gramm: V,intr
- paradigm: poly_V_intr
- trans_ru: присмиреть
--lexeme
- lex: зэгъын
- stem: .зэгъ.//.зэгъы.
- gramm: V,tr
- paradigm: poly_V_tr
- trans_ru: присмиреть
--lexeme
  lex: зэешъогъу
  stem: .зэешъогъу.
  gramm: N
@@ -71197,7 +71053,7 @@
  stem: .зэо.//.зэу.|.зэуа.|.зао.//.зау.
  gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr,alt_stem,alt_stem2
  paradigm: poly_V_intr
- trans_ru: воевать
+ trans_ru: воевать; биться
 -lexeme
  lex: зэрар
  stem: .зэрар.//.зэрары.
@@ -71246,7 +71102,7 @@
  stem: .зэщы.//.зэщ.
  gramm: V,intr
  paradigm: poly_V_intr
- trans_ru: сокрушаться;скучать
+ trans_ru: скучать
 -lexeme
  lex: и
  stem: .и.
@@ -71329,12 +71185,6 @@
  lex: инвентарнэ
  stem: .инвентэрнэ.//.инвентэрн.|.инвентэрна.|.инвентарнэ.//.инвентарн.
  gramm: A|A,alt_stem,alt_stem1|A,alt_stem,alt_stem2
- paradigm: poly_A
- trans_ru: инвентарный
--lexeme
- lex: инвентарь
- stem: .инвентарь.//.инвентарьы.
- gramm: A
  paradigm: poly_A
  trans_ru: инвентарный
 -lexeme
@@ -71824,12 +71674,6 @@
  paradigm: poly_A
  trans_ru: конфликтный
 -lexeme
- lex: концерт
- stem: .концерт.//.концерты.
- gramm: N
- paradigm: poly_N
- trans_ru: афиша
--lexeme
  lex: концертнэ
  stem: .концертнэ.//.концертн.|.концертна.|.концяртнэ.//.концяртн.
  gramm: A|A,alt_stem,alt_stem1|A,alt_stem,alt_stem2
@@ -71960,7 +71804,7 @@
  stem: .ку.
  gramm: N
  paradigm: poly_N_inalien
- trans_ru: тело, ствол; подвода; арба
+ trans_ru: тело, ствол; телега
 -lexeme
  lex: куанд
  stem: .кондэ.//.конд.|.конда.|.куандэ.//.куанд.
@@ -72014,7 +71858,7 @@
  stem: .куо.//.куу.|.кууа.|.куо.//.куу.
  gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr
  paradigm: poly_V_intr
- trans_ru: кричать; орать
+ trans_ru: кричать
 -lexeme
  lex: куп
  stem: .куп.//.купы.
@@ -72026,7 +71870,7 @@
  stem: .купкӏ.//.купкӏы.
  gramm: N
  paradigm: poly_N
- trans_ru: мякиш; зародыш;сердцевина;ядро
+ trans_ru: сердцевина
 -lexeme
  lex: курдскэ
  stem: .курдскэ.//.курдск.|.курдска.|.курдскэ.//.курдск.
@@ -72158,7 +72002,7 @@
  stem: .къарыу.
  gramm: N
  paradigm: poly_N_inalien
- trans_ru: сила; мощность; мощь; сила; энергия; мощность; мощь
+ trans_ru: сила
 -lexeme
  lex: къарэ
  stem: .къэрэ.//.къэр.|.къэра.|.къарэ.//.къар.
@@ -72184,17 +72028,11 @@
  paradigm: poly_N
  trans_ru: крест
 -lexeme
- lex: епкӏын
- stem: .пкӏы.//.пкӏ.
- gramm: V,intr,dat_v
- paradigm: poly_V_intr
- trans_ru: налипнуть
--lexeme
  lex: къин
  stem: .къин.//.къины.
  gramm: A
  paradigm: poly_A
- trans_ru: тягостный; тяжкий; мудрёный
+ trans_ru: трудный
 -lexeme
  lex: къо
  stem: .къо.//.къу.|.къуа.|.къо.//.къу.
@@ -72494,13 +72332,13 @@
  stem: .къутэ.//.къут.|.къута.|.къутэ.//.къут.
  gramm: V,tr|V,tr,alt_stem,alt_stem1|V,tr
  paradigm: poly_V_tr
- trans_ru: бить; ломать; разбить; взорвать; колотить; разбиться; наколоть; испортить; портиться; попортиться
+ trans_ru: ломать
 -lexeme
  lex: къутын
  stem: .къут.//.къуты.
  gramm: V,tr
  paradigm: poly_V_tr
- trans_ru: бить; ломать; разбить; взорвать; колотить; разбиться; наколоть; испортить; портиться; попортиться
+ trans_ru: ломать
 -lexeme
  lex: къухьэ
  stem: .къухьэ.//.къухь.|.къухьа.|.къухьэ.//.къухь.
@@ -72525,7 +72363,7 @@
  stem: .бгурыӏо.//.бгурыӏу.|.бгурыӏуа.|.бгурыӏо.//.бгурыӏу.
  gramm: V,tr|V,tr,alt_stem,alt_stem1|V,tr
  paradigm: poly_V_tr
- trans_ru: воспринять; уловить; воспринять
+ trans_ru: воспринимать
 -lexeme
  lex: къыблэ
  stem: .къыблэ.//.къыбл.|.къыбла.|.къыблэ.//.къыбл.
@@ -72538,12 +72376,6 @@
  gramm: A
  paradigm: poly_A
  trans_ru: красноречивый
--lexeme
- lex: гурыӏон
- stem: .гурыӏо.//.гурыӏу.|.гурыӏуа.|.гурыӏо.//.гурыӏу.
- gramm: V,tr|V,tr,alt_stem,alt_stem1|V,tr
- paradigm: poly_V_tr
- trans_ru: сообразить; прочувствовать
 -lexeme
  lex: къыкъы
  stem: .къыкъы.//.къыкъ.
@@ -72561,7 +72393,7 @@
  stem: .къы.//.къ.
  gramm: V,intr
  paradigm: poly_V_intr
- trans_ru: млеть; каменеть; застыть; оторопеть
+ trans_ru: застыть
 -lexeme
  lex: къыргъыз
  stem: .къыргъыз.//.къыргъызы.
@@ -72687,7 +72519,7 @@
  stem: .кӏухьа.
  gramm: V,tr
  paradigm: poly_V_tr
- trans_ru: двигаться; обойти; путешествовать; проходить; прогуляться; объехать; разгуливать
+ trans_ru: путешествовать
 -lexeme
  lex: кӏын
  stem: .кӏы.//.кӏ.
@@ -72975,7 +72807,7 @@
  stem: .кӏосэ.//.кӏос.|.кӏоса.|.кӏуасэ.//.кӏуас.
  gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr,alt_stem,alt_stem2
  paradigm: poly_V_intr
- trans_ru: догореть; выключиться; затухнуть
+ trans_ru: выключаться; затухать
 -lexeme
  lex: кӏотэн
  stem: .кӏотэ.//.кӏот.|.кӏота.|.кӏуатэ.//.кӏуат.
@@ -73006,7 +72838,7 @@
  stem: .кӏочӏэ.//.кӏочӏ.|.кӏочӏа.|.кӏуачӏэ.//.кӏуачӏ.
  gramm: A|A,alt_stem,alt_stem1|A,alt_stem,alt_stem2
  paradigm: poly_A
- trans_ru: крепкий
+ trans_ru: сильный
 -lexeme
  lex: кӏуачӏэ
  stem: .кӏочӏэ.//.кӏочӏ.|.кӏочӏа.|.кӏуачӏэ.//.кӏуачӏ.
@@ -73036,7 +72868,7 @@
  stem: .кӏыи.
  gramm: V,intr
  paradigm: poly_V_intr
- trans_ru: кричать; визжать; визжать; прокричать
+ trans_ru: визжать
 -lexeme
  lex: кӏым-сым
  stem: .кӏым-сым.//.кӏым-сымы.
@@ -73123,7 +72955,7 @@
  stem: .кӏэкӏы.//.кӏэкӏ.
  gramm: A
  paradigm: poly_A
- trans_ru: короткий; краткий; короткий; немногословный; непродолжительный
+ trans_ru: короткий; краткий
 -lexeme
  lex: кӏэлъигъабзэу
  stem: .кӏэлъигъабзэу.
@@ -73219,7 +73051,7 @@
  stem: .кӏэрэкӏэ.//.кӏэрэкӏ.|.кӏэрэкӏа.|.кӏэракӏэ.//.кӏэракӏ.
  gramm: A|A,alt_stem,alt_stem1|A,alt_stem,alt_stem2
  paradigm: poly_A
- trans_ru: модный; красивый; украшенный
+ trans_ru: красивый
 -lexeme
  lex: кӏэрахъу
  stem: .кӏэрэхъо.//.кӏэрэхъу.|.кӏэрэхъуа.|.кӏэрахъо.//.кӏэрахъу.
@@ -73357,7 +73189,7 @@
  stem: .лъэгэ.//.лъэг.|.лъэга.|.лъагэ.//.лъаг.
  gramm: A|A,alt_stem,alt_stem1|A,alt_stem,alt_stem2
  paradigm: poly_A
- trans_ru: высокий; видный; рослый
+ trans_ru: высокий
 -lexeme
  lex: лъакъо
  stem: .лъэкъо.//.лъэкъу.|.лъэкъуа.|.лъакъо.//.лъакъу.
@@ -73780,7 +73612,7 @@
  stem: .лыды.//.лыд.
  gramm: V,intr
  paradigm: poly_V_intr
- trans_ru: блестеть; сверкать; поблёскивать
+ trans_ru: блестеть
 -lexeme
  lex: лые
  stem: .лые.|.лыя.|.лые.
@@ -73849,28 +73681,10 @@
  paradigm: poly_A
  trans_ru: влажный
 -lexeme
- lex: лэжьын
- stem: .лэжьы.//.лэжь.
- gramm: V,tr
- paradigm: poly_V_tr
- trans_ru: обрабатывать
--lexeme
  lex: лэжьэн
  stem: .лэжьэ.//.лэжь.|.лэжьа.|.лажьэ.//.лажь.
  gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr,alt_stem,alt_stem2
  paradigm: poly_V_intr
- trans_ru: работать; изнашивать
--lexeme
- lex: лэжьын
- stem: .лэжь.//.лэжьы.
- gramm: V,intr
- paradigm: poly_V_intr
- trans_ru: работать; изнашивать
--lexeme
- lex: лэжьын
- stem: .лэжь.//.лэжьы.
- gramm: V,tr
- paradigm: poly_V_tr
  trans_ru: работать; изнашивать
 -lexeme
  lex: лэн
@@ -73929,15 +73743,9 @@
 -lexeme
  lex: лӏыхъужъ
  stem: .лӏыхъужъ.//.лӏыхъужъы.
- gramm: A
- paradigm: poly_A
- trans_ru: отважный
--lexeme
- lex: лӏыхъужъ
- stem: .лӏыхъужъ.//.лӏыхъужъы.
  gramm: N
  paradigm: poly_N
- trans_ru: герой
+ trans_ru: герой; отважный
 -lexeme
  lex: лӏэблан
  stem: .лӏэблан.//.лӏэбланы.
@@ -73973,7 +73781,7 @@
  stem: .лӏэхъупхъэ.//.лӏэхъупхъ.|.лӏэхъупхъа.|.лӏэхъупхъэ.//.лӏэхъупхъ.
  gramm: N|N,alt_stem,alt_stem1|N
  paradigm: poly_N
- trans_ru: молодец; молодец; молодчина
+ trans_ru: молодец
 -lexeme
  lex: магистраль
  stem: .магистраль.//.магистральы.
@@ -73997,7 +73805,7 @@
  stem: .мэжьэ.//.мэжь.|.мэжьа.|.мажьэ.//.мажь.
  gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
  paradigm: poly_N
- trans_ru: гребень; гребёнка; расчёска
+ trans_ru: гребень
 -lexeme
  lex: мазут
  stem: .мазут.//.мазуты.
@@ -74213,7 +74021,7 @@
  stem: .мэшэ.//.мэш.|.мэша.|.машэ.//.маш.
  gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
  paradigm: poly_N
- trans_ru: яма; впадина; ухаб
+ trans_ru: яма
 -lexeme
  lex: машӏо
  stem: .мэшӏо.//.мэшӏу.|.мэшӏуа.|.машӏо.//.машӏу.
@@ -74448,12 +74256,12 @@
  gramm: N
  paradigm: poly_N
  trans_ru: Мурат
--lexeme
- lex: мы
- stem: .мы.//.м.
- gramm: APRO
- paradigm: poly_APRO
- trans_ru: этот
+#-lexeme
+# lex: мы
+# stem: .мы.//.м.
+# gramm: APRO
+# paradigm: poly_APRO
+# trans_ru: этот
 -lexeme
  lex: мы
  stem: .мы.//.м.
@@ -74673,9 +74481,9 @@
 -lexeme
  lex: мэзахэ
  stem: .мэзэхэ.//.мэзэх.|.мэзэха.|.мэзахэ.//.мэзах.
- gramm: ADV|ADV,alt_stem,alt_stem1|ADV,alt_stem,alt_stem2
- paradigm: poly_ADV
- trans_ru: темно
+ gramm: A|A,alt_stem,alt_stem1|A,alt_stem,alt_stem2
+ paradigm: poly_A
+ trans_ru: темный
 -lexeme
  lex: мэзахэ
  stem: .мэзэхэ.//.мэзэх.|.мэзэха.|.мэзахэ.//.мэзах.
@@ -74994,7 +74802,7 @@
  stem: .нэщэ.//.нэщ.|.нэща.|.нащэ.//.нащ.
  gramm: A|A,alt_stem,alt_stem1|A,alt_stem,alt_stem2
  paradigm: poly_A
- trans_ru: косой; косоглазый; косоглазый; раскосый
+ trans_ru: косоглазый
 -lexeme
  lex: нейлоновэ
  stem: .нейлоновэ.//.нейлонов.|.нейлонова.|.нейлонуавэ.//.нейлонуав.
@@ -75084,7 +74892,7 @@
  stem: .ныбэ.//.ныб.|.ныба.|.ныбэ.//.ныб.
  gramm: N|N,alt_stem,alt_stem1|N
  paradigm: poly_N_inalien
- trans_ru: живот; желудок; брюхо
+ trans_ru: живот
 -lexeme
  lex: ныбэрый
  stem: .ныбэрый.//.ныбэрыи.
@@ -75429,11 +75237,11 @@
  paradigm: poly_ADV
  trans_ru: позже, после
 -lexeme
- lex: нэутх
- stem: .нэутх.//.нэутхы.
+ lex: нэутхэ
+ stem: .нэутхэ.//.нэутхы.
  gramm: A
  paradigm: poly_A
- trans_ru: живой; прыткий; изворотливый
+ trans_ru: живой; прыткий
 -lexeme
  lex: нэфынэ
  stem: .нэфынэ.//.нэфын.|.нэфына.|.нэфынэ.//.нэфын.
@@ -75481,7 +75289,7 @@
  stem: .нэшхъэи.
  gramm: V,intr
  paradigm: poly_V_intr
- trans_ru: горевать; грустить; печалиться; скорбеть; сокрушаться; погрустить; загрустить
+ trans_ru: грустить; скорбеть
 -lexeme
  lex: нэшъоупӏыцӏ
  stem: .нэшъоупӏыцӏ.//.нэшъоупӏыцӏы.
@@ -75607,13 +75415,13 @@
  stem: .олъэ.//.олъ.|.олъа.|.уалъэ.//.уалъ.
  gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr,alt_stem,alt_stem2
  paradigm: poly_V_intr
- trans_ru: волноваться; колебаться; бушевать
+ trans_ru: волноваться; колебаться
 -lexeme
  lex: он
  stem: .о.|.уа.|.о.
  gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr
  paradigm: poly_V_intr
- trans_ru: стрелять
+ trans_ru: бить; стрелять
 -lexeme
  lex: ондырыхъу
  stem: .ондырыхъу.
@@ -75709,13 +75517,13 @@
  stem: .отэр.//.отэры.
  gramm: N
  paradigm: poly_N
- trans_ru: группа;стая;куча
+ trans_ru: группа; куча
 -lexeme
  lex: охы
  stem: .охы.//.ох.
  gramm: N
  paradigm: poly_N
- trans_ru: лощина; лощина; низина
+ trans_ru: лощина
 -lexeme
  lex: очыл
  stem: .очыл.//.очылы.
@@ -75799,7 +75607,7 @@
  stem: .пачъыхьэ.//.пачъыхь.|.пачъыхьа.|.пачъыхьэ.//.пачъыхь.
  gramm: N|N,alt_stem,alt_stem1|N
  paradigm: poly_N
- trans_ru: государь; царь; король
+ trans_ru: правитель
 -lexeme
  lex: пашъхэ
  stem: .пэшъхэ.//.пэшъх.|.пэшъха.|.пашъхэ.//.пашъх.
@@ -75860,12 +75668,6 @@
  gramm: V,tr
  paradigm: poly_V_tr
  trans_ru: тянуть
--lexeme
- lex: къузын
- stem: .къузы.//.къуз.
- gramm: V,tr
- paradigm: poly_V_tr
- trans_ru: стиснуть
 -lexeme
  lex: къузэн
  stem: .къузэ.//.къуз.|.къуза.|.къузэ.//.къуз.
@@ -75943,7 +75745,7 @@
  stem: .пкӏ.//.пкӏы.
  gramm: V,tr
  paradigm: poly_V_tr
- trans_ru: утоптать
+ trans_ru: утаптывать
 -lexeme
  lex: пкӏыжьын
  stem: .пкӏыжьы.//.пкӏыжь.
@@ -75987,18 +75789,6 @@
  paradigm: poly_ADV
  trans_ru: напрокат
 -lexeme
- lex: пкӏэн
- stem: .пкӏэ.//.пкӏ.|.пкӏа.|.пкӏэ.//.пкӏ.
- gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr
- paradigm: poly_V_intr
- trans_ru: прыгать
--lexeme
- lex: пкӏэн
- stem: .пкӏэ.//.пкӏ.|.пкӏа.|.пкӏэ.//.пкӏ.
- gramm: V,tr|V,tr,alt_stem,alt_stem1|V,tr
- paradigm: poly_V_tr
- trans_ru: мостить; полоть
--lexeme
  lex: пкӏэнтӏэн
  stem: .пкӏэнтӏэ.//.пкӏэнтӏ.|.пкӏэнтӏа.|.пкӏантӏэ.//.пкӏантӏ.
  gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr,alt_stem,alt_stem2
@@ -76027,7 +75817,7 @@
  stem: .плъы.//.плъ.
  gramm: V,intr
  paradigm: poly_V_intr
- trans_ru: править; нагреться
+ trans_ru: нагреваться; смотреть
 -lexeme
  lex: плъырстыр
  stem: .плъырстыр.//.плъырстыры.
@@ -76076,12 +75866,6 @@
  gramm: N
  paradigm: poly_N
  trans_ru: помидор
--lexeme
- lex: поселкэ
- stem: .поселкэ.//.поселк.|.поселка.|.посялкэ.//.посялк.
- gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
- paradigm: poly_N
- trans_ru: поселок
 -lexeme
  lex: псау
  stem: .псау.
@@ -76389,12 +76173,6 @@
  paradigm: poly_N
  trans_ru: жеребьёвка;жребий
 -lexeme
- lex: пхъэдз
- stem: .пхъэдз.//.пхъэдзы.
- gramm: A
- paradigm: poly_A
- trans_ru: лотерейный
--lexeme
  lex: пхъэзэпых
  stem: .пхъэзэпых.//.пхъэзэпыхы.
  gramm: A
@@ -76585,7 +76363,7 @@
  stem: .пцӏы.//.пцӏ.
  gramm: N
  paradigm: poly_N
- trans_ru: ложь;клевета;фантазия
+ trans_ru: ложь
 -lexeme
  lex: пцӏыгъушъ
  stem: .пцӏыгъушъ.//.пцӏыгъушъы.
@@ -76603,7 +76381,7 @@
  stem: .пцӏыус.//.пцӏыусы.
  gramm: N
  paradigm: poly_N
- trans_ru: мошенник; плут; шарлатан; лжец; лгун; клеветник
+ trans_ru: обманщик
 -lexeme
  lex: пцӏыхъохъон
  stem: .пцӏыхъохъо.//.пцӏыхъохъу.|.пцӏыхъохъуа.|.пцӏыхъуахъо.//.пцӏыхъуахъу.
@@ -76627,7 +76405,7 @@
  stem: .пцӏэу.
  gramm: V,intr
  paradigm: poly_V_intr
- trans_ru: визжать; мяукать;пищать
+ trans_ru: мяукать; пищать
 -lexeme
  lex: пчанэ
  stem: .пчэнэ.//.пчэн.|.пчэна.|.пчанэ.//.пчан.
@@ -76783,7 +76561,7 @@
  stem: .пшъэрылъ.//.пшъэрылъы.
  gramm: N
  paradigm: poly_N
- trans_ru: задача; долг; обязанность; обязанность; задание; поручение; наказ
+ trans_ru: задача; долг
 -lexeme
  lex: пшъэхъу
  stem: .пшъэхъу.
@@ -76891,7 +76669,7 @@
  stem: .пщы.//.пщ.
  gramm: V,intr
  paradigm: poly_V_intr
- trans_ru: пухнуть; надуться; опухнуть
+ trans_ru: надуваться
 -lexeme
  lex: пщыналъ
  stem: .пщыналъ.//.пщыналъы.
@@ -76987,7 +76765,7 @@
  stem: .пырэцэ.//.пырэц.|.пырэца.|.пырацэ.//.пырац.
  gramm: A|A,alt_stem,alt_stem1|A,alt_stem,alt_stem2
  paradigm: poly_A
- trans_ru: лохматый; мохнатый; косматый
+ trans_ru: лохматый
 -lexeme
  lex: пырхъэн
  stem: .пырхъэ.//.пырхъ.|.пырхъа.|.пырхъэ.//.пырхъ.
@@ -77035,7 +76813,7 @@
  stem: .пэ.|.па.|.пэ.
  gramm: N|N,alt_stem,alt_stem1|N
  paradigm: poly_N_inalien
- trans_ru: нос; кончик; остриё
+ trans_ru: нос
 -lexeme
  lex: пэгъуанэ
  stem: .пэгъонэ.//.пэгъон.|.пэгъона.|.пэгъуанэ.//.пэгъуан.
@@ -77143,19 +76921,13 @@
  stem: .пӏу.
  gramm: V,tr
  paradigm: poly_V_tr
- trans_ru: воспитывать; растить; опекать
+ trans_ru: воспитывать
 -lexeme
  lex: пӏон
  stem: .пӏо.//.пӏу.|.пӏуа.|.пӏо.//.пӏу.
  gramm: V,tr|V,tr,alt_stem,alt_stem1|V,tr
  paradigm: poly_V_tr
- trans_ru: воспитывать; растить; опекать
--lexeme
- lex: пӏон
- stem: .пӏо.//.пӏу.|.пӏуа.|.пӏо.//.пӏу.
- gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr
- paradigm: poly_V_intr
- trans_ru: воспитывать; растить; опекать
+ trans_ru: воспитывать
 -lexeme
  lex: пӏыкӏэн
  stem: .пӏыкӏэн.//.пӏыкӏэны.
@@ -77341,13 +77113,13 @@
  stem: .рэхьат.//.рэхьаты.
  gramm: A
  paradigm: poly_A
- trans_ru: спокойный; мирный; тихий; спокойный; смирный; невозмутимый; безмятежный
+ trans_ru: спокойный
 -lexeme
  lex: рэхьатын
  stem: .рэхьаты.//.рэхьат.
  gramm: V,intr
  paradigm: poly_V_intr
- trans_ru: утешиться; утихнуть; затихнуть; притихнуть; присмиреть; усмириться
+ trans_ru: успокаиваться
 -lexeme
  lex: сабый
  stem: .сабый.//.сабыи.
@@ -77623,7 +77395,7 @@
  stem: .стыр.//.стыры.
  gramm: A
  paradigm: poly_A
- trans_ru: жгучий; палящий;горячий
+ trans_ru: горячий
 -lexeme
  lex: стырым
  stem: .стырымэ.//.стырым.|.стырыма.|.стырымэ.//.стырым.
@@ -77641,7 +77413,7 @@
  stem: .сурэт.//.сурэты.
  gramm: N
  paradigm: poly_N
- trans_ru: картина; портрет; рисунок
+ trans_ru: картина; рисунок
 -lexeme
  lex: сыд
  stem: .сыд.//.сыды.
@@ -77665,7 +77437,7 @@
  stem: .сыдигъуи.
  gramm: ADV
  paradigm: poly_ADV
- trans_ru: никогда; вообще; исстари
+ trans_ru: всегда
 -lexeme
  lex: сыдрэ
  stem: .сыдрэ.//.сыдр.|.сыдра.|.сыдрэ.//.сыдр.
@@ -77755,7 +77527,7 @@
  stem: .сымэджэ.//.сымэдж.|.сымэджа.|.сымаджэ.//.сымадж.
  gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr,alt_stem,alt_stem2
  paradigm: poly_V_intr
- trans_ru: болеть; хворать; хворать; захворать
+ trans_ru: болеть
 -lexeme
  lex: сырнык
  stem: .сырнык.//.сырныкы.
@@ -78050,7 +77822,7 @@
  stem: .телъхьэ.//.телъхь.|.телъхьа.|.тялъхьэ.//.тялъхь.
  gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
  paradigm: poly_N
- trans_ru: накидка; добавление; добавка; довесок
+ trans_ru: накидка; добавка
 -lexeme
  lex: темыр
  stem: .темыр.//.темыры.
@@ -78140,13 +77912,13 @@
  stem: .ткӏу.
  gramm: V,intr
  paradigm: poly_V_intr
- trans_ru: таять; растаять; обтаять; растопиться
+ trans_ru: таять; капать
 -lexeme
  lex: ткӏон
  stem: .ткӏо.//.ткӏу.|.ткӏуа.|.ткӏо.//.ткӏу.
  gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr
  paradigm: poly_V_intr
- trans_ru: таять; растаять; обтаять; растопиться
+ trans_ru: таять; капать
 -lexeme
  lex: товарищ
  stem: .товарищ.//.товарищы.
@@ -78274,7 +78046,7 @@
  paradigm: poly_N
  trans_ru: оладья
 -lexeme
- lex: тхъурбэн
+ lex: тхъурбэ
  stem: .тхъурбэ.//.тхъурб.|.тхъурба.|.тхъурбэ.//.тхъурб.
  gramm: N|N,alt_stem,alt_stem1|N
  paradigm: poly_N
@@ -78398,7 +78170,7 @@
  stem: .тхьакӏы.//.тхьакӏ.
  gramm: V,tr
  paradigm: poly_V_tr
- trans_ru: мыть; обмыть; омыть
+ trans_ru: мыть
 -lexeme
  lex: тхьалэн
  stem: .тхьэлэ.//.тхьалэ.//.тхьэл.//.тхьал.|.тхьэла.//.тхьала.|.тхьалэ.//.тхьал.
@@ -78608,7 +78380,7 @@
  stem: .тынч.//.тынчы.
  gramm: A
  paradigm: poly_A
- trans_ru: спокойный;удобный;благополучный 
+ trans_ru: спокойный; благополучный 
 -lexeme
  lex: тырку
  stem: .тырку.
@@ -78812,7 +78584,7 @@
  stem: .тӏурысэ.//.тӏурыс.|.тӏурыса.|.тӏурысэ.//.тӏурыс.
  gramm: A|A,alt_stem,alt_stem1|A
  paradigm: poly_A
- trans_ru: изношенный; затрапезный; ношеный; потрёпанный; потёртый
+ trans_ru: изношенный; потрёпанный
 -lexeme
  lex: тӏы
  stem: .тӏы.//.тӏ.
@@ -78958,17 +78730,11 @@
  paradigm: poly_V_tr
  trans_ru: крыть
 -lexeme
- lex: бзэджэн
- stem: .бзэджэ.//.бзэдж.|.бзэджа.|.бзаджэ.//.бзадж.
- gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr,alt_stem,alt_stem2
- paradigm: poly_V_intr
- trans_ru: баловаться;озорничать
--lexeme
  lex: убзэн
  stem: .убзэ.//.убз.|.убза.|.убзэ.//.убз.
  gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr
  paradigm: poly_V_intr
- trans_ru: заискивать;угождать
+ trans_ru: угождать
 -lexeme
  lex: ублэн
  stem: .ублэ.//.убл.|.убла.|.ублэ.//.убл.
@@ -78986,7 +78752,7 @@
  stem: .убы.//.уб.
  gramm: V,tr
  paradigm: poly_V_tr
- trans_ru: молоть; наговорить; оклеветать; толочь; хулить
+ trans_ru: молоть; клеветать; толочь; хулить
 -lexeme
  lex: убырыун
  stem: .убырыу.
@@ -79010,25 +78776,7 @@
  stem: .убыты.//.убыт.
  gramm: V,tr
  paradigm: poly_V_tr
- trans_ru: взять; занять; ловить; схватить; взяться; задержать; арестовать
--lexeme
- lex: убытэн
- stem: .убытэ.//.убыт.|.убыта.|.убытэ.//.убыт.
- gramm: V,tr|V,tr,alt_stem,alt_stem1|V,tr
- paradigm: poly_V_tr
- trans_ru: взять; занять; ловить; схватить; взяться; задержать; арестовать
--lexeme
- lex: убытэн
- stem: .убытэ.//.убыт.|.убыта.|.убытэ.//.убыт.
- gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr
- paradigm: poly_V_intr
- trans_ru: взять; занять; ловить; схватить; взяться; задержать; арестовать
--lexeme
- lex: убэн
- stem: .убэ.//.уб.|.уба.|.убэ.//.уб.
- gramm: V,tr|V,tr,alt_stem,alt_stem1|V,tr
- paradigm: poly_V_tr
- trans_ru: накатать; злословить; проторить; трамбовать
+ trans_ru: брать в руку; ловить; хвататься
 -lexeme
  lex: убэтэн
  stem: .убэтэ.//.убэт.|.убэта.|.убатэ.//.убат.
@@ -79046,13 +78794,13 @@
  stem: .угъои.
  gramm: V,tr
  paradigm: poly_V_tr
- trans_ru: собирать; набрать; накопить; составить; скопить
+ trans_ru: собирать
 -lexeme
  lex: угъонын
  stem: .угъоны.//.угъон.
  gramm: V,tr
  paradigm: poly_V_tr
- trans_ru: проломить; продырявить; прогрызть
+ trans_ru: дырявить
 -lexeme
  lex: уджы
  stem: .уджы.//.удж.
@@ -79095,12 +78843,6 @@
  gramm: V,intr,dat_v|V,intr,alt_stem,alt_stem1,dat_v|V,intr,alt_stem,alt_stem2,dat_v
  paradigm: poly_V_intr
  trans_ru: судиться с кем-л.
--lexeme
- lex: екуон
- stem: .куо.//.куу.|.кууа.|.куо.//.куу.
- gramm: V,intr,dat_v|V,intr,alt_stem,alt_stem1,dat_v|V,intr,dat_v
- paradigm: poly_V_intr
- trans_ru: окликнуть
 -lexeme
  lex: есэн
  stem: .сэ.|.са.|.сэ.
@@ -79190,7 +78932,7 @@
  stem: .укъо.//.укъу.|.укъуа.|.укъо.//.укъу.
  gramm: V,tr|V,tr,alt_stem,alt_stem1|V,tr
  paradigm: poly_V_tr
- trans_ru: нарушить; поломать;разменять
+ trans_ru: нарушать; разменивать
 -lexeme
  lex: укъощын
  stem: .укъощы.//.укъощ.
@@ -79202,19 +78944,19 @@
  stem: .укъы.//.укъ.
  gramm: V,tr
  paradigm: poly_V_tr
- trans_ru: разинуть;раскрыть;открыть
+ trans_ru: разевать; открывать
 -lexeme
  lex: укъэбзын
  stem: .укъэбзы.//.укъэбз.
  gramm: V,tr
  paradigm: poly_V_tr
- trans_ru: очистить; чистить; лущить
+ trans_ru: чистить
 -lexeme
  lex: укъэен
  stem: .укъэе.//.укъэй.|.укъэя.|.укъае.//.укъай.
  gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr,alt_stem,alt_stem2
  paradigm: poly_V_intr
- trans_ru: линять; ошпариться; облупиться
+ trans_ru: линять; изнашиваться
 -lexeme
  lex: укӏын
  stem: .укӏы.//.укӏ.
@@ -79244,7 +78986,7 @@
  stem: .укӏытэ.//.укӏыт.|.укӏыта.|.укӏытэ.//.укӏыт.
  gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr
  paradigm: poly_V_intr
- trans_ru: стыдиться;стесняться; робеть; сконфузиться
+ trans_ru: стыдиться; стесняться
 -lexeme
  lex: улъыин
  stem: .улъыи.
@@ -79324,35 +79066,23 @@
  paradigm: poly_V_intr
  trans_ru: направиться
 -lexeme
- lex: нэшхъэин
- stem: .нэшхъэи.
- gramm: V,intr
- paradigm: poly_V_intr
- trans_ru: унывать; горевать
--lexeme
  lex: унэӏут
  stem: .унэӏут.//.унэӏуты.
  gramm: N
  paradigm: poly_N
  trans_ru: лакей
 -lexeme
- lex: он
- stem: .о.|.уа.|.о.
- gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr
- paradigm: poly_V_intr
- trans_ru: стрелять
--lexeme
  lex: пкӏэн
  stem: .пкӏэ.//.пкӏ.|.пкӏа.|.пкӏэ.//.пкӏ.
  gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr
  paradigm: poly_V_intr
- trans_ru: полоть;прыгать
+ trans_ru: полоть; прыгать; мостить
 -lexeme
  lex: упкӏэпкӏын
  stem: .упкӏэпкӏы.//.упкӏэпкӏ.
  gramm: V,tr
  paradigm: poly_V_tr
- trans_ru: очистить; лупить; лущить
+ trans_ru: очищать
 -lexeme
  lex: упкӏэтэн
  stem: .упкӏэтэ.//.упкӏэт.|.упкӏэта.|.упкӏатэ.//.упкӏат.
@@ -79382,7 +79112,7 @@
  stem: .уцӏэпӏы.//.уцӏэпӏ.
  gramm: V,tr
  paradigm: poly_V_tr
- trans_ru: испачкать; запятнать; загрязнить; загрязниться; засориться
+ trans_ru: пачкать
 -lexeme
  lex: упчӏэ
  stem: .упчӏэ.//.упчӏ.|.упчӏа.|.упчӏэ.//.упчӏ.
@@ -79406,19 +79136,13 @@
  stem: .упӏышкӏу.
  gramm: V,tr
  paradigm: poly_V_tr
- trans_ru: расплющить; продавить; расплющиться
+ trans_ru: расплющивать
 -lexeme
  lex: упӏышкӏон
  stem: .упӏышкӏо.//.упӏышкӏу.|.упӏышкӏуа.|.упӏышкӏо.//.упӏышкӏу.
  gramm: V,tr|V,tr,alt_stem,alt_stem1|V,tr
  paradigm: poly_V_tr
- trans_ru: расплющить; продавить; расплющиться
--lexeme
- lex: упӏышкӏон
- stem: .упӏышкӏо.//.упӏышкӏу.|.упӏышкӏуа.|.упӏышкӏо.//.упӏышкӏу.
- gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr
- paradigm: poly_V_intr
- trans_ru: расплющить; продавить; расплющиться
+ trans_ru: расплющивать
 -lexeme
  lex: упӏэн
  stem: .упӏэн.//.упӏэны.
@@ -79499,16 +79223,10 @@
  trans_ru: брызгать
 -lexeme
  lex: утын
- stem: .утын.//.утыны.
- gramm: N
- paradigm: poly_N
- trans_ru: удар
--lexeme
- lex: утын
  stem: .уты.//.ут.
  gramm: V,tr
  paradigm: poly_V_tr
- trans_ru: молотить
+ trans_ru: бить
 -lexeme
  lex: утысэн
  stem: .утысэ.//.утыс.|.утыса.|.утысэ.//.утыс.
@@ -79520,13 +79238,12 @@
  stem: .утэбжьэ.//.утэбжь.|.утэбжьа.|.утабжьэ.//.утабжь.
  gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr,alt_stem,alt_stem2
  paradigm: poly_V_intr
- trans_ru: неметь; мертветь; одеревенеть
--lexeme
+ trans_ru: неметь; затекать
  lex: утэн
  stem: .утэ.//.ут.|.ута.|.утэ.//.ут.
  gramm: V,tr|V,tr,alt_stem,alt_stem1|V,tr
  paradigm: poly_V_tr
- trans_ru: месить; ; вытоптать
+ trans_ru: месить; вытаптывать
 -lexeme
  lex: утэшъон
  stem: .утэшъо.//.утэшъу.|.утэшъуа.|.уташъо.//.уташъу.
@@ -79534,35 +79251,17 @@
  paradigm: poly_V_intr
  trans_ru: пьянеть
 -lexeme
- lex: убын
- stem: .убы.//.уб.
- gramm: V,tr
- paradigm: poly_V_tr
- trans_ru: толочь;плохо отзываться о ком-л.
--lexeme
- lex: убытын
- stem: .убыты.//.убыт.
- gramm: V,tr
- paradigm: poly_V_tr
- trans_ru: ухватить
--lexeme
  lex: убытэн
  stem: .убытэ.//.убыт.|.убыта.|.убытэ.//.убыт.
  gramm: V,tr|V,tr,alt_stem,alt_stem1|V,tr
  paradigm: poly_V_tr
- trans_ru: ухватить
--lexeme
- lex: убытэн
- stem: .убытэ.//.убыт.|.убыта.|.убытэ.//.убыт.
- gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr
- paradigm: poly_V_intr
- trans_ru: ухватить
+ trans_ru: брать; ловить; хватать
 -lexeme
  lex: убэн
  stem: .убэ.//.уб.|.уба.|.убэ.//.уб.
  gramm: V,tr|V,tr,alt_stem,alt_stem1|V,tr
  paradigm: poly_V_tr
- trans_ru: трамбовать;толочь;плохо отзываться
+ trans_ru: клеветать;трамбовать;толочь
 -lexeme
  lex: упсын
  stem: .упсы.//.упс.
@@ -79600,12 +79299,6 @@
  paradigm: poly_V_tr
  trans_ru: уберечь; устеречь
 -lexeme
- lex: уцун
- stem: .уцу.
- gramm: V,intr
- paradigm: poly_V_intr
- trans_ru: встать;прекратить
--lexeme
  lex: ушъэбын
  stem: .ушъэбы.//.ушъэб.
  gramm: V,tr
@@ -79616,13 +79309,7 @@
  stem: .ушъэ.//.ушъ.|.ушъа.|.ушъэ.//.ушъ.
  gramm: V,tr|V,tr,alt_stem,alt_stem1|V,tr
  paradigm: poly_V_tr
- trans_ru: грузить
--lexeme
- lex: ушӏоин
- stem: .ушӏои.
- gramm: V,tr
- paradigm: poly_V_tr
- trans_ru: испачкать; запятнать; загрязнить; загрязниться; засориться
+ trans_ru: нагружать; бить
 -lexeme
  lex: уфэ-упцӏэ
  stem: .уфэ-упцӏэ.//.уфэ-упцӏ.|.уфэ-упцӏа.|.уфэ-упцӏэ.//.уфэ-упцӏ.
@@ -79652,7 +79339,7 @@
  stem: .ухы.//.ух.
  gramm: V,tr
  paradigm: poly_V_tr
- trans_ru: пройти; закрыть; кончить; миновать; завершить; исчерпать
+ trans_ru: заканчивать
 -lexeme
  lex: пыджэн
  stem: .пыджэ.//.пыдж.|.пыджа.|.пыджэ.//.пыдж.
@@ -79670,7 +79357,7 @@
  stem: .уцу.
  gramm: V,intr
  paradigm: poly_V_intr
- trans_ru: встать; успокоиться; улечься; замереть; затихнуть
+ trans_ru: вставать; успокаиваться
 -lexeme
  lex: уцхэкӏалъ
  stem: .уцхэкӏалъ.//.уцхэкӏалъы.
@@ -79736,7 +79423,7 @@
  stem: .ушкъои.
  gramm: V,tr
  paradigm: poly_V_tr
- trans_ru: крошиться; размельчить(ся);дробить
+ trans_ru: крошиться; дробить
 -lexeme
  lex: ушхун
  stem: .ушху.
@@ -79749,12 +79436,6 @@
  gramm: V,tr
  paradigm: poly_V_tr
  trans_ru: колдовать; заворожить
--lexeme
- lex: шъутырэен
- stem: .шъутырэе.//.шъутырэй.|.шъутырэя.|.шъутырае.//.шъутырай.
- gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr,alt_stem,alt_stem2
- paradigm: poly_V_intr
- trans_ru: лягать
 -lexeme
  lex: ушъхьагъу
  stem: .ушъхьагъу.
@@ -79780,35 +79461,23 @@
  paradigm: poly_N
  trans_ru: назидание; нотация
 -lexeme
- lex: ушъэн
- stem: .ушъэ.//.ушъ.|.ушъа.|.ушъэ.//.ушъ.
- gramm: V,tr|V,tr,alt_stem,alt_stem1|V,tr
- paradigm: poly_V_tr
- trans_ru: набить;загрузить;побить
--lexeme
  lex: ушъэфын
  stem: .ушъэфы.//.ушъэф.
  gramm: V,tr
  paradigm: poly_V_tr
- trans_ru: замалчивать; утаить; засекретить
+ trans_ru: скрывать
 -lexeme
  lex: ушъэфэн
  stem: .ушъэфэ.//.ушъэф.|.ушъэфа.|.ушъафэ.//.ушъаф.
  gramm: V,tr|V,tr,alt_stem,alt_stem1|V,tr,alt_stem,alt_stem2
  paradigm: poly_V_tr
- trans_ru: замалчивать; утаить; засекретить
--lexeme
- lex: ушъэфэн
- stem: .ушъэфэ.//.ушъэф.|.ушъэфа.|.ушъафэ.//.ушъаф.
- gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr,alt_stem,alt_stem2
- paradigm: poly_V_intr
- trans_ru: замалчивать; утаить; засекретить
+ trans_ru: замалчивать; скрывать
 -lexeme
  lex: ушынэн
  stem: .ушынэ.//.ушын.|.ушына.|.ушынэ.//.ушын.
  gramm: V,tr|V,tr,alt_stem,alt_stem1|V,tr
  paradigm: poly_V_tr
- trans_ru: пропитаться; отсыреть; сыреть
+ trans_ru: отсыревать
 -lexeme
  lex: ушэт
  stem: .ушэт.//.ушэты.
@@ -79820,13 +79489,13 @@
  stem: .ушэты.//.ушэт.
  gramm: V,tr
  paradigm: poly_V_tr
- trans_ru: испытать; пробовать; вкусить; изведать; апробировать
+ trans_ru: пробовать
 -lexeme
  lex: ушӏоин
  stem: .ушӏои.
  gramm: V,tr
  paradigm: poly_V_tr
- trans_ru: мусорить; запачкать; выпачкать; напачкать; насорить
+ trans_ru: пачкать
 -lexeme
  lex: ушӏокъын
  stem: .ушӏокъы.//.ушӏокъ.
@@ -79844,7 +79513,7 @@
  stem: .ушӏункӏы.//.ушӏункӏ.
  gramm: V,intr
  paradigm: poly_V_intr
- trans_ru: меркнуть; мрачнеть;темнеть
+ trans_ru: темнеть
 -lexeme
  lex: сэхъун
  stem: .сэхъу.
@@ -80132,7 +79801,7 @@
  stem: .хэбзэ.//.хэбз.|.хэбза.|.хабзэ.//.хабз.
  gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
  paradigm: poly_N
- trans_ru: власть; закон; уклад
+ trans_ru: закон; традиция
 -lexeme
  lex: хадэ
  stem: .хэдэ.//.хэд.|.хэда.|.хадэ.//.хад.
@@ -80228,7 +79897,7 @@
  stem: .хъопсэ.//.хъопс.|.хъопса.|.хъуапсэ.//.хъуапс.
  gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr,alt_stem,alt_stem2
  paradigm: poly_V_intr
- trans_ru: завидовать;мечтать
+ trans_ru: завидовать; соблазняться
 -lexeme
  lex: хъопсын
  stem: .хъопс.//.хъопсы.
@@ -80356,12 +80025,6 @@
  paradigm: poly_N
  trans_ru: кольцо
 -lexeme
- lex: хъурышъу
- stem: .хъурышъо.//.хъурышъу.|.хъурышъуа.|.хъурышъо.//.хъурышъу.
- gramm: N|N,alt_stem,alt_stem1|N
- paradigm: poly_N
- trans_ru: овчина; смушка
--lexeme
  lex: хъущ
  stem: .хъущэ.//.хъущ.|.хъуща.|.хъущэ.//.хъущ.
  gramm: N|N,alt_stem,alt_stem1|N
@@ -80462,7 +80125,7 @@
  stem: .хы.//.х.
  gramm: V,tr
  paradigm: poly_V_tr
- trans_ru: жать; косить
+ trans_ru: косить
 -lexeme
  lex: хырхыхь
  stem: .хырхыхь.//.хырхыхьы.
@@ -80612,7 +80275,7 @@
  stem: .хьалэ-балыкъ.//.хьалэ-балыкъы.
  gramm: N
  paradigm: poly_N
- trans_ru: скандал; переполох; смута
+ trans_ru: переполох
 -lexeme
  lex: хьалэл
  stem: .хьалэл.//.хьалэлы.
@@ -80780,7 +80443,7 @@
  stem: .хьисапы.//.хьисап.
  gramm: N
  paradigm: poly_N
- trans_ru: счет; арифметика; намерение
+ trans_ru: счет; математика; намерение
 -lexeme
  lex: хьохъу
  stem: .хьохъу.
@@ -80888,7 +80551,7 @@
  stem: .хэкӏы.//.хэкӏ.
  gramm: V,intr
  paradigm: poly_V_intr
- trans_ru: выйти; выпутаться; смыться
+ trans_ru: выходить
 -lexeme
  lex: хэлажьэрэр
  stem: .хэлажьэрэр.//.хэлажьэрэры.
@@ -81068,7 +80731,7 @@
  stem: .цохъо.//.цохъу.|.цохъуа.|.цуахъо.//.цуахъу.
  gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr,alt_stem,alt_stem2
  paradigm: poly_V_intr
- trans_ru: ползать; проползти; поползти
+ trans_ru: ползать
 -lexeme
  lex: цу
  stem: .цу.
@@ -81110,13 +80773,13 @@
  stem: .цунтхъэ.//.цунтхъ.|.цунтхъа.|.цунтхъэ.//.цунтхъ.
  gramm: V,tr|V,tr,alt_stem,alt_stem1|V,tr
  paradigm: poly_V_tr
- trans_ru: истрепать; истрепаться; обтрепать; обтрепаться
+ trans_ru: трепать; царапать
 -lexeme
  lex: цунтхъын
  stem: .цунтхъ.//.цунтхъы.
  gramm: V,tr
  paradigm: poly_V_tr
- trans_ru: истрепать; истрепаться; обтрепать; обтрепаться
+ trans_ru: трепать; царапать
 -lexeme
  lex: цуны
  stem: .цуны.//.цун.
@@ -81152,7 +80815,7 @@
  stem: .цызэ.//.цыз.|.цыза.|.цызэ.//.цыз.
  gramm: N|N,alt_stem,alt_stem1|N
  paradigm: poly_N
- trans_ru: белка; куница; грызун
+ trans_ru: белка; куница
 -lexeme
  lex: цыкӏу-шъокӏу
  stem: .цыкӏу-шъокӏу.
@@ -81326,7 +80989,7 @@
  stem: .цӏыцӏы.//.цӏыцӏ.
  gramm: V,tr
  paradigm: poly_V_tr
- trans_ru: мять; комкать; мяться; измять; морщиться; измять
+ trans_ru: мять; мяться
 -lexeme
  lex: цӏышхъэн
  stem: .цӏышхъэ.//.цӏышхъ.|.цӏышхъа.|.цӏышхъэ.//.цӏышхъ.
@@ -81350,7 +81013,7 @@
  stem: .цӏэлэ.//.цӏэл.|.цӏэла.|.цӏалэ.//.цӏал.
  gramm: V,tr|V,tr,alt_stem,alt_stem1|V,tr,alt_stem,alt_stem2
  paradigm: poly_V_tr
- trans_ru: замазать; замазать; замарать; выпачкать
+ trans_ru: мазать
 -lexeme
  lex: цӏэнлъэн
  stem: .цӏэнлъэ.//.цӏэнлъ.|.цӏэнлъа.|.цӏанлъэ.//.цӏанлъ.
@@ -81392,7 +81055,7 @@
  stem: .цӏэцӏэ.//.цӏэцӏ.|.цӏэцӏа.|.цӏацӏэ.//.цӏацӏ.
  gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr,alt_stem,alt_stem2
  paradigm: poly_V_intr
- trans_ru: браниться; выругаться; хаять
+ trans_ru: ругаться
 -lexeme
  lex: чагэ
  stem: .чэгэ.//.чэг.|.чэга.|.чагэ.//.чаг.
@@ -81526,18 +81189,6 @@
  paradigm: poly_A
  trans_ru: свежий; прохладный
 -lexeme
- lex: чъыӏэшху
- stem: .чъыӏэшху.//.чъыӏашху.
- gramm: A
- paradigm: poly_A
- trans_ru: немилосердный
--lexeme
- lex: чъыӏэшху
- stem: .чъыӏэшху.//.чъыӏашху.
- gramm: ADV
- paradigm: poly_ADV
- trans_ru: морозно
--lexeme
  lex: чъэгъон
  stem: .чъэгъо.//.чъэгъу.|.чъэгъуа.|.чъагъо.//.чъагъу.
  gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr,alt_stem,alt_stem2
@@ -81554,19 +81205,13 @@
  stem: .чъэ.//.чъ.|.чъа.|.чъэ.//.чъ.
  gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr
  paradigm: poly_V_intr
- trans_ru: бежать; бегать; лететь; литься; пролиться; перекатиться
+ trans_ru: бегать; литься
 -lexeme
  lex: чъын
  stem: .чъ.//.чъы.
  gramm: V,intr
  paradigm: poly_V_intr
- trans_ru: бежать; бегать; лететь; литься; пролиться; перекатиться
--lexeme
- lex: чъын
- stem: .чъ.//.чъы.
- gramm: V,tr
- paradigm: poly_V_tr
- trans_ru: бежать; бегать; лететь; литься; пролиться; перекатиться
+ trans_ru: бегать; литься; застывать
 -lexeme
  lex: чъэп
  stem: .чъэп.//.чъэпы.
@@ -81590,7 +81235,7 @@
  stem: .чъэпхъы.//.чъэпхъ.
  gramm: V,intr
  paradigm: poly_V_intr
- trans_ru: подсохнуть; просыхать; высушиться; просушиться
+ trans_ru: высыхать
 -lexeme
  lex: чъэр
  stem: .чъэр.//.чъэры.
@@ -81692,7 +81337,7 @@
  stem: .чэзыу.
  gramm: N
  paradigm: poly_N
- trans_ru: пора;время;очередь
+ trans_ru: очередь
 -lexeme
  lex: чэзэч
  stem: .чэзэч.//.чэзэчы.
@@ -81916,12 +81561,6 @@
  paradigm: poly_A
  trans_ru: оседлый
 -lexeme
- lex: чӏыпӏэрыс
- stem: .чӏыпӏэрыс.//.чӏыпӏэрысы.
- gramm: N
- paradigm: poly_N
- trans_ru: обитатель
--lexeme
  lex: чӏыпӏэрысыкӏ
  stem: .чӏыпӏэрысыкӏэ.//.чӏыпӏэрысыкӏ.|.чӏыпӏэрысыкӏа.|.чӏыпӏэрысыкӏэ.//.чӏыпӏэрысыкӏ.
  gramm: N|N,alt_stem,alt_stem1|N
@@ -82016,7 +81655,7 @@
  stem: .штэ.//.шт.|.шта.|.штэ.//.шт.
  gramm: V,tr|V,tr,alt_stem,alt_stem1|V,tr
  paradigm: poly_V_tr
- trans_ru: взять; забрать; набрать; завладеть; умножить; множить; набрать; апробировать
+ trans_ru: брать
 -lexeme
  lex: шхо
  stem: .шхо.//.шху.|.шхуа.|.шхо.//.шху.
@@ -82286,7 +81925,7 @@
  stem: .шъу.
  gramm: V,intr
  paradigm: poly_V_intr
- trans_ru: мокнуть; промокнуть; сгнить
+ trans_ru: мокнуть; гнить
 -lexeme
  lex: шъутырэен
  stem: .шъутырэе.//.шъутырэй.|.шъутырэя.|.шъутырае.//.шъутырай.
@@ -82370,12 +82009,6 @@
  stem: .шъхьафит.//.шъхьафиты.
  gramm: A
  paradigm: poly_A
- trans_ru: произвольный
--lexeme
- lex: шъхьафит
- stem: .шъхьафит.//.шъхьафиты.
- gramm: N
- paradigm: poly_N
  trans_ru: вольный
 -lexeme
  lex: шъхьафитышӏ
@@ -82389,12 +82022,6 @@
  gramm: A|A,alt_stem,alt_stem1|A
  paradigm: poly_A
  trans_ru: ленивый
--lexeme
- lex: шъхьахын
- stem: .шъхьахынэ.//.шъхьахын.|.шъхьахына.|.шъхьахынэ.//.шъхьахын.
- gramm: N|N,alt_stem,alt_stem1|N
- paradigm: poly_N
- trans_ru: лентяй
 -lexeme
  lex: шъхьахынэн
  stem: .шъхьахынэ.//.шъхьахын.|.шъхьахына.|.шъхьахынэ.//.шъхьахын.
@@ -82424,7 +82051,7 @@
  stem: .шъхьэ.//.шъхь.|.шъхьа.|.шъхьэ.//.шъхь.
  gramm: N|N,alt_stem,alt_stem1|N
  paradigm: poly_N_inalien
- trans_ru: голова; верх; крыша; колос
+ trans_ru: голова; верх
 -lexeme
  lex: шъхьэджашъу
  stem: .шъхьэджэшъо.//.шъхьаджэшъо.//.шъхьэджэшъу.//.шъхьаджэшъу.|.шъхьэджэшъуа.//.шъхьаджэшъуа.|.шъхьэджашъо.//.шъхьаджашъо.//.шъхьэджашъу.//.шъхьаджашъу.
@@ -82564,12 +82191,6 @@
  paradigm: poly_A
  trans_ru: реальный; правдивый
 -lexeme
- lex: шъыпкъэ
- stem: .шъыпкъэ.//.шъыпкъ.|.шъыпкъа.|.шъыпкъэ.//.шъыпкъ.
- gramm: N|N,alt_stem,alt_stem1|N
- paradigm: poly_N
- trans_ru: правда
--lexeme
  lex: шъырыт
  stem: .шъырыт.//.шъырыты.
  gramm: A
@@ -82634,7 +82255,7 @@
  stem: .шъэфэу.
  gramm: ADV
  paradigm: poly_ADV
- trans_ru: втайне; украдкой; втихомолку;-воровски
+ trans_ru: тайно; украдкой
 -lexeme
  lex: шъэшъэн
  stem: .шъэшъэ.//.шъэшъ.|.шъэшъа.|.шъашъэ.//.шъашъ.
@@ -82700,7 +82321,7 @@
  stem: .шыкоо.//.шыкоу.|.шыкоуа.|.шыкуао.//.шыкуау.
  gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
  paradigm: poly_N
- trans_ru: кучер; извозчик; возница
+ trans_ru: возница
 -lexeme
  lex: шыкӏадз
  stem: .шыкӏэдзэ.//.шыкӏэдз.|.шыкӏэдза.|.шыкӏадзэ.//.шыкӏадз.
@@ -82850,7 +82471,7 @@
  stem: .шэны.//.шэн.
  gramm: N
  paradigm: poly_N_inalien
- trans_ru: характер; нрав;привычка
+ trans_ru: характер; привычка
 -lexeme
  lex: шэнышӏу
  stem: .шэнышӏу.
@@ -82924,17 +82545,11 @@
  paradigm: poly_N
  trans_ru: мнение
 -lexeme
- lex: шӏоӏун
- stem: .шӏоӏу.
- gramm: V,intr
- paradigm: poly_V_intr
- trans_ru: засолиться
--lexeme
  lex: шӏу
  stem: .шӏу.
  gramm: N
  paradigm: poly_N_inalien
- trans_ru: печёнка
+ trans_ru: печенька
 -lexeme
  lex: шӏу
  stem: .шӏу.
@@ -82994,7 +82609,7 @@
  stem: .шӏэ.//.шӏ.|.шӏа.|.шӏэ.//.шӏ.
  gramm: V,tr|V,tr,alt_stem,alt_stem1|V,tr
  paradigm: poly_V_tr
- trans_ru: делать; заниматься
+ trans_ru: делать
 -lexeme
  lex: шӏэн
  stem: .шӏэ.//.шӏ.|.шӏа.|.шӏэ.//.шӏ.
@@ -83036,7 +82651,7 @@
  stem: .шӏэхы.//.шӏэх.
  gramm: V,intr
  paradigm: poly_V_intr
- trans_ru: поспешить; поторопиться; поторапливаться
+ trans_ru: торопиться
 -lexeme
  lex: щагу
  stem: .щагу.
@@ -83090,7 +82705,7 @@
  stem: .щэтэ.//.щэт.|.щэта.|.щатэ.//.щат.
  gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
  paradigm: poly_N
- trans_ru: сливки; пенка;сметана
+ trans_ru: сливки; пенка; сметана
 -lexeme
  lex: щтын
  stem: .щты.//.щт.
@@ -83114,7 +82729,7 @@
  stem: .щтэ.//.щт.|.щта.|.щтэ.//.щт.
  gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr
  paradigm: poly_V_intr
- trans_ru: бояться; пугаться; ужаснуться; встревожиться; перепугаться; устрашиться
+ trans_ru: пугаться
 -lexeme
  lex: щхэн
  stem: .щхэ.//.щх.|.щха.|.щхэ.//.щх.
@@ -83198,7 +82813,7 @@
  stem: .щынэ.//.щын.|.щына.|.щынэ.//.щын.
  gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr
  paradigm: poly_V_intr
- trans_ru: бояться; испугаться; трусить; напугаться; оробеть
+ trans_ru: бояться
 -lexeme
  lex: щыпсы
  stem: .щыпсы.//.щыпс.
@@ -83374,21 +82989,9 @@
  paradigm: poly_N
  trans_ru: зонтик; шатёр
 -lexeme
- lex: щэфын
- stem: .щэфы.//.щэф.
- gramm: V,tr
- paradigm: poly_V_tr
- trans_ru: купить; покупать
--lexeme
  lex: щэфэн
  stem: .щэфэ.//.щэф.|.щэфа.|.щафэ.//.щаф.
  gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr,alt_stem,alt_stem2
- paradigm: poly_V_intr
- trans_ru: покупать
--lexeme
- lex: щэфын
- stem: .щэф.//.щэфы.
- gramm: V,intr
  paradigm: poly_V_intr
  trans_ru: покупать
 -lexeme
@@ -83408,31 +83011,7 @@
  stem: .щэчы.//.щэч.
  gramm: V,tr
  paradigm: poly_V_tr
- trans_ru: выдержать;взвесить;весить
--lexeme
- lex: тхэн
- stem: .тхъэ.//.тхъ.|.тхъа.|.тхъэ.//.тхъ.
- gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr
- paradigm: poly_V_intr
- trans_ru: благоденствовать
--lexeme
- lex: тхын
- stem: .тхъ.//.тхъы.
- gramm: V,intr
- paradigm: poly_V_intr
- trans_ru: благоденствовать
--lexeme
- lex: тхын
- stem: .тхъ.//.тхъы.
- gramm: V,tr
- paradigm: poly_V_tr
- trans_ru: благоденствовать
--lexeme
- lex: дэжь
- stem: .дэжь.//.дыжь.
- gramm: POST
- paradigm: poly_POST
- trans_ru: к; возле
+ trans_ru: терпеть; взвешивать; весить
 -lexeme
  lex: ыкӏи
  stem: .ыкӏи.
@@ -83642,7 +83221,7 @@
  stem: .ӏэплӏэ.//.ӏаплӏэ.//.ӏэплӏ.//.ӏаплӏ.|.ӏэплӏа.//.ӏаплӏа.|.ӏаплӏэ.//.ӏаплӏ.
  gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
  paradigm: poly_N
- trans_ru: объятие;пук; вязанка
+ trans_ru: объятие; вязанка
 -lexeme
  lex: ӏапшъэ
  stem: .ӏэпшъэ.//.ӏапшъэ.//.ӏэпшъ.//.ӏапшъ.|.ӏэпшъа.//.ӏапшъа.|.ӏапшъэ.//.ӏапшъ.
@@ -84123,12 +83702,12 @@
  gramm: A
  paradigm: poly_A
  trans_ru: искусный
--lexeme
- lex: ӏэпэӏас
- stem: .ӏэпэӏэсэ.//.ӏэпэӏасэ.//.ӏэпэӏэс.//.ӏэпэӏас.|.ӏэпэӏэса.//.ӏэпэӏаса.|.ӏэпэӏасэ.//.ӏапэӏасэ.//.ӏэпэӏас.//.ӏапэӏас.
- gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
- paradigm: poly_N
- trans_ru: мастер
+#-lexeme
+# lex: ӏэпэӏас
+# stem: .ӏэпэӏэсэ.//.ӏэпэӏасэ.//.ӏэпэӏэс.//.ӏэпэӏас.|.ӏэпэӏэса.//.эпэӏаса.|.ӏэпэӏасэ.//.ӏапэӏасэ.//.ӏэпэӏас.//.ӏапэӏас.
+# gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
+# paradigm: poly_N
+# trans_ru: мастер
 -lexeme
  lex: ӏэрам
  stem: .ӏэрам.//.ӏэрамы.
@@ -84196,17 +83775,11 @@
  paradigm: poly_A
  trans_ru: просторный
 -lexeme
- lex: ӏэхъуамбэ
- stem: .ӏэхъомбэ.//.ӏахъомбэ.//.ӏэхъомб.//.ӏахъомб.|.ӏэхъомба.//.ӏахъомба.|.ӏэхъуамбэ.//.ӏахъуамбэ.//.ӏэхъуамб.//.ӏахъуамб.
- gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
- paradigm: poly_N_inalien
- trans_ru: палец
--lexeme
  lex: ӏэчъэ-лъэчъэн
  stem: .ӏэчъэ//.ӏачъэ-лъэчъэ.//.ӏэчъэ//.ӏачъэ-лъэчъ.|.ӏэчъэ//.ӏачъэ-лъэчъа.|.ӏэчъэ//.ӏачъэ-лъачъэ.//.ӏэчъэ//.ӏачъэ-лъачъ.
  gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr,alt_stem,alt_stem2
  paradigm: poly_V_intr
- trans_ru: суетиться;бегать;беспокоиться
+ trans_ru: суетиться
 -lexeme
  lex: ӏэшъхьэтет
  stem: .ӏэшъхьэтет.//.ӏэшъхьатет.//.ӏэшъхьэтеты.//.ӏэшъхьатеты.
