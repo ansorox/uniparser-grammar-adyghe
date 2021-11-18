@@ -68457,6 +68457,12 @@
  paradigm: poly_N
  trans_ru: мошка
 -lexeme
+ lex: бэдзэогъу
+ stem: .бэдзэогъу.
+ gramm: N
+ paradigm: poly_N
+ trans_ru: июль
+-lexeme
  lex: бэдзэр
  stem: .бэдзэр.//.бэдзэры.
  gramm: N
@@ -69746,6 +69752,12 @@
  paradigm: poly_V_intr
  trans_ru: прокисать
 -lexeme
+ lex: гъэтхапэ
+ stem: .гъэтхапэ.//.гъэтхап.
+ gramm: N
+ paradigm: poly_N
+ trans_ru: март
+-lexeme
  lex: гъэшӏэгъоны
  stem: .гъэшӏэгъоны.//.гъэшӏэгъон.
  gramm: A
@@ -70717,6 +70729,12 @@
  paradigm: poly_V_intr
  trans_ru: кипеть; вариться; пахать
 -lexeme
+ lex: жъоныгъуакӏ
+ stem: .жъоныгъокӏ.//.жъоныгъокӏэ.|.жъоныгъуакӏ.//.жъоныгъуакӏэ
+ gramm: N|N,alt_stem,alt_stem1
+ paradigm: poly_N
+ trans_ru: май
+-lexeme
  lex: жъоркъ
  stem: .жъоркъ.//.жъоркъы.
  gramm: N
@@ -70925,8 +70943,8 @@
 -lexeme
  lex: зыгорэ
  stem: .зыгорэ.
- gramm: ???
- paradigm: poly_???
+ gramm: NPRO
+ paradigm: poly_N
  trans_ru: кто-нибудь
 -lexeme
  lex: лыцӏэн
@@ -71554,6 +71572,12 @@
  paradigm: poly_N_inalien
  trans_ru: бедро; ляжка
 -lexeme
+ lex: ковид
+ stem: .ковид.
+ gramm: N
+ paradigm: poly_N
+ trans_ru: ковид
+-lexeme
  lex: коджэхь-къоджэшх
  stem: .коджэхь-къоджэшх.//.коджэхь-къоджэшхы.
  gramm: N
@@ -71715,6 +71739,12 @@
  gramm: N
  paradigm: poly_N
  trans_ru: корона
+-lexeme
+ lex: коронавирус
+ stem: .коронавирус.
+ gramm: N
+ paradigm: poly_N
+ trans_ru: коронавирус
 -lexeme
  lex: короткометражнэ
  stem: .короткометрэжнэ.//.короткометрэжн.|.короткометрэжна.|.короткометражнэ.//.короткометражн.
@@ -74479,6 +74509,12 @@
  paradigm: poly_N_inalien
  trans_ru: запах
 -lexeme
+ lex: мэзай
+ stem: .мэзай.//.мэзайы.
+ gramm: N
+ paradigm: poly_N
+ trans_ru: февраль
+-lexeme
  lex: мэзахэ
  stem: .мэзэхэ.//.мэзэх.|.мэзэха.|.мэзахэ.//.мэзах.
  gramm: A|A,alt_stem,alt_stem1|A,alt_stem,alt_stem2
@@ -74569,6 +74605,12 @@
  paradigm: poly_N
  trans_ru: косарь
 -lexeme
+ lex: мэкъуогъу
+ stem: .мэкъуогъу.
+ gramm: N
+ paradigm: poly_N
+ trans_ru: июнь
+-lexeme
  lex: мэкъэгъэӏу
  stem: .мэкъэгъэӏу.
  gramm: N
@@ -74592,6 +74634,12 @@
  gramm: N
  paradigm: poly_N
  trans_ru: овца
+-lexeme
+ lex: мэлылъфэгъу
+ stem: .мэлылъфэгъу.|.мэлылъфагъу.
+ gramm: N|N,alt_stem,alt_stem1
+ paradigm: poly_N
+ trans_ru: апрель
 -lexeme
  lex: мэлыл
  stem: .мэлыл.//.мэлылы.
@@ -81237,6 +81285,12 @@
  paradigm: poly_V_intr
  trans_ru: высыхать
 -lexeme
+ lex: чъэпыогъу
+ stem: .чъэпыогъу.
+ gramm: N
+ paradigm: poly_N
+ trans_ru: октябрь
+-lexeme
  lex: чъэр
  stem: .чъэр.//.чъэры.
  gramm: A
@@ -82419,6 +82473,12 @@
  paradigm: poly_N
  trans_ru: свидетель
 -lexeme
+ lex: шышъхьэӏу
+ stem: .шышъхьэӏу.|.шышъхьаӏу.
+ gramm: N|N,alt_stem,alt_stem1
+ paradigm: poly_N
+ trans_ru: август
+-lexeme
  lex: шышӏоӏу
  stem: .шышӏоӏу.
  gramm: N
@@ -82454,6 +82514,12 @@
  gramm: N
  paradigm: poly_N
  trans_ru: гончая
+-lexeme
+ lex: шэкӏогъу
+ stem: .шэкӏогъу.|.шэкӏуагъу. 
+ gramm: N|N,alt_stem,alt_stem1
+ paradigm: poly_N
+ trans_ru: ноябрь
 -lexeme
  lex: шэкӏышӏ
  stem: .шэкӏышӏ.//.шэкӏышӏы.
@@ -82784,6 +82850,12 @@
  gramm: N
  paradigm: poly_N
  trans_ru: горн
+-lexeme
+ lex: щылэ
+ stem: .щылэ.//.щыл.
+ gramm: N
+ paradigm: poly_N
+ trans_ru: морозный; январь
 -lexeme
  lex: щын
  stem: .щы.//.щ.
@@ -83324,6 +83396,12 @@
  gramm: A|A,alt_stem,alt_stem1|A,alt_stem,alt_stem2
  paradigm: poly_A
  trans_ru: безоговорочный
+-lexeme
+ lex: ӏоныгъу
+ stem: .ӏоныгъу.
+ gramm: N
+ paradigm: poly_N
+ trans_ru: сентябрь
 -lexeme
  lex: ӏопщын
  stem: .ӏопщы.//.ӏопщ.
