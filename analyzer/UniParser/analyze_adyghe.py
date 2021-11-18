@@ -1,5 +1,5 @@
 from analyze import analyze
-from postprocessor import finalize, split_o_wordlist
+from postprocessor import finalize, split_o_wordlist, split_lar_wordlist
 
 if __name__ == '__main__':
     lexFile = '../lexemes.txt'
@@ -19,6 +19,8 @@ if __name__ == '__main__':
             cliticFile, delAnaFile, '../wordlist.csv-parsed-main.txt', '../wordlist.csv-unparsed-main.txt',
             errorFile, xmlOutput, False, parserVerbosity, freqListSeparator, parsingMethod=parsingMethod)
     nOWords = split_o_wordlist('../wordlist_full.csv', '../wordlist.csv-unparsed-main.txt')
+    nLarWords = split_lar_wordlist('../wordlist_full.csv', '../wordlist.csv-unparsed-main.txt')
+    
     analyze('../wordlist-unparsed-all.csv', '../paradigms-NtoV.txt', lexFile, lexRulesFile, derivFile, conversionFile,
             cliticFile, delAnaFile, '../wordlist.csv-parsed-NtoV.txt', '../wordlist.csv-unparsed-NtoV.txt',
             errorFile, xmlOutput, False, parserVerbosity, freqListSeparator, parsingMethod=parsingMethod)
@@ -31,4 +33,15 @@ if __name__ == '__main__':
         fEmpty.close()
         fEmpty = open('../wordlist.csv-parsed-o.txt', 'w')
         fEmpty.close()
+
+    if nLarWords > 0:
+        analyze('../wordlist-lar.csv', '../paradigms.txt', lexFile, lexRulesFile, derivFile, conversionFile,
+                cliticFile, delAnaFile, '../wordlist.csv-parsed-lar.txt', '../wordlist.csv-unparsed-lar.txt',
+                errorFile, xmlOutput, False, parserVerbosity, freqListSeparator, parsingMethod=parsingMethod)
+    else:
+        fEmpty = open('../wordlist.csv-unparsed-lar.txt', 'w')
+        fEmpty.close()
+        fEmpty = open('../wordlist.csv-parsed-lar.txt', 'w')
+        fEmpty.close()
+        
     finalize()

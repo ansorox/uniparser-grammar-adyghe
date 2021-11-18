@@ -112,6 +112,37 @@ def split_o_wordlist(wordlistName, unparsedName):
     return nOWords
 
 
+def split_lar_wordlist(wordlistName, unparsedName):
+    """
+    Read the word lists and write a list of unparsed words
+    that contain А after a letter denoting laryngeal sound (except palochka), replacing it with Э.
+    Return the number of words written.
+    """
+    fAll = open(wordlistName, 'r', encoding='utf-8-sig')
+    fUnparsed = open(unparsedName, 'r', encoding='utf-8-sig')
+    freqDict = {}
+    for line in fAll:
+        if len(line) < 3:
+            continue
+        word, freq = line.strip().split('\t')
+        freqDict[word] = int(freq)
+    fAll.close()
+    nLarWords = 0
+    fOutLar = open('../wordlist-lar.csv', 'w', encoding='utf-8-sig')
+    fOutAll = open('../wordlist-unparsed-all.csv', 'w', encoding='utf-8-sig')
+    for line in fUnparsed:
+        line = line.strip()
+        freq = freqDict[line]
+        fOutAll.write(line + '\t' + str(freq) + '\n')
+        m = re.search('^(.*хь|ӏ|.+[^чтфлпцшк]ӏ)(а)(.*)$', line)
+        if m is None:
+            continue
+        fOutLar.write(m.group(1) + 'э' + m.group(3) + '\t' + str(freq) + '\n')
+        nLarWords += 1
+    fOutLar.close()
+    fOutAll.close()
+    return nLarWords
+
 def postprocess_parsed_wordlist(fnamesIn, fnameOut):
     """
     Unite the analyzed word lists obtained at different
