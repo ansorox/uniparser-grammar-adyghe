@@ -61,5 +61,9 @@
   {"gloss": ".*APPR-OBL.PL.*"},
   {"lemma": "дэдэ", "gloss": "3PL.P.*"},
   {"gramm": "V,.*", "gloss": ".*STEM-OBL.*"},
-  {"gramm": "V,tr.*", "gloss": ".*(ABS|ERG|DYN).*(INT3|SEEM).*$"}
+  {"gramm": "V,tr.*", "gloss": ".*(ABS|ERG|DYN).*(INT3|SEEM).*$"},
+  {"wf": ".*оу", "gramm": "[^.*,rus.*]", "gloss": ".*STEM-ADV$"},
+  {"wf": "зыгорэ.*", "lemma": "гон"},
+  {"wf": "зэкӏэ(ми|мкӏи|мкӏэ|р|ри|мэ)*", "lemma": "кӏэ"},
+  {"wf": "зэкӏэ(ми|мкӏи|мкӏэ|р|ри|мэ)*", "gramm": "V,.*"}
 ]
