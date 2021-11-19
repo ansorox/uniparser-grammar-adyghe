@@ -1,4 +1,4 @@
-[
+﻿[
   {"lemma": "\\[[^ӏ].*\\]", "gloss": "^((DIR|[^-]+\\.ABS|[^-]+\\.ERG|[^-]+\\.IO|REL\\.SUB|DAT)-)*(STEM).*"},
   {"lemma": "\\[ӏэн\\]", "gloss": "^(([^-]+\\.ABS|[^-]+\\.ERG|[^-]+\\.IO|REL\\.SUB|DAT)-)*(STEM).*"},
   {"lemma": "мы", "wfGlossed": "м"},
