@@ -534,6 +534,9 @@
  paradigm: S_incorp
 
 -paradigm: S_incorp
+ -flex: .и<.>
+  gramm: 
+  gloss: LNK
  -flex: .и|тӏу<.>
   gramm: два,incorp,NUM
   gloss: LNK|два
