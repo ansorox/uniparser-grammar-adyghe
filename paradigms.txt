@@ -443,37 +443,37 @@
 
 -paradigm: A_int
  -flex: .кӏэе<.>//.кӏэй<.>
-  gramm: int,int_1
+  gramm: int,int1
   gloss: INT1
  -flex: .кӏай
-  gramm: int,int_1,alt_stem
+  gramm: int,int1,alt_stem
   gloss: INT1
  -flex: .кӏэя<.>//.кӏае<.>
-  gramm: int,int_1,alt_stem
+  gramm: int,int1,alt_stem
   gloss: INT1
  -flex: .бзэ<.>
-  gramm: int,int_2
+  gramm: int,int2
   gloss: INT2
  -flex: .е<.>//.ей<.>
-  gramm: int,int_3
+  gramm: int,int3
   gloss: INT3
  -flex: <0,1>.щэ<.>
-  gramm: exc,exc_1
+  gramm: exc,exc1
   gloss: EXC1
  -flex: <0,1>.щ<.>
-  gramm: exc,exc_1
+  gramm: exc,exc1
   gloss: EXC1
  -flex: <0>.ща<.>
-  gramm: exc,exc_1,alt_stem
+  gramm: exc,exc1,alt_stem
   gloss: EXC1
  -flex: <0,1>.ӏо<.>//<0,1>.ӏуэ<.>
-  gramm: exc,exc_2
+  gramm: exc,exc2
   gloss: EXC2
  -flex: <0,1>.ӏу
-  gramm: exc,exc_2
+  gramm: exc,exc2
   gloss: EXC2
  -flex: <0>.ӏуа<.>
-  gramm: exc,exc_2,alt_stem
+  gramm: exc,exc2,alt_stem
   gloss: EXC2
  paradigm: S_number
  paradigm: S_incorp

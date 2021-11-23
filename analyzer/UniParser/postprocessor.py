@@ -22,19 +22,36 @@ def process_plus_glosses_ana(m):
             sGlosses += '-' + glosses[i]
             continue
         if parts[i] == 'я':
-            sParts += '-й-а'
+            sParts += '-я'
         elif parts[i] == 'ря':
-            sParts += '-рй-а'
+            sParts += '-ря'
         elif parts[i] == 'е':
             sParts += '-й-э'
         elif parts[i] == 'о':
             sParts += '-у-э'
         elif parts[i] == 'шъо':
             sParts += '-шъу-э'
-        if glosses[i] == '3PL.P+POSS':
-            sGlosses += '-POSS-3PL.P'
+
+        elif glosses[i] == '3PL.P+POSS' or glosses[i] == '3PL.IO+DAT':
+            sGlosses += '-' + glosses[i]
+            #sGlosses += '-POSS-3PL.P'
+        elif glosses[i] == 'P.1SG+POSS':
+            sGlosses += '-1SG.P-POSS'
+            sParts += 'с-и'
+
+        elif glosses[i] == 'P.2SG+POSS':
+            sGlosses += '-2SG.P-POSS'
+            sParts += 'у-и'
+
+        elif glosses[i] == 'POSS+ORD':
+            sGlosses += '-POSS-ORD'
+            sParts += 'и-я'
+
         else:
             sGlosses += '-' + glosses[i].replace('+', '-')
+
+
+
     return 'parts="' + sParts.strip('-') + '" gloss="' + sGlosses.strip('-') + '"'
 
 
