@@ -309,6 +309,8 @@
   paradigm: S_cond
  paradigm: S_number
  paradigm: V_possess_neg
+ paradigm: V_possess_q
+ paradigm: V_plus_2
 
 -paradigm: V_possess_neg
  -flex: .эп<.>//.эпы<.>
@@ -320,6 +322,11 @@
   regex-stem: .*[эе][<>.]*$
  paradigm: S_number
 
+-paradigm: V_possess_q
+ -flex: .а
+  gramm: q
+  gloss: Q
+  regex-prev: .*й[<>.]*$
 
 -paradigm: S_possess_inalien
  -flex: .зы.<.>

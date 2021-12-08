@@ -1,8 +1,9 @@
 -lexeme
  lex: [ен]
- stem: .е.|.я.|.е.
- gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr
+ stem: .е.|.я.|.е.|.й
+ gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr|V,intr
  paradigm: poly_V_intr
+ paradigm: V_possess
  trans_ru: иметься
 -lexeme
  lex: [ен]
