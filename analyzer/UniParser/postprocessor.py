@@ -13,7 +13,8 @@ def process_plus_glosses_ana(m):
     if len(parts) != len(glosses):
         return 'parts="' + m.group(1) + '" gloss="' + m.group(2) + '"'
     elif len(glosses) > 1 and glosses[1] == 'STEM' and (parts[:2] == ['я', 'тэ'] or parts[:2] == ['я', 'нэ']):
-        return 'parts="й-а' + m.group(1)[2:] + '" gloss="' + m.group(2) + '"'
+        #return 'parts="й-а' + m.group(1)[2:] + '" gloss="' + m.group(2) + '"'
+        return 'parts="я' + m.group(1)[2:] + '" gloss="' + m.group(2) + '"'
     sParts = ''
     sGlosses = ''
     for i in range(len(parts)):
