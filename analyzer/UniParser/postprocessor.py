@@ -13,8 +13,7 @@ def process_plus_glosses_ana(m):
     if len(parts) != len(glosses):
         return 'parts="' + m.group(1) + '" gloss="' + m.group(2) + '"'
     elif len(glosses) > 1 and glosses[1] == 'STEM' and (parts[:2] == ['я', 'тэ'] or parts[:2] == ['я', 'нэ']):
-        #return 'parts="й-а' + m.group(1)[2:] + '" gloss="' + m.group(2) + '"'
-        return 'parts="я' + m.group(1)[2:] + '" gloss="' + m.group(2) + '"'
+        return 'parts="й-а' + m.group(1)[2:] + '" gloss="' + m.group(2) + '"'
     sParts = ''
     sGlosses = ''
     for i in range(len(parts)):
@@ -32,10 +31,12 @@ def process_plus_glosses_ana(m):
             sParts += '-у-э'
         elif parts[i] == 'шъо':
             sParts += '-шъу-э'
+        if glosses[i] == '3PL.P+POSS':
+            sGlosses += '-3PL.P+POSS'
 
-        elif glosses[i] == '3PL.P+POSS' or glosses[i] == '3PL.IO+DAT':
-            sGlosses += '-' + glosses[i]
-            #sGlosses += '-POSS-3PL.P'
+        elif glosses[i] == '3PL.IO+DAT':
+            sGlosses += '-3PL.IO+DAT'
+
         elif glosses[i] == 'P.1SG+POSS':
             sGlosses += '-1SG.P-POSS'
             sParts += 'с-и'
@@ -47,12 +48,9 @@ def process_plus_glosses_ana(m):
         elif glosses[i] == 'POSS+ORD':
             sGlosses += '-POSS-ORD'
             sParts += 'и-я'
-
         else:
             sGlosses += '-' + glosses[i].replace('+', '-')
-
-
-
+            
     return 'parts="' + sParts.strip('-') + '" gloss="' + sGlosses.strip('-') + '"'
 
 
@@ -130,6 +128,24 @@ def split_o_wordlist(wordlistName, unparsedName):
     return nOWords
 
 
+def postprocess_parsed_wordlist(fnamesIn, fnameOut):
+    """
+    Unite the analyzed word lists obtained at different
+    stages. Postprocess the entire analyzed word list and write
+    the result to a new file.
+    """
+    fOut = open(fnameOut, 'w', encoding='utf-8')
+    for fnameIn in fnamesIn:
+        fIn = open(fnameIn, 'r', encoding='utf-8')
+        for line in fIn:
+            line = process_plus_glosses(line)
+            line = process_adv_glosses(line)
+            line = remove_bad_analyses(line)
+            if '<ana' in line:
+                fOut.write(line)
+        fIn.close()
+    fOut.close()
+
 def split_lar_wordlist(wordlistName, unparsedName):
     """
     Read the word lists and write a list of unparsed words
@@ -160,25 +176,6 @@ def split_lar_wordlist(wordlistName, unparsedName):
     fOutLar.close()
     fOutAll.close()
     return nLarWords
-
-def postprocess_parsed_wordlist(fnamesIn, fnameOut):
-    """
-    Unite the analyzed word lists obtained at different
-    stages. Postprocess the entire analyzed word list and write
-    the result to a new file.
-    """
-    fOut = open(fnameOut, 'w', encoding='utf-8')
-    for fnameIn in fnamesIn:
-        fIn = open(fnameIn, 'r', encoding='utf-8')
-        for line in fIn:
-            line = process_plus_glosses(line)
-            line = process_adv_glosses(line)
-            line = remove_bad_analyses(line)
-            if '<ana' in line:
-                fOut.write(line)
-        fIn.close()
-    fOut.close()
-
 
 def rewrite_unparsed(fnameParsed, fnameUnparsedIn, fnameUnparsedOut):
     """
