@@ -3214,6 +3214,11 @@
   gloss: NEG
   paradigm: V_minus_1
   paradigm: V_minus_1_empty
+ -flex: .мы<.>.<.>
+  gramm: 2.erg,sg.erg,neg
+  gloss: 2SG.ERG+NEG
+  paradigm: V_minus_1
+  paradigm: V_minus_1_empty
  -flex: .орэ<.>.<.>
   gramm: imp2
   gloss: IMP2
@@ -3256,6 +3261,11 @@
  -flex: .мы<.>.<.>
   gramm: neg
   gloss: NEG
+  paradigm: V_minus_1
+  paradigm: V_minus_1_empty
+ -flex: .мы<.>.<.>
+  gramm: 2.erg,sg.erg,neg
+  gloss: 2SG.ERG+NEG
   paradigm: V_minus_1
   paradigm: V_minus_1_empty
  -flex: .орэ<.>.<.>
