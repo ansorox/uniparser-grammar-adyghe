@@ -67,6 +67,7 @@
   {"wf": "зэкӏэ(ми|мкӏи|мкӏэ|р|ри|мэ)*", "lemma": "кӏэ"},
   {"wf": "зэкӏэ(ми|мкӏи|мкӏэ|р|ри|мэ)*", "gramm": "V,.*"},
   {"wf": "^.*и$", "gramm": "^N.*", "gloss": ".*-STEM-.*LNK$"},
-  {"lemma": "\\[ен\\]", "wf": "[су]и.*", "gramm": "^V.*loc.*", "gloss": ".*-LOC-STEM.*$"},
-  {"gloss": ".*(([123](SG|PL)|REL|RFL|REC)\\.ERG|POSS).*-2SG\\.ERG\\+NEG.*$"}
+  {"lemma": "\\[ен\\]", "wf": "^[су]и.*", "gramm": "^V.*loc.*", "gloss": "^.*-LOC-STEM.*$"},
+  {"gloss": "^.*(([123](SG|PL)|REL|RFL|REC)\\.ERG|POSS).*-2SG\\.ERG\\+NEG.*$"}, 
+  {"gramm": "^V,intr.*", "gloss": "^.*2SG\\.ERG\\+NEG.*$"}
 ]
