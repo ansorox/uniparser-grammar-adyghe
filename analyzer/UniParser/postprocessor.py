@@ -37,6 +37,9 @@ def process_plus_glosses_ana(m):
         elif glosses[i] == '3PL.IO+DAT':
             sGlosses += '-3PL.IO+DAT'
 
+        elif glosses[i] == '2SG.ERG+NEG':
+            sGlosses += '-2SG.ERG+NEG'
+
         elif glosses[i] == 'P.1SG+POSS':
             sGlosses += '-1SG.P-POSS'
             sParts += 'с-и'
@@ -48,6 +51,7 @@ def process_plus_glosses_ana(m):
         elif glosses[i] == 'POSS+ORD':
             sGlosses += '-POSS-ORD'
             sParts += 'и-я'
+
         else:
             sGlosses += '-' + glosses[i].replace('+', '-')
             
