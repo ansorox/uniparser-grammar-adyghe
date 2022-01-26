@@ -14,6 +14,11 @@ def process_plus_glosses_ana(m):
         return 'parts="' + m.group(1) + '" gloss="' + m.group(2) + '"'
     elif len(glosses) > 1 and glosses[1] == 'STEM' and (parts[:2] == ['я', 'тэ'] or parts[:2] == ['я', 'нэ']):
         return 'parts="й-а' + m.group(1)[2:] + '" gloss="' + m.group(2) + '"'
+
+    elif glosses[-1] == ['NEG', 'ADV'] and parts[-2][-1] == ['е', 'и', 'э']: 
+        newendparts = parts[-2][:-1] + 'й-э' + parts[-1] 
+        return 'parts="' + m.group(1)[:-2] + newendparts + '" gloss="' + m.group(2) + '"'
+
     sParts = ''
     sGlosses = ''
     for i in range(len(parts)):
@@ -99,6 +104,23 @@ def transform_parsed_o(fnameIn, fnameOut):
     fIn.close()
     fOut.close()
 
+def transform_parsed_lar(fnameIn, fnameOut):
+    """
+    Change the words containing 'хьа', 'ӏа' back to the original
+    orthography (хьэ -> хьа), (ӏэ -> ӏа)
+    """
+    fIn = open(fnameIn, 'r', encoding='utf-8-sig')
+    fOut = open(fnameOut, 'w', encoding='utf-8')
+    rxWord = re.compile('^(.*>)([^<>]*</w>.*)', flags=re.DOTALL)
+    for line in fIn:
+        m = rxWord.search(line)
+        if m is None:
+            print('Error:', line)
+            continue
+        fOut.write(m.group(1) + m.group(2).replace('хьэ', 'хьа'))
+        fOut.write(m.group(1) + m.group(2).replace('ӏэ', 'ӏа'))
+    fIn.close()
+    fOut.close()
 
 def split_o_wordlist(wordlistName, unparsedName):
     """
@@ -209,9 +231,11 @@ def finalize():
     Filter and join all files after all stages of analysis have been performed.
     """
     transform_parsed_o('../wordlist.csv-parsed-o.txt', '../wordlist.csv-parsed-o-corrected.txt')
+    transform_parsed_lar('../wordlist.csv-parsed-lar.txt', '../wordlist.csv-parsed-lar-corrected.txt')
     postprocess_parsed_wordlist(['../parsed_numerals.txt',
                                  '../wordlist.csv-parsed-main.txt',
                                  '../wordlist.csv-parsed-o-corrected.txt',
+                                 '../wordlist.csv-parsed-lar-corrected.txt',
                                  '../wordlist.csv-parsed-NtoV.txt'],
                                 '../wordlist.csv-parsed-final.txt')
     rewrite_unparsed('../wordlist.csv-parsed-final.txt',

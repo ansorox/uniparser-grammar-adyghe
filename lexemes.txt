@@ -1,6 +1,6 @@
 -lexeme
  lex: [ен]
- stem: .е.|.я.|.е.|.й
+ stem: .е.|.я.|.е.|.й.
  gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr|V,intr
  paradigm: poly_V_intr
  paradigm: V_possess
@@ -73,8 +73,8 @@
  trans_ru: уносить
 -lexeme
  lex: [ӏэн]
- stem: .ӏэ.|.ӏа.|.ӏэ.
- gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr
+ stem: .ӏэ.|.ӏа.|.ӏэ.|.ӏ.
+ gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr|V,intr
  paradigm: poly_V_intr
  paradigm: V_possess
  trans_ru: быть
@@ -3747,6 +3747,12 @@
  gramm: A,rus
  paradigm: poly_A
  trans_ru: юридический
+-lexeme
+ lex: ЮФО
+ stem: .юфо.//.юфо-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: Южный федеральный округ
 -lexeme
  lex: ядернэ
  stem: .ядернэ.//.ядерн.
@@ -11272,6 +11278,12 @@
  paradigm: poly_N
  trans_ru: арбитраж
 -lexeme
+ lex: АРИГИ
+ stem: .ариги.//.ариги-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: Адыгейский республиканский институт гуманитарных исследований
+-lexeme
  lex: арсенал
  stem: .арсенал.//.арсеналы.
  gramm: N,rus
@@ -11914,6 +11926,12 @@
  paradigm: poly_N
  trans_ru: власть
 -lexeme
+ lex: ВЛКСМ
+ stem: .влксм.//.влксм-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: ВЛКСМ (Всесоюзный ленинский коммунистический союз молодёжи)
+-lexeme
  lex: внимание
  stem: .внимание.//.внимании.
  gramm: N,rus
@@ -12334,6 +12352,12 @@
  paradigm: poly_N
  trans_ru: грузин
 -lexeme
+ lex: ГТО
+ stem: .гто.//.гто-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: ГТО
+-lexeme
  lex: губернатор
  stem: .губернатор.//.губернаторы.
  gramm: N,rus
@@ -12557,7 +12581,7 @@
  trans_ru: дилер
 -lexeme
  lex: динамо
- stem: .динамо.
+ stem: .динамо.//.динамо-.
  gramm: N,rus
  paradigm: poly_N
  trans_ru: динамо
@@ -12724,11 +12748,11 @@
  paradigm: poly_N
  trans_ru: дорожник
 -lexeme
- lex: досааф
+ lex: ДОСААФ
  stem: .досааф.//.досаафы.
- gramm: N,rus
+ gramm: N,rus,abbr
  paradigm: poly_N
- trans_ru: досааф
+ trans_ru: ДОСААФ
 -lexeme
  lex: дотацие
  stem: .дотацие.//.дотации.
@@ -13438,6 +13462,12 @@
  paradigm: poly_N
  trans_ru: квартира
 -lexeme
+ lex: КВН
+ stem: .квн.//.квн-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: КВН
+-lexeme
  lex: квотэ
  stem: .квотэ.//.квот.
  gramm: N,rus
@@ -14062,6 +14092,12 @@
  paradigm: poly_N
  trans_ru: лауреат
 -lexeme
+ lex: ЛДПР
+ stem: .лдпр.//.лдпр-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: ЛДПР (Либерально-демократическая партия России)
+-lexeme
  lex: легендэ
  stem: .легендэ.//.легенд.
  gramm: N,rus
@@ -14337,6 +14373,12 @@
  gramm: N,rus
  paradigm: poly_N
  trans_ru: машинист
+-lexeme
+ lex: МГУ
+ stem: .мгу.//.мгу-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: МГУ (Московский государственный университет)
 -lexeme
  lex: мебель
  stem: .мебель.//.мебел.//.мебелы.
@@ -14620,6 +14662,18 @@
  paradigm: poly_N
  trans_ru: муссон
 -lexeme
+ lex: МФЦ
+ stem: .мфц.//.мфц-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: МФЦ
+-lexeme
+ lex: МЧС
+ stem: .мчс.//.мчс-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: МЧС
+-lexeme
  lex: наградэ
  stem: .наградэ.//.наград.
  gramm: N,rus
@@ -14847,6 +14901,12 @@
  gramm: N,rus
  paradigm: poly_N
  trans_ru: октябрь
+-lexeme
+ lex: ОМС
+ stem: .омс.//.омс-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: Обязательное медицинское страхование
 -lexeme
  lex: онкодиспансер
  stem: .онкодиспансер.//.онкодиспансеры.
@@ -16011,6 +16071,12 @@
  gramm: N,rus
  paradigm: poly_N
  trans_ru: психолог
+-lexeme
+ lex: ПТУ
+ stem: .пту.//.пту-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: Профессиональное училище
 -lexeme
  lex: публикэ
  stem: .публикэ.//.публик.
@@ -17332,6 +17398,12 @@
  paradigm: poly_N
  trans_ru: танкист
 -lexeme
+ lex: ТАСС
+ stem: .тасс.//.тасс-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: ТАСС
+-lexeme
  lex: тариф
  stem: .тариф.//.тарифы.
  gramm: N,rus
@@ -18644,7 +18716,7 @@
  trans_ru: страховой
 -lexeme
  lex: СССР
- stem: .ссср.
+ stem: .ссср.//.ссср-.
  gramm: N,rus,abbr
  paradigm: poly_N
  trans_ru: СССР
@@ -68107,12 +68179,14 @@
  stem: .бзэ.//.бз.|.бза.|.бзэ.//.бз.
  gramm: N|N,alt_stem,alt_stem1|N
  paradigm: poly_N
+ paradigm: poly_N_inalien
  trans_ru: язык; пружина; рессора
 -lexeme
  lex: бзэгу
  stem: .бзэгу.
  gramm: N
  paradigm: poly_N
+ paradigm: poly_N_inalien
  trans_ru: язык
 -lexeme
  lex: бзэгурацу
@@ -68878,6 +68952,12 @@
  gramm: N
  paradigm: poly_N
  trans_ru: центр
+-lexeme
+ lex: гузэгу
+ stem: .гузэгу.
+ gramm: POST
+ paradigm: poly_POSTN
+ trans_ru: среди
 -lexeme
  lex: гузэжъон
  stem: .гузэжъо.//.гузэжъу.|.гузэжъуа.|.гузажъо.//.гузажъу.
@@ -70155,7 +70235,7 @@
  lex: дэжь
  stem: .дэжь.
  gramm: POST
- paradigm: poly_POST
+ paradigm: poly_POSTN
  trans_ru: возле
 -lexeme
  lex: дэи
@@ -70996,6 +71076,12 @@
  paradigm: poly_ADV
  trans_ru: на днях
 -lexeme
+ lex: зыфагу
+ stem: .зыфагу.//.зыфэгу.
+ gramm: POST
+ paradigm: poly_POSTN
+ trans_ru: между
+-lexeme
  lex: чъэхъун
  stem: .чъэхъун.//.чъэхъуны.
  gramm: V,intr
@@ -71365,6 +71451,12 @@
 -lexeme
  lex: Исус
  stem: .исус.//.исусы.
+ gramm: N
+ paradigm: poly_N
+ trans_ru: Иисус
+-lexeme
+ lex: Иисус
+ stem: .иисус.
  gramm: N
  paradigm: poly_N
  trans_ru: Иисус
@@ -72898,7 +72990,7 @@
  lex: кӏыб
  stem: .кӏыб.
  gramm: POST
- paradigm: poly_POST
+ paradigm: poly_POSTN
  trans_ru: сзади
 -lexeme
  lex: кӏыбы
@@ -74904,7 +74996,7 @@
  lex: неущы
  stem: .неущы.//.неущ.
  gramm: ADV
- paradigm: poly_ADV
+ paradigm: poly_N
  trans_ru: завтра
 -lexeme
  lex: нефтхэкӏ
@@ -75693,6 +75785,12 @@
  gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
  paradigm: poly_N_inalien
  trans_ru: у, перед, фасад
+-lexeme
+ lex: пашъхьэ
+ stem: .пэшъхьэ.//.пэшъхь.|.пэшъхьа.|.пашъхьэ.//.пашъхь.
+ gramm: POST|POST,alt_stem,alt_stem1|POST,alt_stem,alt_stem2
+ paradigm: poly_POSTN
+ trans_ru: у, перед
 -lexeme
  lex: пащэ
  stem: .пэщэ.//.пэщ.|.пэща.|.пащэ.//.пащ.
@@ -78353,6 +78451,12 @@
  paradigm: poly_N
  trans_ru: бог
 -lexeme
+ lex: тхьэ
+ stem: .тхьа.
+ gramm: N
+ paradigm: poly_N
+ trans_ru: бог
+-lexeme
  lex: тхьэлъанэ
  stem: .тхьэлъэнэ.//.тхьалъэнэ.//.тхьэлъэн.//.тхьалъэн.|.тхьэлъэна.//.тхьалъэна.|.тхьэлъанэ.//.тхьалъанэ.//.тхьэлъан.//.тхьалъан.
  gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
@@ -78938,7 +79042,7 @@
  lex: уж
  stem: .уж.
  gramm: POST
- paradigm: poly_POST
+ paradigm: poly_POSTN
  trans_ru: после
 -lexeme
  lex: ужъгъэин
@@ -79324,6 +79428,7 @@
  gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr,alt_stem,alt_stem2
  paradigm: poly_V_intr
  trans_ru: неметь; затекать
+-lexeme
  lex: утэн
  stem: .утэ.//.ут.|.ута.|.утэ.//.ут.
  gramm: V,tr|V,tr,alt_stem,alt_stem1|V,tr
@@ -79368,7 +79473,7 @@
 -lexeme
  lex: Урысые Федерацие
  stem: .уф-.//.уф-ы.
- gramm: N
+ gramm: N,abbr
  paradigm: poly_N
  trans_ru: Российская Федерация
 -lexeme
@@ -81604,6 +81709,12 @@
  paradigm: poly_A
  trans_ru: земледельческий
 -lexeme
+ lex: чӏыгъ
+ stem: .чӏыгъ.
+ gramm: POST
+ paradigm: poly_POSTN
+ trans_ru: под
+-lexeme
  lex: чӏыкъу
  stem: .чӏыкъо.//.чӏыкъу.|.чӏыкъуа.|.чӏыкъо.//.чӏыкъу.
  gramm: N|N,alt_stem,alt_stem1|N
@@ -82023,6 +82134,12 @@
  gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr,alt_stem,alt_stem2
  paradigm: poly_V_intr
  trans_ru: брыкаться; лягать
+-lexeme
+ lex: шъхьагъ
+ stem: .шъхьэгъ.//.шъхьагъ.
+ gramm: POST
+ paradigm: poly_POSTN
+ trans_ru: верх
 -lexeme
  lex: шъхьалтес
  stem: .шъхьалтес.//.шъхьалтесы.
@@ -82898,7 +83015,7 @@
  stem: .щы.//.щ.
  gramm: V,tr
  paradigm: poly_V_tr
- trans_ru: доить
+ trans_ru: вести
 -lexeme
  lex: щынаут
  stem: .щынаут.//.щынауты.
@@ -83919,3 +84036,377 @@
  gramm: N
  paradigm: poly_N
  trans_ru: сладость
+
+
+-lexeme
+ lex: ОНФ
+ stem: .онф.//.онф-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: Общероссийский народный фронт
+-lexeme
+ lex: МГУ
+ stem: .мгу.//.мгу-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: МГУ (Московский государственный университет)
+-lexeme
+ lex: МГТУ
+ stem: .мгту.//.мгту-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: Московский государственный технический университет
+-lexeme
+ lex: МКъТУ
+ stem: .мкъту.//.мкъту-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: МГТУ (Московский государственный технический университет)
+-lexeme
+ lex: КПРФ
+ stem: .кпрф.//.кпрф-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: Коммунистическая партия Российской Федерации
+-lexeme
+ lex: КПСС
+ stem: .кпсс.//.кпсс-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: Коммунистическая партия Советского Союза
+-lexeme
+ lex: ЦК
+ stem: .цк.//.цк-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: Центральный комитет
+-lexeme
+ lex: ГДР
+ stem: .гдр.//.гдр-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: ГДР
+-lexeme
+ lex: ЖЭУ
+ stem: .жэу.//.жэу-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: Жилищно-эксплуатационное управление
+-lexeme
+ lex: ВДНХ
+ stem: .вднх.//.вднх-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: ВДНХ
+-lexeme
+ lex: РСЧС
+ stem: .рсчс.//.рсчс-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: Единая государственная система предупреждения и ликвидации чрезвычайных ситуаций
+-lexeme
+ lex: АГУ
+ stem: .агу.//.агу-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: Адыгейский государственный университет
+-lexeme
+ lex: АКъУ
+ stem: .акъу.//.акъу-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: АГУ (Адыгейский государственный университет)
+-lexeme
+ lex: ЖКХ
+ stem: .жкх.//.жкх-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: ЖКХ
+-lexeme
+ lex: ГИБДД
+ stem: .гибдд.//.гибдд-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: ГИБДД
+-lexeme
+ lex: МРЭО
+ stem: .мрэо.//.мрэо-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: Межрайонный регистрационно-экзаменационный отдел
+-lexeme
+ lex: СПИД
+ stem: .спид.//.спид-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: СПИД
+-lexeme
+ lex: ИКЕА
+ stem: .икеа.//.икеа-.
+ gramm: N,rus
+ paradigm: poly_N
+ trans_ru: ИКЕА
+-lexeme
+ lex: КАФФЕД
+ stem: .каффед.//.каффед-.
+ gramm: N,abbr
+ paradigm: poly_N
+ trans_ru: Федерация Кавказских Ассоциаций в Турции
+-lexeme
+ lex: ЗАГС
+ stem: .загс.//.загс-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: ЗАГС
+-lexeme
+ lex: МТС
+ stem: .мтс.//.мтс-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: МТС
+-lexeme
+ lex: ПАО
+ stem: .пао.//.пао-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: Публичное акционерное общество
+-lexeme
+ lex: ОПЕК
+ stem: .опек.//.опек-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: Организация стран — экспортёров нефти
+-lexeme
+ lex: ВКП(б)
+ stem: .вкп(б).//.вкп(б)-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: Всесоюзная коммунистическая партия большевиков
+-lexeme
+ lex: ФСБ
+ stem: .фсб.//.фсб-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: Федеральная служба безопасности
+-lexeme
+ lex: ФОК
+ stem: .фок.//.фок-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: Физкультурно-оздоровительный комплекс
+-lexeme
+ lex: ЦРУ
+ stem: .цру.//.цру-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: Центральное разведывательное управление
+-lexeme
+ lex: ЗАО
+ stem: .зао.//.зао-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: Закрытое акционерное общество
+-lexeme
+ lex: ООО
+ stem: .ооо.//.ооо-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: Открытое акционерное общество
+-lexeme
+ lex: ААО
+ stem: .аао.//.аао-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: Адыгейская автономная область
+-lexeme
+ lex: ФАП
+ stem: .фап.//.фап-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: Фельдшерско-акушерский пункт
+-lexeme
+ lex: НСУ
+ stem: .нсу.//.нсу-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: Набор социальных услуг
+-lexeme
+ lex: ДПС
+ stem: .дпс.//.дпс-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: Дорожно-патрульная служба
+-lexeme
+ lex: NASA
+ stem: .nasa.//.nasa-.
+ gramm: N,abbr
+ paradigm: poly_N
+ trans_ru: НАСА, Национальное управление по аэронавтике и исследованию космического пространства
+-lexeme
+ lex: КъБР
+ stem: .къбр.//.къбр-.
+ gramm: N,abbr
+ paradigm: poly_N
+ trans_ru: Кабардино-Балкарская Республика
+-lexeme
+ lex: ЦВСНП
+ stem: .цвснп.//.цвснп-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: Центр временного содержания для несовершеннолетних правонарушителей
+-lexeme
+ lex: ФМС
+ stem: .фмс.//.фмс-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: Федеральная миграционная служба
+-lexeme
+ lex: МСЭ
+ stem: .мсэ.//.мсэ-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: медико-социальная экспертиза
+-lexeme
+ lex: АРСПК
+ stem: .арспк.//.арспк-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: Адыгейская республиканская станция переливания крови
+-lexeme
+ lex: НАТО
+ stem: .нато.//.нато-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: НАТО
+-lexeme
+ lex: ООН
+ stem: .оон.//.оон-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: Организация Объединённых Наций
+-lexeme
+ lex: КъЩР
+ stem: .къщр.//.къщр-.
+ gramm: N,abbr
+ paradigm: poly_N
+ trans_ru: КЧР, Карачаево-Черкесская Республика
+-lexeme
+ lex: ЕГЭ
+ stem: .егэ.//.егэ-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: Единый государственный экзамен
+-lexeme
+ lex: КГБ
+ stem: .кгб.//.кгб-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: Комитет государственной безопасности
+-lexeme
+ lex: КНИИСХ
+ stem: .книисх.//.книисх-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: Краснодарский научно-исследовательский институт сельского хозяйства
+-lexeme
+ lex: МКАД
+ stem: .мкад.//.мкад-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: Московская кольцевая автомобильная дорога
+-lexeme
+ lex: РЖД
+ stem: .ржд.//.ржд-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: Российские железные дороги
+-lexeme
+ lex: ЦЗН
+ stem: .цзн.//.цзн-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: Центр занятости населения
+-lexeme
+ lex: ЧАЭС
+ stem: .чаэс.//.чаэс-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: Чернобыльская атомная электростанция
+-lexeme
+ lex: АМАН
+ stem: .аман.//.аман-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: Адыгская международная академия наук
+-lexeme
+ lex: ГИТИС
+ stem: .гитис.//.гитис-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: ГИТИС
+-lexeme
+ lex: ФНС
+ stem: .фнс.//.фнс-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: Федеральная налоговая служба
+-lexeme
+ lex: АиФ
+ stem: .аиф.//.аиф-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: Аргументы и Факты
+-lexeme
+ lex: СНГ
+ stem: .снг.//.снг-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: СНГ
+-lexeme
+ lex: ШВСМ
+ stem: .швсм.//.швсм-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: Школа высшего спортивного мастерства
+-lexeme
+ lex: НКВД
+ stem: .нквд.//.нквд-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: НКВД
+-lexeme
+ lex: ОМОН
+ stem: .омон.//.омон-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: ОМОН
+-lexeme
+ lex: ФСКН
+ stem: .фскн.//.фскн-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: Федеральная служба по контролю за оборотом наркотиков 
+-lexeme
+ lex: ОФМС
+ stem: .офмс.//.офмс-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: ОФМС
+-lexeme
+ lex: МГГТК
+ stem: .мггтк.//.мггтк-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: Майкопский государственный гуманитарно-технический колледж
+-lexeme
+ lex: РКСМ
+ stem: .рксм.//.рксм-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: Российский коммунистический союз молодёжи
+-lexeme
+ lex: КДН
+ stem: .кдн.//.кдн-.
+ gramm: N,rus,abbr
+ paradigm: poly_N
+ trans_ru: Комиссия по делам несовершеннолетних

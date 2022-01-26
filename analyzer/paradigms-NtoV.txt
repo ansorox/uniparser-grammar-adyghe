@@ -301,8 +301,8 @@
   gramm: nmlz.loc
   gloss: NMLZ.LOC
  -flex: <0,1>.гъэ<.>//<0,1>.гъ<.>
-  gramm: nmlz
-  gloss: NMLZ.ABSTR
+  gramm: abstr
+  gloss: ABSTR
  paradigm: S_number
  paradigm: S_incorp
 
@@ -2687,8 +2687,8 @@
   gramm: nmlz
   gloss: NMLZ.AG
  -flex: <0>.ны|гъэ<.>//<0>.ны|гъ<.>
-  gramm: mod,nmlz
-  gloss: MOD|NMLZ.ABSTR
+  gramm: mod,abstr
+  gloss: MOD|ABSTR
  -flex: <0,1>.гъо<.>//<0,1>.гъу<.>
   gramm: nmlz
   gloss: NMLZ.TIME
