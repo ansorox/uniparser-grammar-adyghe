@@ -581,8 +581,8 @@
   gramm: q
   gloss: Q
  -flex: .ба
-  gramm: ba
-  gloss: BA
+  gramm: emp
+  gloss: EMP
 
 -paradigm: additives_case
  -flex: .

@@ -27474,7 +27474,7 @@
 -lexeme
  lex: Алахь
  stem: .алахь.//.алахьэ.//.алахьы.
- gramm: N,persn
+ gramm: N
  paradigm: poly_N
  trans_ru: Аллах
 -lexeme

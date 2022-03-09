@@ -27474,7 +27474,13 @@
 -lexeme
  lex: Алахь
  stem: .алахь.//.алахьэ.//.алахьы.
- gramm: N,persn
+ gramm: N
+ paradigm: poly_N
+ trans_ru: Аллах
+-lexeme
+ lex: Аллахь
+ stem: .аллахь.//.аллахьэ.//.аллахьы.
+ gramm: N
  paradigm: poly_N
  trans_ru: Аллах
 -lexeme
@@ -70393,12 +70399,12 @@
  gramm: N
  paradigm: poly_N
  trans_ru: грамота
--lexeme
- lex: еджэн
- stem: .джэ.//.дж.|.джа.|.джэ.//.дж.
- gramm: V,intr,dat_v|V,intr,alt_stem,alt_stem1,dat_v|V,intr,dat_v
- paradigm: poly_V_intr
- trans_ru: читать; учиться
+#-lexeme
+# lex: еджэн
+# stem: .джэ.//.дж.|.джа.|.джэ.//.дж.
+# gramm: V,intr,dat_v|V,intr,alt_stem,alt_stem1,dat_v|V,intr,dat_v
+# paradigm: poly_V_intr
+# trans_ru: читать; учиться
 -lexeme
  lex: еджэнджэшын
  stem: .джэнджэшы.//.джэнджэш.
@@ -70453,12 +70459,12 @@
  gramm: V,intr,dat_v
  paradigm: poly_V_intr
  trans_ru: соответствовать; подходить
--lexeme
- lex: елъэӏун
- stem: .лъэӏу.
- gramm: V,intr,dat_v
- paradigm: poly_V_intr
- trans_ru: просить
+#-lexeme
+# lex: елъэӏун
+# stem: .лъэӏу.
+# gramm: V,intr,dat_v
+# paradigm: poly_V_intr
+# trans_ru: просить
 -lexeme
  lex: емын
  stem: .емын.//.емыны.
@@ -70591,12 +70597,12 @@
  gramm: V,intr,dat_v|V,intr,alt_stem,alt_stem1,dat_v|V,intr,dat_v
  paradigm: poly_V_intr
  trans_ru: подтесать
--lexeme
- lex: еупчӏын
- stem: .упчӏы.//.упчӏ.
- gramm: V,intr,dat_v
- paradigm: poly_V_intr
- trans_ru: спрашивать
+#-lexeme
+# lex: еупчӏын
+# stem: .упчӏы.//.упчӏ.
+# gramm: V,intr,dat_v
+# paradigm: poly_V_intr
+# trans_ru: спрашивать
 -lexeme
  lex: еутхын
  stem: .утхы.//.утх.
@@ -74409,12 +74415,6 @@
 # gramm: APRO
 # paradigm: poly_APRO
 # trans_ru: этот
--lexeme
- lex: мы
- stem: .мы.//.м.
- gramm: N
- paradigm: poly_N
- trans_ru: кислица
 -lexeme
  lex: мыджыр
  stem: .мыджыр.//.мыджыры.
