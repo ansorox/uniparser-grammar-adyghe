@@ -1029,7 +1029,10 @@
   gramm: 
   paradigm: SPRO_number
   paradigm: poly_INT_incorp
- -flex: <.>.ры<.>
+ -flex: <.>.ры
+  gramm: pred
+  gloss: PRED
+ -flex: .ры<.>
   gramm: pred
   gloss: PRED
   paradigm: V_minus_9_intr_NtoV
@@ -1095,15 +1098,12 @@
   gramm: 
   paradigm: SPRO_number
   paradigm: poly_INT_incorp
- -flex: <.>.ры<.>
+ -flex: .ры<.>
   gramm: pred
   gloss: PRED
   paradigm: V_minus_9_intr_NtoV
   paradigm: additives
   #paradigm: poly_V_intr
- -flex: .ры
-  gramm: pred
-  gloss: PRED
  -flex: .р<.>
   gramm: pred
   gloss: PRED
