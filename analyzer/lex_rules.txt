@@ -10194,22 +10194,22 @@
   lex2: иуцон
   gramm2: V,intr  
   trans_ru2: встать
--lex_rule
- -search
-  stem: .дзэ.
-  wfGlossed: (?:^|[+-])и[-+].*?дз[аэ]
- -add
-  lex2: ибдзэн
-  gramm2: V,tr  
-  trans_ru2: спихнуть;бросить внутрь чего-л.
--lex_rule
- -search
-  stem: .дза.
-  wfGlossed: (?:^|[+-])и[-+].*?дз[аэ]
- -add
-  lex2: ибдзэн
-  gramm2: V,tr  
-  trans_ru2: спихнуть;бросить внутрь чего-л.
+# -lex_rule
+#  -search
+#   stem: .дзэ.
+#   wfGlossed: (?:^|[+-])и[-+].*?дз[аэ]
+#  -add
+#   lex2: ибдзэн
+#   gramm2: V,tr  
+#   trans_ru2: спихнуть;бросить внутрь чего-л.
+# -lex_rule
+#  -search
+#   stem: .дза.
+#   wfGlossed: (?:^|[+-])и[-+].*?дз[аэ]
+#  -add
+#   lex2: ибдзэн
+#   gramm2: V,tr  
+#   trans_ru2: спихнуть;бросить внутрь чего-л.
 -lex_rule
  -search
   stem: .быбы.
@@ -18427,22 +18427,22 @@
   lex2: ӏэпызын
   gramm2: V,intr  
   trans_ru2: уронить
--lex_rule
- -search
-  stem: .дзэ.
-  wfGlossed: (?:^|[+-])и[-+].*?дз[аэ]
- -add
-  lex2: идзэн
-  gramm2: V,tr  
-  trans_ru2: бросить внутрь чего-л.; уважить
--lex_rule
- -search
-  stem: .дза.
-  wfGlossed: (?:^|[+-])и[-+].*?дз[аэ]
- -add
-  lex2: идзэн
-  gramm2: V,tr  
-  trans_ru2: бросить внутрь чего-л.; уважить
+# -lex_rule
+#  -search
+#   stem: .дзэ.
+#   wfGlossed: (?:^|[+-])и[-+].*?дз[аэ]
+#  -add
+#   lex2: идзэн
+#   gramm2: V,tr  
+#   trans_ru2: бросить внутрь чего-л.; уважить
+# -lex_rule
+#  -search
+#   stem: .дза.
+#   wfGlossed: (?:^|[+-])и[-+].*?дз[аэ]
+#  -add
+#   lex2: идзэн
+#   gramm2: V,tr  
+#   trans_ru2: бросить внутрь чего-л.; уважить
 -lex_rule
  -search
   stem: .лъэсы.
