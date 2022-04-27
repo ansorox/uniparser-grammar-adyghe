@@ -84562,7 +84562,7 @@
 -lexeme
  lex: гъэсэн
  stem: .гъэсэ.//.гъэс.|.гъэса.|.гъасэ.//.гъас.
- gramm: V,tr|V,tr,alt_stem,alt_stem1|V,tralt_stem,alt_stem2
+ gramm: V,tr|V,tr,alt_stem,alt_stem1|V,tr,alt_stem,alt_stem2
  paradigm: poly_V_tr
  trans_ru: учить; воспитывать
 -lexeme

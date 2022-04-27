@@ -36,7 +36,7 @@
   wfGlossed: аы?[+-]д[аэ](?:ы?[+-]|$)
  -add
   lex2: адэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: там
 -lex_rule
  -search
@@ -449,7 +449,7 @@
   wfGlossed: б[аэ]ы?[+-]р[аэ](?:ы?[+-]|$)
  -add
   lex2: бэрэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: долго; часто; многократно
 -lex_rule
  -search
@@ -457,7 +457,7 @@
   wfGlossed: б[аэ]ы?[+-]р[аэ](?:ы?[+-]|$)
  -add
   lex2: бэрэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: долго; часто; многократно
 -lex_rule
  -search
@@ -774,7 +774,7 @@
   wfGlossed: гурыш[аэ]ы?[+-]кӏ[аэ](?:ы?[+-]|$)
  -add
   lex2: гурышэкӏэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: мысленно
 -lex_rule
  -search
@@ -782,7 +782,7 @@
   wfGlossed: гурыш[аэ]ы?[+-]кӏ[аэ](?:ы?[+-]|$)
  -add
   lex2: гурышэкӏэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: мысленно
 -lex_rule
  -search
@@ -790,7 +790,7 @@
   wfGlossed: гурыӏ(?:о|у[аэ])ы?[+-]гъ(?:о|у[аэ])ы?[+-].*[яе](?:ы?[+-]|$)
  -add
   lex2: гурыӏогъое
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: непонятный
 -lex_rule
  -search
@@ -806,7 +806,7 @@
   wfGlossed: гу.*?фиты?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: гуфитэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: вольно
 -lex_rule
  -search
@@ -814,7 +814,7 @@
   wfGlossed: гу.*?фиты?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: гуфитэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: вольно
 -lex_rule
  -search
@@ -1003,7 +1003,7 @@
   wfGlossed: гуӏ[аэ]ны?[+-]кӏ[аэ](?:ы?[+-]|$)
  -add
   lex2: гуӏэнкӏэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: спешно; наспех
 -lex_rule
  -search
@@ -1011,7 +1011,7 @@
   wfGlossed: гуӏ[аэ]ны?[+-]кӏ[аэ](?:ы?[+-]|$)
  -add
   lex2: гуӏэнкӏэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: спешно; наспех
 -lex_rule
  -search
@@ -1457,7 +1457,7 @@
   wfGlossed: джыы?[+-]ри(?:ы?[+-]|$)
  -add
   lex2: джыри
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: ещё
 -lex_rule
  -search
@@ -2260,7 +2260,7 @@
   gloss: .*DAT.*
  -add
   lex2: егъашӏэкӏэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: навек; навечно
 -lex_rule
  -search
@@ -2269,7 +2269,7 @@
   gloss: .*DAT.*
  -add
   lex2: егъашӏэкӏэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: навек; навечно
 -lex_rule
  -search
@@ -2278,7 +2278,7 @@
   gloss: .*DAT.*
  -add
   lex2: егъашӏэм
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: навсегда; вечно
 -lex_rule
  -search
@@ -2287,7 +2287,7 @@
   gloss: .*DAT.*
  -add
   lex2: егъашӏэм
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: навсегда; вечно
 -lex_rule
  -search
@@ -2457,7 +2457,7 @@
   wfGlossed: ежь-[яе]жьыы?[+-]ры?[+-].*[аэ]у(?:ы?[+-]|$)
  -add
   lex2: ежь-ежьырэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: самостоятельно
 -lex_rule
  -search
@@ -2582,7 +2582,7 @@
   wfGlossed: [яе]лб[аэ]ты?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: елбэтэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: наспех; срочно; опрометью
 -lex_rule
  -search
@@ -2590,7 +2590,7 @@
   wfGlossed: [яе]лб[аэ]ты?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: елбэтэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: наспех; срочно; опрометью
 -lex_rule
  -search
@@ -2851,7 +2851,7 @@
   gloss: .*DAT.*
  -add
   lex2: епэгэкӏэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: пренебрежительно
 -lex_rule
  -search
@@ -2860,7 +2860,7 @@
   gloss: .*DAT.*
  -add
   lex2: епэгэкӏэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: пренебрежительно
 -lex_rule
  -search
@@ -2966,7 +2966,7 @@
   gloss: .*DAT.*
  -add
   lex2: еужьырэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: наспех
 -lex_rule
  -search
@@ -3458,7 +3458,7 @@
   wfGlossed: жъ[аэ]жъы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: жъажъэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: медленно
 -lex_rule
  -search
@@ -3466,7 +3466,7 @@
   wfGlossed: жъ[аэ]жъы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: жъажъэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: медленно
 -lex_rule
  -search
@@ -3474,7 +3474,7 @@
   wfGlossed: жъалымы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: жъалымэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: бесчеловечно
 -lex_rule
  -search
@@ -3548,7 +3548,7 @@
   wfGlossed: жьабгъуы?[+-]мы?[+-].*кӏ[аэ](?:ы?[+-]|$)
  -add
   lex2: жьабгъумкӏэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: направо
 -lex_rule
  -search
@@ -3596,7 +3596,7 @@
   wfGlossed: ж[аэ].*?рыӏ(?:о|у[аэ])ы?[+-]кӏ[аэ](?:ы?[+-]|$)
  -add
   lex2: жэрыӏокӏэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: словесно
 -lex_rule
  -search
@@ -3604,7 +3604,7 @@
   wfGlossed: ж[аэ].*?рыӏ(?:о|у[аэ])ы?[+-]кӏ[аэ](?:ы?[+-]|$)
  -add
   lex2: жэрыӏокӏэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: словесно
 -lex_rule
  -search
@@ -3612,7 +3612,7 @@
   wfGlossed: ж[аэ].*?рыӏ(?:о|у[аэ])ы?[+-]кӏ[аэ](?:ы?[+-]|$)
  -add
   lex2: жэрыӏокӏэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: словесно
 -lex_rule
  -search
@@ -3728,7 +3728,7 @@
   wfGlossed: занд[аэ]ы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: зандэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: круто
 -lex_rule
  -search
@@ -3736,7 +3736,7 @@
   wfGlossed: занд[аэ]ы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: зандэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: круто
 -lex_rule
  -search
@@ -3744,7 +3744,7 @@
   wfGlossed: з[аэ]фы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: зафэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: объективно
 -lex_rule
  -search
@@ -3752,7 +3752,7 @@
   wfGlossed: з[аэ]фы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: зафэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: объективно
 -lex_rule
  -search
@@ -3970,7 +3970,7 @@
   wfGlossed: (?:^|[+-])зи[+-].*гъ[аэ]?[-+].*?былъыы?[+-]з[аэ](?:ы?[+-]|$)
  -add
   lex2: зигъэбылъызэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: крадучись
 -lex_rule
  -search
@@ -3978,7 +3978,7 @@
   wfGlossed: (?:^|[+-])зи[+-].*гъ[аэ]?[-+].*?ины?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: зигъэинэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: высокомерно
 -lex_rule
  -search
@@ -4146,7 +4146,7 @@
   wfGlossed: зыг(?:о|у[аэ])р[аэ]ы?[+-]кӏ[аэ](?:ы?[+-]|$)
  -add
   lex2: зыгорэкӏэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: случайно; почему-нибудь
 -lex_rule
  -search
@@ -4154,7 +4154,7 @@
   wfGlossed: зыг(?:о|у[аэ])р[аэ]ы?[+-]кӏ[аэ](?:ы?[+-]|$)
  -add
   lex2: зыгорэкӏэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: случайно; почему-нибудь
 -lex_rule
  -search
@@ -4808,7 +4808,7 @@
   wfGlossed: зышӏ(?:о|у[аэ])шӏыжьы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: зышӏошӏыжьэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: надменно; надменно; высокомерно
 -lex_rule
  -search
@@ -5521,7 +5521,7 @@
   wfGlossed: (?:^|[+-])з[аэ]?[+-].*г(?:о|у[аэ])[-+].*?ты?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: зэготэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: рядом
 -lex_rule
  -search
@@ -6783,7 +6783,7 @@
   wfGlossed: (?:^|[+-])з[аэ]?[+-].*мы?[-+].*?бл[аэ]жьы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: зэмыблэжьэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: беззаветно
 -lex_rule
  -search
@@ -6791,7 +6791,7 @@
   wfGlossed: (?:^|[+-])з[аэ]?[+-].*мы?[-+].*?бл[аэ]жьы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: зэмыблэжьэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: беззаветно
 -lex_rule
  -search
@@ -6799,7 +6799,7 @@
   wfGlossed: (?:^|[+-])з[аэ]?[+-].*мы?[-+].*?лӏ[аэ]ужыы?[+-]гъ(?:о|у[аэ])ы?[+-].*[аэ]у(?:ы?[+-]|$)
  -add
   lex2: зэмылӏэужыгъоу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: разнообразно
 -lex_rule
  -search
@@ -6807,7 +6807,7 @@
   wfGlossed: (?:^|[+-])з[аэ]?[+-].*мы?[-+].*?лӏ[аэ]ужыы?[+-]гъ(?:о|у[аэ])ы?[+-].*[аэ]у(?:ы?[+-]|$)
  -add
   lex2: зэмылӏэужыгъоу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: разнообразно
 -lex_rule
  -search
@@ -6831,7 +6831,7 @@
   wfGlossed: (?:^|[+-])з[аэ]?[+-].*мы?[-+].*?п[аэ]сы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: зэмыпэсэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: свысока
 -lex_rule
  -search
@@ -6839,7 +6839,7 @@
   wfGlossed: (?:^|[+-])з[аэ]?[+-].*мы?[-+].*?п[аэ]сы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: зэмыпэсэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: свысока
 -lex_rule
  -search
@@ -6912,7 +6912,7 @@
   wfGlossed: з[аэ](?:о|у[аэ])-запсы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: зэо-запсэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: наповал
 -lex_rule
  -search
@@ -6920,7 +6920,7 @@
   wfGlossed: з[аэ](?:о|у[аэ])-запсы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: зэо-запсэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: наповал
 -lex_rule
  -search
@@ -6928,7 +6928,7 @@
   wfGlossed: (?:^|[+-])з[аэ]?[+-].*пы?[+-].*а?[-+].*?чъ[аэ]ы?[+-]з[аэ](?:ы?[+-]|$)
  -add
   lex2: зэпачъэзэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: вперегонки
 -lex_rule
  -search
@@ -6936,7 +6936,7 @@
   wfGlossed: (?:^|[+-])з[аэ]?[+-].*пы?[+-].*а?[-+].*?чъ[аэ]ы?[+-]з[аэ](?:ы?[+-]|$)
  -add
   lex2: зэпачъэзэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: вперегонки
 -lex_rule
  -search
@@ -6963,7 +6963,7 @@
   gloss: .*DAT.*
  -add
   lex2: зэпеӏэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: наперевес
 -lex_rule
  -search
@@ -6972,7 +6972,7 @@
   gloss: .*DAT.*
  -add
   lex2: зэпеӏэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: наперевес
 -lex_rule
  -search
@@ -7278,7 +7278,7 @@
   wfGlossed: (?:^|[+-])з[аэ]?[+-].*пы[-+].*?ты?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: зэпытэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: непрерывно
 -lex_rule
  -search
@@ -7509,7 +7509,7 @@
   wfGlossed: (?:^|[+-])з[аэ]?[-+].*?шъхь[аэ]фы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: зэпэшъхьафэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: врассыпную
 -lex_rule
  -search
@@ -7517,7 +7517,7 @@
   wfGlossed: (?:^|[+-])з[аэ]?[-+].*?шъхь[аэ]фы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: зэпэшъхьафэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: врассыпную
 -lex_rule
  -search
@@ -7557,7 +7557,7 @@
   wfGlossed: (?:^|[+-])з[аэ]?[+-].*п[аэ]?[+-].*ӏ[аэ]?[-+].*?пчъы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: зэпэӏапчъэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: разобщённо
 -lex_rule
  -search
@@ -7590,7 +7590,7 @@
   wfGlossed: (?:^|[+-])з[аэ]?[+-].*ры?[+-].*а?[-+].*?пхъ(?:о|у[аэ])ы?[+-]з[аэ](?:ы?[+-]|$)
  -add
   lex2: зэрапхъозэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: нарасхват
 -lex_rule
  -search
@@ -7678,7 +7678,7 @@
   wfGlossed: (?:^|[+-])зэр[аэ]?[+-].*и[-+].*?лъ[аэ]кӏы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: зэрилъэкӏэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: напряженно
 -lex_rule
  -search
@@ -7686,7 +7686,7 @@
   wfGlossed: (?:^|[+-])зэр[аэ]?[+-].*и[-+].*?лъ[аэ]кӏы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: зэрилъэкӏэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: напряженно
 -lex_rule
  -search
@@ -7694,7 +7694,7 @@
   wfGlossed: (?:^|[+-])з[аэ]?[+-].*ры?[+-].*и[+-].*мы?[-+].*?п[аэ]сы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: зэримыпэсэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: пренебрежительно
 -lex_rule
  -search
@@ -7702,7 +7702,7 @@
   wfGlossed: (?:^|[+-])з[аэ]?[+-].*ры?[+-].*и[+-].*мы?[-+].*?п[аэ]сы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: зэримыпэсэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: пренебрежительно
 -lex_rule
  -search
@@ -7710,7 +7710,7 @@
   wfGlossed: (?:^|[+-])з[аэ]?[+-].*ры?[+-].*и[-+].*?фэшъу[аэ]шы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: зэрифэшъуашэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: хорошенько
 -lex_rule
  -search
@@ -7718,7 +7718,7 @@
   wfGlossed: (?:^|[+-])з[аэ]?[+-].*ры?[+-].*и[-+].*?фэшъу[аэ]шы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: зэрифэшъуашэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: хорошенько
 -lex_rule
  -search
@@ -8323,7 +8323,7 @@
   wfGlossed: з[аэ]ужыы?[+-]мы?[+-].*кӏи(?:ы?[+-]|$)
  -add
   lex2: зэужымкӏи
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: всего
 -lex_rule
  -search
@@ -8331,7 +8331,7 @@
   wfGlossed: з[аэ]ужыы?[+-]мы?[+-].*кӏи(?:ы?[+-]|$)
  -add
   lex2: зэужымкӏи
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: всего
 -lex_rule
  -search
@@ -8348,7 +8348,7 @@
   gloss: .*PST.*
  -add
   lex2: зэфагъэкӏэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: справедливо
 -lex_rule
  -search
@@ -8357,7 +8357,7 @@
   gloss: .*PST.*
  -add
   lex2: зэфагъэкӏэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: справедливо
 -lex_rule
  -search
@@ -8414,7 +8414,7 @@
   wfGlossed: (?:^|[+-])з[аэ]?[+-].*ф[аэ]?[-+].*?ди.*?зы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: зэфэдизэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: поровну
 -lex_rule
  -search
@@ -8422,7 +8422,7 @@
   wfGlossed: (?:^|[+-])з[аэ]?[+-].*ф[аэ]?[-+].*?ди.*?зы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: зэфэдизэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: поровну
 -lex_rule
  -search
@@ -8462,7 +8462,7 @@
   wfGlossed: (?:^|[+-])з[аэ]?[+-].*ф[аэ]?[-+].*?д[аэ]ы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: зэфэдэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: равномерно
 -lex_rule
  -search
@@ -8470,7 +8470,7 @@
   wfGlossed: (?:^|[+-])з[аэ]?[+-].*ф[аэ]?[-+].*?д[аэ]ы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: зэфэдэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: равномерно
 -lex_rule
  -search
@@ -8590,7 +8590,7 @@
   wfGlossed: (?:^|[+-])з[аэ]?[+-].*ф[аэ]?[-+].*?шъхь[аэ]фы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: зэфэшъхьафэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: порознь; разобщённо
 -lex_rule
  -search
@@ -8598,7 +8598,7 @@
   wfGlossed: (?:^|[+-])з[аэ]?[+-].*ф[аэ]?[-+].*?шъхь[аэ]фы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: зэфэшъхьафэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: порознь; разобщённо
 -lex_rule
  -search
@@ -9220,7 +9220,7 @@
   wfGlossed: (?:^|[+-])з[аэ]?[+-].*х[аэ]?[-+].*?у.*?гуфыы?[+-]кӏыы?[+-].*гъы?[+-].*[аэ]у(?:ы?[+-]|$)
  -add
   lex2: зэхэугуфыкӏыгъэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: понятно; конкретно
 -lex_rule
  -search
@@ -9228,7 +9228,7 @@
   wfGlossed: (?:^|[+-])з[аэ]?[+-].*х[аэ]?[-+].*?у.*?гуфыы?[+-]кӏыы?[+-].*гъы?[+-].*[аэ]у(?:ы?[+-]|$)
  -add
   lex2: зэхэугуфыкӏыгъэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: понятно; конкретно
 -lex_rule
  -search
@@ -10233,7 +10233,7 @@
   wfGlossed: игъо-рыгъ(?:о|у[аэ])ы?[+-]з[аэ](?:ы?[+-]|$)
  -add
   lex2: игъо-рыгъозэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: исподволь
 -lex_rule
  -search
@@ -10257,7 +10257,7 @@
   wfGlossed: (?:^|[+-])и[-+].*?гъ(?:о|у[аэ])ы?[+-]м(?:ы?[+-]|$)
  -add
   lex2: игъом
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: вовремя
 -lex_rule
  -search
@@ -10265,7 +10265,7 @@
   wfGlossed: (?:^|[+-])и[-+].*?гъ(?:о|у[аэ]).*?н[аэ]мысы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: игъонэмысэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: скоропостижно
 -lex_rule
  -search
@@ -10273,7 +10273,7 @@
   wfGlossed: (?:^|[+-])и[-+].*?гъ(?:о|у[аэ]).*?н[аэ]мысы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: игъонэмысэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: скоропостижно
 -lex_rule
  -search
@@ -10281,7 +10281,7 @@
   wfGlossed: (?:^|[+-])и[-+].*?гъ(?:о|у[аэ]).*?н[аэ]мысы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: игъонэмысэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: скоропостижно
 -lex_rule
  -search
@@ -10507,7 +10507,7 @@
   gloss: .*NMLZ.*
  -add
   lex2: икуупӏэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: вглубь
 -lex_rule
  -search
@@ -10563,7 +10563,7 @@
   wfGlossed: (?:^|[+-])и[-+].*?кӏ[аэ]рыкӏы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: икӏэрыкӏэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: опять; заново; сызнова
 -lex_rule
  -search
@@ -10571,7 +10571,7 @@
   wfGlossed: (?:^|[+-])и[-+].*?кӏ[аэ]рыкӏы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: икӏэрыкӏэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: опять; заново; сызнова
 -lex_rule
  -search
@@ -10772,7 +10772,7 @@
   wfGlossed: (?:^|[+-])и[-+].*?т[яе]плъ[аэ]ы?[+-]кӏ[аэ](?:ы?[+-]|$)
  -add
   lex2: итеплъэкӏэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: внешне
 -lex_rule
  -search
@@ -10780,7 +10780,7 @@
   wfGlossed: (?:^|[+-])и[-+].*?т[яе]плъ[аэ]ы?[+-]кӏ[аэ](?:ы?[+-]|$)
  -add
   lex2: итеплъэкӏэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: внешне
 -lex_rule
  -search
@@ -10897,7 +10897,7 @@
   gloss: .*NMLZ.*
  -add
   lex2: иублапӏэм
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: вначале
 -lex_rule
  -search
@@ -10906,7 +10906,7 @@
   gloss: .*NMLZ.*
  -add
   lex2: иублапӏэм
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: вначале
 -lex_rule
  -search
@@ -11293,7 +11293,7 @@
   wfGlossed: к(?:о|у[аэ])лл[яе]ктивн[аэ]ы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: коллективнэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: коллективно
 -lex_rule
  -search
@@ -11301,7 +11301,7 @@
   wfGlossed: к(?:о|у[аэ])лл[яе]ктивн[аэ]ы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: коллективнэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: коллективно
 -lex_rule
  -search
@@ -11326,7 +11326,7 @@
   gloss: .*NMLZ.*
  -add
   lex2: куупӏэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: вглубь
 -lex_rule
  -search
@@ -11334,7 +11334,7 @@
   wfGlossed: къабз[аэ]ы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: къабзэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: набело;чисто
 -lex_rule
  -search
@@ -11342,7 +11342,7 @@
   wfGlossed: къабз[аэ]ы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: къабзэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: набело;чисто
 -lex_rule
  -search
@@ -11580,7 +11580,7 @@
   gloss: .*DAT.*
  -add
   lex2: къелыжьыфэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: вдоволь; вдоволь; вволю
 -lex_rule
  -search
@@ -12433,7 +12433,7 @@
   wfGlossed: къ(?:о|у[аэ])нцӏы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: къонцӏэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: набекрень
 -lex_rule
  -search
@@ -13166,7 +13166,7 @@
   wfGlossed: (?:^|[+-])къы?[+-].*з[аэ]?[+-].*ры?[-+].*?кӏ(?:о|у[аэ])ы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: къызэрыкӏоу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: обыкновенно; попросту; скромно; посредственно
 -lex_rule
  -search
@@ -13624,7 +13624,7 @@
   wfGlossed: (?:^|[+-])къы?[+-].*пы[+-].*щы?[-+].*?ты?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: къыпыщытэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: напротив
 -lex_rule
  -search
@@ -16703,7 +16703,7 @@
   gloss: .*PST.*
  -add
   lex2: лӏыгъэкӏэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: насильно
 -lex_rule
  -search
@@ -17079,7 +17079,7 @@
   wfGlossed: н[аэ]бгъунджыы?[+-]кӏ[аэ](?:ы?[+-]|$)
  -add
   lex2: нэбгъунджыкӏэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: искоса
 -lex_rule
  -search
@@ -17087,7 +17087,7 @@
   wfGlossed: н[аэ]бгъунджыы?[+-]кӏ[аэ](?:ы?[+-]|$)
  -add
   lex2: нэбгъунджыкӏэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: искоса
 -lex_rule
  -search
@@ -18257,7 +18257,7 @@
   wfGlossed: п[аэ]мыкӏы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: пэмыкӏэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: по-другому
 -lex_rule
  -search
@@ -18265,7 +18265,7 @@
   wfGlossed: п[аэ]мыкӏы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: пэмыкӏэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: по-другому
 -lex_rule
  -search
@@ -18361,7 +18361,7 @@
   wfGlossed: (?:^|[+-])п[аэ]?[+-].*ӏу?[-+].*?сы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: пэӏусэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: напротив
 -lex_rule
  -search
@@ -18369,7 +18369,7 @@
   wfGlossed: (?:^|[+-])п[аэ]?[+-].*ӏу?[-+].*?ты?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: пэӏутэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: напротив
 -lex_rule
  -search
@@ -18409,7 +18409,7 @@
   wfGlossed: пӏэлъ[аэ]ы?[+-]нчъы?[+-].*[аэ]у(?:ы?[+-]|$)
  -add
   lex2: пӏэлъэнчъэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: навечно
 -lex_rule
  -search
@@ -18417,7 +18417,7 @@
   wfGlossed: пӏэлъ[аэ]ы?[+-]нчъы?[+-].*[аэ]у(?:ы?[+-]|$)
  -add
   lex2: пӏэлъэнчъэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: навечно
 -lex_rule
  -search
@@ -19129,7 +19129,7 @@
   wfGlossed: (?:^|[+-])т[яе][+-].*мы?[-+].*?фы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: темыфэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: невпопад
 -lex_rule
  -search
@@ -19794,7 +19794,7 @@
   wfGlossed: тыд[аэ]ы?[+-]кӏи(?:ы?[+-]|$)
  -add
   lex2: тыдэкӏи
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: всюду
 -lex_rule
  -search
@@ -19802,7 +19802,7 @@
   wfGlossed: тыд[аэ]ы?[+-]кӏи(?:ы?[+-]|$)
  -add
   lex2: тыдэкӏи
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: всюду
 -lex_rule
  -search
@@ -19818,7 +19818,7 @@
   wfGlossed: тӏ[аэ]кӏу.*?тӏ[аэ]кӏуы?[+-]з[аэ](?:ы?[+-]|$)
  -add
   lex2: тӏэкӏу-тӏэкӏузэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: постепенно
 -lex_rule
  -search
@@ -19826,7 +19826,7 @@
   wfGlossed: тӏ[аэ]кӏу.*?тӏ[аэ]кӏуы?[+-]з[аэ](?:ы?[+-]|$)
  -add
   lex2: тӏэкӏу-тӏэкӏузэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: постепенно
 -lex_rule
  -search
@@ -19834,7 +19834,7 @@
   wfGlossed: тӏ[аэ]кӏу.*?тӏ[аэ]кӏуы?[+-]з[аэ](?:ы?[+-]|$)
  -add
   lex2: тӏэкӏу-тӏэкӏузэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: постепенно
 -lex_rule
  -search
@@ -19842,7 +19842,7 @@
   wfGlossed: тӏ[аэ]кӏу.*?тӏ[аэ]кӏуы?[+-]з[аэ](?:ы?[+-]|$)
  -add
   lex2: тӏэкӏу-тӏэкӏузэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: постепенно
 -lex_rule
  -search
@@ -20093,7 +20093,7 @@
   wfGlossed: (?:^|[+-])з[аэ]?[+-].*х[аэ]?[-+].*?ты?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: зэхэтэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: сообща
 -lex_rule
  -search
@@ -20872,7 +20872,7 @@
   wfGlossed: (?:^|[+-])ф[аэ]?[-+].*?шъхьэф[аэ]
  -add
   lex2: фэшъхьафэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: кроме;по-иному
 -lex_rule
  -search
@@ -20880,7 +20880,7 @@
   wfGlossed: (?:^|[+-])ф[аэ]?[-+].*?шъхьэф[аэ]
  -add
   lex2: фэшъхьафэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: кроме;по-иному
 -lex_rule
  -search
@@ -21870,7 +21870,7 @@
   wfGlossed: х[аэ]ты?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: хэтэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: включительно
 -lex_rule
  -search
@@ -21878,7 +21878,7 @@
   wfGlossed: х[аэ]ты?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: хэтэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: включительно
 -lex_rule
  -search
@@ -21982,7 +21982,7 @@
   wfGlossed: х[аэ]укъ(?:о|у[аэ])ы?[+-]ныгъы?[+-].*[аэ]у(?:ы?[+-]|$)
  -add
   lex2: хэукъоныгъэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: неправильно
 -lex_rule
  -search
@@ -21990,7 +21990,7 @@
   wfGlossed: х[аэ]укъ(?:о|у[аэ])ы?[+-]ныгъы?[+-].*[аэ]у(?:ы?[+-]|$)
  -add
   lex2: хэукъоныгъэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: неправильно
 -lex_rule
  -search
@@ -22582,7 +22582,7 @@
   wfGlossed: чэр[аэ]зы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: чэрэзэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: кубарем
 -lex_rule
  -search
@@ -22590,7 +22590,7 @@
   wfGlossed: чэр[аэ]зы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: чэрэзэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: кубарем
 -lex_rule
  -search
@@ -22737,7 +22737,7 @@
   wfGlossed: чӏэгъ-чӏ[аэ]лъы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: чӏэгъ-чӏэлъэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: иносказательно
 -lex_rule
  -search
@@ -22745,7 +22745,7 @@
   wfGlossed: чӏэгъ-чӏ[аэ]лъы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: чӏэгъ-чӏэлъэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: иносказательно
 -lex_rule
  -search
@@ -23293,7 +23293,7 @@
   wfGlossed: шъхъын-шъхъыны?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: шъхъын-шъхъынэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: вдребезги
 -lex_rule
  -search
@@ -23432,7 +23432,7 @@
   wfGlossed: шъхьа.*?ч[аэ]ы?[+-]кӏ[аэ](?:ы?[+-]|$)
  -add
   lex2: шъхьачэкӏэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: навзничь
 -lex_rule
  -search
@@ -23440,7 +23440,7 @@
   wfGlossed: шъхьа.*?ч[аэ]ы?[+-]кӏ[аэ](?:ы?[+-]|$)
  -add
   lex2: шъхьачэкӏэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: навзничь
 -lex_rule
  -search
@@ -23448,7 +23448,7 @@
   wfGlossed: шъхьа.*?ч[аэ]ы?[+-]кӏ[аэ](?:ы?[+-]|$)
  -add
   lex2: шъхьачэкӏэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: навзничь
 -lex_rule
  -search
@@ -23607,7 +23607,7 @@
   wfGlossed: шъхь[аэ].*?псынкӏ[аэ]ы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: шъхьэпсынкӏэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: опрометчиво
 -lex_rule
  -search
@@ -23615,7 +23615,7 @@
   wfGlossed: шъхь[аэ].*?псынкӏ[аэ]ы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: шъхьэпсынкӏэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: опрометчиво
 -lex_rule
  -search
@@ -23623,7 +23623,7 @@
   wfGlossed: шъхь[аэ].*?псынкӏ[аэ]ы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: шъхьэпсынкӏэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: опрометчиво
 -lex_rule
  -search
@@ -23631,7 +23631,7 @@
   wfGlossed: шъхь[аэ].*?псынкӏ[аэ]ы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: шъхьэпсынкӏэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: опрометчиво
 -lex_rule
  -search
@@ -23894,7 +23894,7 @@
   wfGlossed: шъыпкъ[аэ]ы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: шъыпкъэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: естественно; серьёзно
 -lex_rule
  -search
@@ -23902,7 +23902,7 @@
   wfGlossed: шъыпкъ[аэ]ы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: шъыпкъэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: естественно; серьёзно
 -lex_rule
  -search
@@ -23960,7 +23960,7 @@
   wfGlossed: шъ[аэ]фыы?[+-]кӏ[аэ](?:ы?[+-]|$)
  -add
   lex2: шъэфыкӏэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: втайне
 -lex_rule
  -search
@@ -23968,7 +23968,7 @@
   wfGlossed: шъ[аэ]фыы?[+-]кӏ[аэ](?:ы?[+-]|$)
  -add
   lex2: шъэфыкӏэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: втайне
 -lex_rule
  -search
@@ -23976,7 +23976,7 @@
   wfGlossed: шы.*?уы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: шыоу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: верхом
 -lex_rule
  -search
@@ -23984,7 +23984,7 @@
   wfGlossed: шы.*?уы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: шыоу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: верхом
 -lex_rule
  -search
@@ -24184,7 +24184,7 @@
   wfGlossed: шӏуы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: шӏоу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: благополучно; основательно
 -lex_rule
  -search
@@ -24284,7 +24284,7 @@
   wfGlossed: шӏуы?[+-]кӏ[аэ](?:ы?[+-]|$)
  -add
   lex2: шӏукӏэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: по-хорошему
 -lex_rule
  -search
@@ -24524,7 +24524,7 @@
   wfGlossed: (?:^|[+-])щы?[+-].*и[-+].*?зы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: щизэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: вровень
 -lex_rule
  -search
@@ -25430,7 +25430,7 @@
   wfGlossed: (?:^|[+-])ы?[-+].*?гуы?[+-]кӏ[аэ](?:ы?[+-]|$)
  -add
   lex2: ыгукӏэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: мысленно
 -lex_rule
  -search
@@ -25454,7 +25454,7 @@
   wfGlossed: (?:^|[+-])ы?[-+].*?п[аэ]ы?[+-]кӏ[аэ](?:ы?[+-]|$)
  -add
   lex2: ыпэкӏэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: спереди; раньше
 -lex_rule
  -search
@@ -25462,7 +25462,7 @@
   wfGlossed: (?:^|[+-])ы?[-+].*?п[аэ]ы?[+-]кӏ[аэ](?:ы?[+-]|$)
  -add
   lex2: ыпэкӏэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: спереди; раньше
 -lex_rule
  -search
@@ -25470,7 +25470,7 @@
   wfGlossed: ыужыы?[+-]кӏ[аэ](?:ы?[+-]|$)
  -add
   lex2: ыужыкӏэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: потом; назад
 -lex_rule
  -search
@@ -25502,7 +25502,7 @@
   wfGlossed: (?:^|[+-])ы?[-+].*?чӏ[аэ]ы?[+-]кӏ[аэ](?:ы?[+-]|$)
  -add
   lex2: ычӏэкӏэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: вниз; внизу
 -lex_rule
  -search
@@ -25510,7 +25510,7 @@
   wfGlossed: (?:^|[+-])ы?[-+].*?чӏ[аэ]ы?[+-]кӏ[аэ](?:ы?[+-]|$)
  -add
   lex2: ычӏэкӏэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: вниз; внизу
 -lex_rule
  -search
@@ -25526,7 +25526,7 @@
   wfGlossed: (?:^|[+-])ы?[-+].*?шъхь[аэ]ы?[+-]кӏ[аэ](?:ы?[+-]|$)
  -add
   lex2: ышъхьэкӏэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: лично
 -lex_rule
  -search
@@ -25534,7 +25534,7 @@
   wfGlossed: (?:^|[+-])ы?[-+].*?шъхь[аэ]ы?[+-]кӏ[аэ](?:ы?[+-]|$)
  -add
   lex2: ышъхьэкӏэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: лично
 -lex_rule
  -search
@@ -25824,7 +25824,7 @@
   wfGlossed: ӏ(?:о|у[аэ])фы?[+-][аэ]п(?:ы?[+-]|$)
  -add
   lex2: ӏофэп
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: ничего
 -lex_rule
  -search
@@ -26302,7 +26302,7 @@
   wfGlossed: ӏэд[аэ]бы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: ӏэдэбэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: деликатно
 -lex_rule
  -search
@@ -26310,7 +26310,7 @@
   wfGlossed: ӏэд[аэ]бы?[+-][аэ]у(?:ы?[+-]|$)
  -add
   lex2: ӏэдэбэу
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: деликатно
 -lex_rule
  -search
@@ -26414,7 +26414,7 @@
   wfGlossed: ӏ[аэ].*?пшъ[аэ]-лъа.*?пшъ[аэ]ы?[+-]кӏ[аэ](?:ы?[+-]|$)
  -add
   lex2: ӏэпшъэ-лъапшъэкӏэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: врукопашную
 -lex_rule
  -search
@@ -26422,7 +26422,7 @@
   wfGlossed: ӏ[аэ].*?пшъ[аэ]-лъа.*?пшъ[аэ]ы?[+-]кӏ[аэ](?:ы?[+-]|$)
  -add
   lex2: ӏэпшъэ-лъапшъэкӏэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: врукопашную
 -lex_rule
  -search
@@ -26430,7 +26430,7 @@
   wfGlossed: ӏ[аэ].*?пшъ[аэ]-лъа.*?пшъ[аэ]ы?[+-]кӏ[аэ](?:ы?[+-]|$)
  -add
   lex2: ӏэпшъэ-лъапшъэкӏэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: врукопашную
 -lex_rule
  -search
@@ -26438,7 +26438,7 @@
   wfGlossed: ӏ[аэ].*?пшъ[аэ]-лъа.*?пшъ[аэ]ы?[+-]кӏ[аэ](?:ы?[+-]|$)
  -add
   lex2: ӏэпшъэ-лъапшъэкӏэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: врукопашную
 -lex_rule
  -search
@@ -26446,7 +26446,7 @@
   wfGlossed: ӏ[аэ].*?пшъ[аэ]-лъа.*?пшъ[аэ]ы?[+-]кӏ[аэ](?:ы?[+-]|$)
  -add
   lex2: ӏэпшъэ-лъапшъэкӏэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: врукопашную
 -lex_rule
  -search
@@ -26454,7 +26454,7 @@
   wfGlossed: ӏ[аэ].*?пшъ[аэ]-лъа.*?пшъ[аэ]ы?[+-]кӏ[аэ](?:ы?[+-]|$)
  -add
   lex2: ӏэпшъэ-лъапшъэкӏэ
-  gramm2: ADV  
+  gramm2: AD  
   trans_ru2: врукопашную
 -lex_rule
  -search

@@ -36,6 +36,9 @@ def process_plus_glosses_ana(m):
             sParts += '-у-э'
         elif parts[i] == 'шъо':
             sParts += '-шъу-э'
+        elif parts[i] == 'мы':
+            sParts += '-мы'
+            
         if glosses[i] == '3PL.P+POSS':
             sGlosses += '-3PL.P+POSS'
 
