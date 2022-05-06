@@ -26,7 +26,7 @@
   {"gloss": ".*STEM$", "gramm": ".*,alt_stem1.*", "wf": ".*[ая][^аоуыеёэюяий]*$", "lemma": ".*[оэе][^аоуыеёэюяи]*$"},
   {"gramm": ".*,alt_stem.*", "gloss": "(?!.*AUX).*", "wf": "^.*(?<!у)а.*ы.*$", "lemma": ".*[оэе][^аоуыеёэюяи]*$"},
   {"gloss": ".*STEM(-(PL|DYN|RE|NEG|ABS|INS|OBL[^-]*|ADV|ADD|COORD|Q|EMP|CS))*$", "gramm": ".*,alt_stem1.*"},
-  {"wfGlossed": ".*[оэе][^аоуыеёэюяи-]*[оэе][^аоуыеёэюяи-]*(-[^-]*)$", "gloss": ".*STEM(-(PL|DYN|RE|NEG|ABS|INS|OBL[^-]*|ADD|COORD|Q|EMP|CS))$", "gramm": "^N$|^N,[^rpfg](.(?!alt_stem))*$"},
+  {"wfGlossed": ".*[оэе][^аоуыеёэюяи-]*[оэе][^аоуыеёэюяи-]*(-[^-]*)$", "gloss": ".*STEM(-(PL|DYN|RE|NEG|ABS|INS|OBL[^-]*|ADD|COORD|Q|EMP|CS))$", "gramm": "^N$|^N,(?!(rus|famn|geo|persn)).*(?!alt_stem.*)$"},
   {"gloss": "^((?<!REL).)*DYN.*STEM.*-(ABS|ERG|INS|OBL|DYN).*$|^.*DYN.*-(CS)([^2]+)*$"},
   {"gramm": ".*dyn.*", "gloss": "^((?<!REL).)*.*STEM.*-(PST|FUT|AUX|PST2)(.(?!MOD))*$"},
   {"gloss": "REL\\.TMP.*-DYN.*-STEM(.(?!ABS|ERG|INS|OBL|ADV))*$"},
@@ -35,7 +35,7 @@
   {"gloss": ".*DAT-STEM", "wfGlossed": ".*я-.{0,3}$", "gramm": ".*alt_stem.*"},
   {"gloss": ".*NMLZ\\.TIME-добрый.*"},
   {"gloss": ".*[12]SG\\.ABS(.(?!REL))*-PL.*"},
-  {"gramm": ".*alt_stem.*", "gloss": ".*STEM-([^P][^-]*|PL|)$", "wfGlossed": "^.*а-[^аоуыеёэюяи-]*$"},
+  {"gramm": ".*alt_stem.*", "gloss": ".*STEM-([^P][^-]*|PL|)$", "wfGlossed": "((^.*а-[^аоуыеёэюяи-]*$)&(^.*а-.*[^ъь]$))"},
   {"wf": "^(зыфиӏорэ[рм]?|зиӏэ)$", "gloss": "^RFL.*"},
   {"wf": "джы", "lemma": "джын"},
   {"wf": "^(щыт|ит)$", "lemma": "тын"},
@@ -78,8 +78,8 @@
   {"gramm": "^V,.*", "gloss": "^.*REL\\.SUB.*DYN.*STEM.*$"},
   {"gloss": "^.*ASRT.*STEM.*$"},
   {"gramm": "^V,tr,.*", "gloss": "^(?!.*ERG).*DYN.*STEM.*$"},
-  {"gramm": "^V,.*", "gloss": "^.*((?<!DAT).)*(DOWN|CONT|INCH).*$"},
-  {"gramm": "^V,.*", "gloss": "^.*((?<!COM).)*(UP).*$"},
+  {"gloss": "^.*((?<!DAT).)*(DOWN|CONT|INCH).*$"},
+  {"gloss": "^.*((?<!COM).)*(UP).*$"},
   {"gramm": "^.*(N,|stat).*", "gloss": "^.*DAT((?<!CAUS).)*$"},
   {"wf": "^дэжь.{,3}$", "gramm": "^[^POST].*"}
 ]

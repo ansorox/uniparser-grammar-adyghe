@@ -70221,7 +70221,7 @@
  trans_ru: именно; очень
 -lexeme
  lex: дэжь
- stem: .дэжь.
+ stem: .дэжь.//.дэжьы.
  gramm: POST
  paradigm: poly_POSTN
  trans_ru: возле
