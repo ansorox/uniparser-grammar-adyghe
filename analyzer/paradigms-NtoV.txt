@@ -2681,16 +2681,16 @@
   gramm: nmlz.loc
   gloss: NMLZ.LOC
  -flex: <0,1>.кӏэ<.>//<0,1>.кӏ<.>
-  gramm: nmlz
+  gramm: nmlz,nmlz.mnr
   gloss: NMLZ.MNR
  -flex: <0,1>.кӏо<.>//<0,1>.кӏу<.>//<0>.кӏуа<.>
-  gramm: nmlz
+  gramm: nmlz,nmlz.ag
   gloss: NMLZ.AG
  -flex: <0>.ны|гъэ<.>//<0>.ны|гъ<.>
   gramm: mod,abstr
   gloss: MOD|ABSTR
  -flex: <0,1>.гъо<.>//<0,1>.гъу<.>
-  gramm: nmlz
+  gramm: nmlz,nmlz.time
   gloss: NMLZ.TIME
  paradigm: S_aug
  paradigm: S_incorp

@@ -861,6 +861,24 @@
   gramm: pl,другой,obl
   gloss: другой|PL|OBL
   paradigm: additives
+ -flex: .дырэ|хэ<.>
+  gramm: pl,другой
+  gloss: другой|PL
+  paradigm: case
+  paradigm: additives
+ -flex: .дырэ<.>
+  gramm: sg,другой
+  gloss: другой
+  paradigm: case_PRO
+  paradigm: additives
+ -flex: .дырэ|м<.>
+  gramm: sg,другой,obl
+  gloss: другой|OBL
+  paradigm: additives
+ -flex: .дырэ|хэ|м<.>
+  gramm: pl,другой,obl
+  gloss: другой|PL|OBL
+  paradigm: additives
  -flex: .хэ<.>
   gramm: pl
   gloss: PL
@@ -1452,8 +1470,8 @@
   paradigm: V_minus_5
   paradigm: V_minus_4
  -flex: .а|къы<.>.<.>
-  gramm: 3.erg,pl.erg,dir
-  gloss: 3PL.ERG|DIR
+  gramm: 3.io,pl.io,dir
+  gloss: 3PL.IO|DIR
   paradigm: V_minus_6_intr
   paradigm: V_minus_2_3
   regex-prev: ^(с|т|у|шъу)[<>.]*$
@@ -1556,8 +1574,8 @@
   paradigm: V_minus_1_empty
   paradigm: V_minus_4_intr
  -flex: .а|къы<.>.<.>
-  gramm: 3.erg,pl.erg,dir
-  gloss: 3PL.ERG|DIR
+  gramm: 3.io,pl.io,dir
+  gloss: 3PL.IO|DIR
   paradigm: V_minus_6_intr
   paradigm: V_minus_2_3
   regex-prev: ^(с|т|у|шъу)[<>.]*$
@@ -3542,16 +3560,16 @@
   gramm: nmlz.loc
   gloss: NMLZ.LOC
  -flex: <0,1>.кӏэ<.>//<0,1>.кӏ<.>
-  gramm: nmlz
+  gramm: nmlz,nmlz.mnr
   gloss: NMLZ.MNR
  -flex: <0,1>.кӏо<.>//<0,1>.кӏу<.>//<0>.кӏуа<.>
-  gramm: nmlz
+  gramm: nmlz,nmlz.ag
   gloss: NMLZ.AG
  -flex: <0>.ны|гъэ<.>//<0>.ны|гъ<.>
   gramm: mod,abstr
   gloss: MOD|ABSTR
  -flex: <0,1>.гъо<.>//<0,1>.гъу<.>
-  gramm: nmlz
+  gramm: nmlz,nmlz.time
   gloss: NMLZ.TIME
  paradigm: S_aug
  paradigm: S_car

@@ -59,7 +59,7 @@
   {"gramm": "V.*dat_v.*", "gloss": "^((?<!DAT).)*$"},
   {"gloss": "^((?!OPT).)*AUX$"},
   {"gramm": "^[^V],.*appr.*", "gloss": ".*APPR.*"}, 
-  {"gramm": ".*nmlz.*", "gloss": ".*APPR.*"}, 
+  {"gramm": ".*nmlz.*", "gloss": ".*(APPR|DYN).*"}, 
   {"gloss": ".*APPR.*(OBL|ABS).*"},
   {"gramm": ".*dyn.*", "gloss": ".*(IMP2|APPR).*"}, 
   {"lemma": "дэдэ", "gloss": "3PL.P.*"},
@@ -81,5 +81,9 @@
   {"gloss": "^.*((?<!DAT).)*(DOWN|CONT|INCH).*$"},
   {"gloss": "^.*((?<!COM).)*(UP).*$"},
   {"gramm": "^.*(N,|stat).*", "gloss": "^.*DAT((?<!CAUS).)*$"},
-  {"wf": "^дэжь.{,3}$", "gramm": "^[^POST].*"}
+  {"wf": "^дэжь.{,3}$", "gramm": "^[^POST].*"},
+  {"lemma": "^.*[эы]$", "wfGlossed": ".*[^эы]-рэ.*$", "gloss": "^.*STEM-COORD.*$"},
+  {"gramm": "^.*neg_ep.*", "gloss": "^.*STEM.*-NEG-(?!ADD|CS|MOD|CS2).*$"},
+  {"lemma": "^чӏы$", "gloss": "^.*NMLZ.LOC.*$"}, 
+  {"wf": "^тыри.*$", "gloss": "^LOC-LOC.*"}
 ]

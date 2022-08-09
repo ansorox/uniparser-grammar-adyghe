@@ -77677,7 +77677,7 @@
  trans_ru: так
 -lexeme
  lex: сымадж
- stem: .сымэдж.//.сымэджэ.|.сымэджа.|.сымадж.//.сымаджы.
+ stem: .сымэдж.//.сымэджэ.|.сымэджа.|.сымадж.//.сымаджэ.
  gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
  paradigm: poly_N
  trans_ru: больной
