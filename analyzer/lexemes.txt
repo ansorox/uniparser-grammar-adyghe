@@ -69737,12 +69737,6 @@
  paradigm: poly_V_intr
  trans_ru: закваситься; свернуться
 -lexeme
- lex: гъэр
- stem: .гъэ.//.гъ.|.гъа.|.гъэ.//.гъ.
- gramm: N|N,alt_stem,alt_stem1|N
- paradigm: poly_N
- trans_ru: год
--lexeme
  lex: сэин
  stem: .сэи.
  gramm: V,intr
@@ -70483,12 +70477,12 @@
  gramm: V,intr,dat_v|V,intr,alt_stem,alt_stem1,dat_v|V,intr,dat_v
  paradigm: poly_V_intr
  trans_ru: перепрыгивать
--lexeme
- lex: еплъын
- stem: .плъы.//.плъ.
- gramm: V,intr,dat_v
- paradigm: poly_V_intr
- trans_ru: смотреть
+# -lexeme
+# lex: еплъын
+# stem: .плъы.//.плъ.
+# gramm: V,intr,dat_v
+# paradigm: poly_V_intr
+# trans_ru: смотреть
 -lexeme
  lex: епщэн
  stem: .пщэ.//.пщ.|.пща.|.пщэ.//.пщ.
@@ -74498,7 +74492,7 @@
  stem: .мысэ.//.мыс.|.мыса.|.мысэ.//.мыс.
  gramm: A|A,alt_stem,alt_stem1|A
  paradigm: poly_A
- trans_ru: виновный; чужой
+ trans_ru: виновный
 -lexeme
  lex: мыстын
  stem: .мысты.//.мыст.
@@ -74603,7 +74597,7 @@
  trans_ru: яблоко
 -lexeme
  lex: мэ
- stem: .мэ.|.ма.|.мэ.
+ stem: .мэ.//.м.|.ма.|.мэ.//.м.
  gramm: N|N,alt_stem,alt_stem1|N
  paradigm: poly_N_inalien
  trans_ru: запах
@@ -77582,8 +77576,8 @@
 -lexeme
  lex: сыд
  stem: .сыд.//.сыды.
- gramm: APRO
- paradigm: poly_APRO
+ gramm: NPRO
+ paradigm: poly_NPRO
  trans_ru: что
 -lexeme
  lex: сыдж
