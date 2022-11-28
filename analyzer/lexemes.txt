@@ -71280,12 +71280,12 @@
  gramm: A|A,alt_stem,alt_stem1|A,alt_stem,alt_stem2
  paradigm: poly_A
  trans_ru: импортный
--lexeme
- lex: ин
- stem: .и.
- gramm: V,tr
- paradigm: poly_V_tr
- trans_ru: мазать; побелить
+#-lexeme
+# lex: ин
+# stem: .и.
+# gramm: V,tr
+# paradigm: poly_V_tr
+# trans_ru: мазать; побелить
 -lexeme
  lex: инвентарнэ
  stem: .инвентэрнэ.//.инвентэрн.|.инвентэрна.|.инвентарнэ.//.инвентарн.
@@ -72194,7 +72194,7 @@
  trans_ru: статный
 -lexeme
  lex: къодый
- stem: .къодый.//.къодыи.
+ stem: .къодый.//.къодыи.//.къодые.//.къодыя.
  gramm: AD
  paradigm: poly_ADV
  trans_ru: только
@@ -73001,8 +73001,8 @@
  trans_ru: безмолвие
 -lexeme
  lex: кӏымаф
- stem: .кӏымаф.//.кӏымафы.
- gramm: N
+ stem: .кӏымэфэ.//.кӏымэф.|.кӏымэфа.|.кӏымафэ.//.кӏымаф.
+ gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
  paradigm: poly_N
  trans_ru: зима
 -lexeme
@@ -73567,7 +73567,7 @@
  stem: .лъэпкъ.//.лъэпкъы.
  gramm: N
  paradigm: poly_N
- trans_ru: сорт; род
+ trans_ru: сорт; род; народ
 -lexeme
  lex: лъэпэд
  stem: .лъэпэд.//.лъэпэды.
@@ -75578,7 +75578,7 @@
 -lexeme
  lex: опсэу
  stem: .опсэу.
- gramm: N
+ gramm: FORMULA
  paradigm: poly_N
  trans_ru: спасибо
 -lexeme
@@ -77821,10 +77821,16 @@
  trans_ru: пылинка
 -lexeme
  lex: сэсый
- stem: .сэсый.//.сэсыйы.
+ stem: .сэсый.//.сэсыйы.//.cэсые.//.cэсие.
  gramm: APRO
  paradigm: poly_APRO
  trans_ru: мой
+-lexeme
+ lex: тэтый
+ stem: .тэтый.//.тэтыйы.//.тэтые.//.тэтие.
+ gramm: APRO
+ paradigm: poly_APRO
+ trans_ru: наш
 -lexeme
  lex: сэх
  stem: .сэх.//.сэхы.
@@ -84435,9 +84441,9 @@
  trans_ru: соплеменник
 -lexeme
  lex: гъогумаф
- stem: .лъэпкъэгъу.
- gramm: FORMULA
- paradigm: zero
+ stem: .гъогумэфэ.//.гъогумэф.|.гъогумэфа.|.гъогумафэ.//.гъогумаф.
+ gramm: FORMULA|FORMULA,alt_stem,alt_stem1|FORMULA,alt_stem,alt_stem2
+ paradigm: poly_N
  trans_ru: счастливого пути!
 -lexeme
  lex: апщи
@@ -84561,7 +84567,7 @@
  trans_ru: учить; воспитывать
 -lexeme
  lex: псауныгъ
- stem: .псауныгъ.
+ stem: .псауныгъэ.//.псауныгъ.
  gramm: N
  paradigm: poly_N
  trans_ru: здоровье

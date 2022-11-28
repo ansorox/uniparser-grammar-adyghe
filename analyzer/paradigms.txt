@@ -3722,15 +3722,12 @@
  -flex: <0,1>.гъо<.>
   gramm: opt
   gloss: OPT
-  regex-next-gramm: ^[.,<>0-9]*aux.*
  -flex: <0>.гъа|гъо<.>
   gramm: pst,opt
   gloss: PST|OPT
-  regex-next-gramm: ^[.,<>0-9]*aux.*
  -flex: <0>.жьы|гъа|гъо<.>
   gramm: re,pst,opt
   gloss: RE|PST|OPT
-  regex-next-gramm: ^[.,<>0-9]*aux.*
  -flex: <0>.гъэ|ха|гъ<.>//<0>.гъэ|ха|гъэ<.>
   gramm: pst,inc,pst2,alt_stem
   gloss: PST|INC|PST
