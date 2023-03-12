@@ -39,15 +39,18 @@ def process_plus_glosses_ana(m):
         elif parts[i] == 'мы':
             sParts += '-мы'
             
+        # leave 'я'
         if glosses[i] == '3PL.P+POSS':
             sGlosses += '-3PL.P+POSS'
 
         elif glosses[i] == '3PL.IO+DAT':
             sGlosses += '-3PL.IO+DAT'
 
+        # leave 'мы'
         elif glosses[i] == '2SG.ERG+NEG':
             sGlosses += '-2SG.ERG+NEG'
 
+        # split standalone possessives
         elif glosses[i] == 'P.1SG+POSS':
             sGlosses += '-1SG.P-POSS'
             sParts += 'с-и'

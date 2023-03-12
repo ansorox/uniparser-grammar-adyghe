@@ -57,6 +57,7 @@
   {"gramm": ".*NtoV.*3.io,sg.io"},
   {"gramm": "V.*dat_v.*", "gloss": "^((?<!DAT).)*$"},
   {"gloss": "^((?!OPT).)*AUX$"},
+  {"gloss": "^.*OPT((?!AUX).)*$"},
   {"gramm": "^[^V],.*appr.*", "gloss": ".*APPR.*"}, 
   {"gramm": ".*nmlz.*", "gloss": ".*(APPR|DYN).*"}, 
   {"gloss": ".*APPR.*(OBL|ABS).*"},
@@ -90,5 +91,7 @@
   {"wf": "сыдэущт.*", "lemma": "дао"}, 
   {"lemma": "шъон", "gloss": "^((?<!DIR-).)*$"},
   {"wf": "^.*пфэ.*", "gloss": "^.*-LOC-BEN-.*$"},
-  {"lemma": "лэн", "gloss": "^((?<!CAUS-).)*$"}
+  {"lemma": "лэн", "gloss": "^((?<!CAUS-).)*$"},
+  {"lemma": "(дын|дэн)", "gloss": "^.*((?<!ABS-).)*$"},
+  {"gloss": "^.*-(PST|FUT|AUX|NMLZ\\.TIME|NMLZ\\.LOC|NMLZ\\.AG|NMLZ\\.MNR|OBL|ABS|SIM|UP|DOWN|ILL|EL|INCH|CONT|OPT|RE|POT|PITY|APPR|SEEM|COND|MOD|ADD|COORD|EMP|Q).*-STEM.*$"}
 ]

@@ -193,7 +193,7 @@
  trans_ru: мать
 -lexeme
  lex: анэ
- stem: .нэ.
+ stem: .нэ.//.н.
  gramm: N
  paradigm: poly_N_parents
  trans_ru: мать
@@ -205,7 +205,7 @@
  trans_ru: отец
 -lexeme
  lex: атэ
- stem: .тэ.
+ stem: .тэ.//.т.
  gramm: N
  paradigm: poly_N_parents
  trans_ru: отец
@@ -67504,6 +67504,12 @@
  trans_ru: ну
 -lexeme
  lex: адэ
+ stem: .адэ.//.ады.
+ gramm: AD
+ paradigm: poly_ADV
+ trans_ru: там
+-lexeme
+ lex: адэ
  stem: .эдэ.//.эд.|.эда.|.адэ.//.ад.
  gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
  paradigm: poly_N
@@ -67961,7 +67967,7 @@
 -lexeme
  lex: бгъэ
  stem: .бгъэ.//.бгъ.|.бгъа.|.бгъэ.//.бгъ.
- gramm: N|N,alt_stem,alt_stem1|N
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal
  paradigm: poly_N_inalien
  trans_ru: грудь
 -lexeme
@@ -68003,7 +68009,7 @@
 -lexeme
  lex: бгы
  stem: .бгы.//.бг.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: талия
 -lexeme
@@ -68087,7 +68093,7 @@
 -lexeme
  lex: бжымы
  stem: .бжымы.//.бжым.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: кулак
 -lexeme
@@ -68171,14 +68177,14 @@
 -lexeme
  lex: бзэ
  stem: .бзэ.//.бз.|.бза.|.бзэ.//.бз.
- gramm: N|N,alt_stem,alt_stem1|N
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal
  paradigm: poly_N
  paradigm: poly_N_inalien
  trans_ru: язык; пружина; рессора
 -lexeme
  lex: бзэгу
  stem: .бзэгу.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N
  paradigm: poly_N_inalien
  trans_ru: язык
@@ -68275,7 +68281,7 @@
 -lexeme
  lex: блыпкъ
  stem: .блыпкъ.//.блыпкъы.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: плечо
 -lexeme
@@ -68401,7 +68407,7 @@
 -lexeme
  lex: быны
  stem: .быны.//.бын.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N
  paradigm: poly_N_inalien
  trans_ru: семья
@@ -68840,13 +68846,13 @@
 -lexeme
  lex: гу
  stem: .гу.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: сердце
 -lexeme
  lex: гупч
  stem: .гупчэ.//.гупч.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: середина
 -lexeme
@@ -68870,7 +68876,7 @@
 -lexeme
  lex: гуащэ
  stem: .гощэ.//.гощ.|.гоща.|.гуащэ.//.гуащ.
- gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal,alt_stem,alt_stem2
  paradigm: poly_N
  paradigm: poly_N_inalien
  trans_ru: княгиня; свекровь
@@ -69003,7 +69009,7 @@
 -lexeme
  lex: гулъыт
  stem: .гулъытэ.//.гулъыт.|.гулъыта.|.гулъытэ.//.гулъыт.
- gramm: N|N,alt_stem,alt_stem1|N
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal
  paradigm: poly_N
  paradigm: poly_N_inalien
  trans_ru: чуткость
@@ -69124,7 +69130,7 @@
 -lexeme
  lex: гурхъу
  stem: .гурхъу.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: ступа
 -lexeme
@@ -69310,7 +69316,7 @@
 -lexeme
  lex: гъашӏэ
  stem: .гъэшӏэ.//.гъэшӏ.|.гъэшӏа.|.гъашӏэ.//.гъашӏ.
- gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal,alt_stem,alt_stem2
  paradigm: poly_N
  paradigm: poly_N_inalien
  trans_ru: жизнь
@@ -69485,7 +69491,7 @@
 -lexeme
  lex: гъуанэ
  stem: .гъонэ.//.гъон.|.гъона.|.гъуанэ.//.гъуан.
- gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal,alt_stem,alt_stem2
  paradigm: poly_N
  paradigm: poly_N_inalien
  trans_ru: дыра
@@ -69558,7 +69564,7 @@
 -lexeme
  lex: гъунэ
  stem: .гъунэ.//.гъун.|.гъуна.|.гъунэ.//.гъун.
- gramm: N|N,alt_stem,alt_stem1|N
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal
  paradigm: poly_N
  paradigm: poly_N_inalien
  trans_ru: конец; край; мера
@@ -69847,7 +69853,7 @@
 -lexeme
  lex: дагъо
  stem: .дэгъо.//.дэгъу.|.дэгъуа.|.дагъо.//.дагъу.
- gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal,alt_stem,alt_stem2
  paradigm: poly_N
  paradigm: poly_N_inalien
  trans_ru: изъян
@@ -70028,7 +70034,7 @@
 -lexeme
  lex: джэнджэш
  stem: .джэнджэшы.//.джэнджэш.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N
  paradigm: poly_N_inalien
  trans_ru: сомнение
@@ -70113,7 +70119,7 @@
 -lexeme
  lex: дин
  stem: .дин.//.дины.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N
  paradigm: poly_N_inalien
  trans_ru: вера; религия
@@ -70192,7 +70198,7 @@
 -lexeme
  lex: дэбжъыкъу
  stem: .дэбжъыкъу.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: висок; локон
 -lexeme
@@ -70732,7 +70738,7 @@
 -lexeme
  lex: жабзэ
  stem: .жэбзэ.//.жэбз.|.жэбза.|.жабзэ.//.жабз.
- gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal,alt_stem,alt_stem2
  paradigm: poly_N
  paradigm: poly_N_inalien
  trans_ru: речь
@@ -70751,7 +70757,7 @@
 -lexeme
  lex: жалэ
  stem: .жэлэ.//.жэл.|.жэла.|.жалэ.//.жал.
- gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal,alt_stem,alt_stem2
  paradigm: poly_N_inalien
  trans_ru: жабры
 -lexeme
@@ -70769,7 +70775,7 @@
 -lexeme
  lex: жъагъэ
  stem: .жъэгъэ.//.жъэгъ.|.жъэгъа.|.жъагъэ.//.жъагъ.
- gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal,alt_stem,alt_stem2
  paradigm: poly_N
  paradigm: poly_N_inalien
  trans_ru: легкое
@@ -70860,7 +70866,7 @@
 -lexeme
  lex: жъэжъый
  stem: .жъэжъый.//.жъэжъыи.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N
  paradigm: poly_N_inalien
  trans_ru: почка
@@ -70885,7 +70891,7 @@
 -lexeme
  lex: жьау
  stem: .жьау.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N
  paradigm: poly_N_inalien
  trans_ru: тень
@@ -70999,7 +71005,7 @@
  trans_ru: немного; некоторое количество
 -lexeme
  lex: заулэ
- stem: .заулэ.//.заул.|.заула.|.заулэ.//.заул.
+ stem: .заулэ.//.заул.//.заулы.|.заула.|.заулэ.//.заул.//.заулы.
  gramm: AD|AD,alt_stem,alt_stem1|AD
  paradigm: poly_ADV
  trans_ru: несколько
@@ -71162,7 +71168,7 @@
 -lexeme
  lex: зэрар
  stem: .зэрар.//.зэрары.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N
  paradigm: poly_N_inalien
  trans_ru: ущерб; вред; ущерб; урон; помеха
@@ -71661,7 +71667,7 @@
 -lexeme
  lex: ко
  stem: .ко.|.куа.|.ко.
- gramm: N|N,alt_stem,alt_stem1|N
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal
  paradigm: poly_N_inalien
  trans_ru: бедро; ляжка
 -lexeme
@@ -71925,7 +71931,7 @@
 -lexeme
  lex: ку
  stem: .ку.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: тело, ствол; телега
 -lexeme
@@ -72033,7 +72039,7 @@
 -lexeme
  lex: куцӏы
  stem: .куцӏы.//.куцӏ.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: мозг
 -lexeme
@@ -72053,13 +72059,13 @@
  stem: .кушъэ.//.кушъ.|.кушъа.|.кушъэ.//.кушъ.
  gramm: N|N,alt_stem,alt_stem1|N
  paradigm: poly_N
- trans_ru: колыбель; люлька
+ trans_ru: колыбель, люлька
 -lexeme
  lex: къабзэ
  stem: .къэбзэ.//.къэбз.|.къэбза.|.къабзэ.//.къабз.
  gramm: A|A,alt_stem,alt_stem1|A,alt_stem,alt_stem2
  paradigm: poly_A
- trans_ru: свежий; ясный
+ trans_ru: чистый, свежий, ясный
 -lexeme
  lex: къаз
  stem: .къаз.//.къазы.
@@ -72123,7 +72129,7 @@
 -lexeme
  lex: къарыу
  stem: .къарыу.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: сила
 -lexeme
@@ -72134,7 +72140,7 @@
  trans_ru: вороной; карий
 -lexeme
  lex: къаум
- stem: .къаумэ.//.къаум.|.къаума.|.къаумэ.//.къаум.
+ stem: .къаумэ.//.къаум.//.къаумы.|.къаума.|.къаумэ.//.къаум.//.къаумы.
  gramm: AD|AD,alt_stem,alt_stem1|AD
  paradigm: poly_ADV
  trans_ru: несколько
@@ -72159,7 +72165,7 @@
 -lexeme
  lex: къо
  stem: .къо.//.къу.|.къуа.|.къо.//.къу.
- gramm: N|N,alt_stem,alt_stem1|N
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal
  paradigm: poly_N_inalien
  trans_ru: сын
 -lexeme
@@ -72231,7 +72237,7 @@
 -lexeme
  lex: къолэбзыуп
  stem: .къолэбзыупэ.//.къолэбзыуп.|.къолэбзыупа.|.къолэбзыупэ.//.къолэбзыуп.
- gramm: N|N,alt_stem,alt_stem1|N
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal
  paradigm: poly_N_inalien
  trans_ru: клюв
 -lexeme
@@ -72429,8 +72435,9 @@
 -lexeme
  lex: къупшъхьэ
  stem: .къупшъхьэ.//.къупшъхь.|.къупшъхьа.|.къупшъхьэ.//.къупшъхь.
- gramm: N|N,alt_stem,alt_stem1|N
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal
  paradigm: poly_N
+ paradigm: poly_N_inalien
  trans_ru: кость
 -lexeme
  lex: къурӏан
@@ -72477,7 +72484,7 @@
 -lexeme
  lex: къушъхьэтх
  stem: .къушъхьэтх.//.къушъхьатх.//.къушъхьэтхы.//.къушъхьатхы.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N
  paradigm: poly_N_inalien
  trans_ru: хребет
@@ -72952,7 +72959,7 @@
 -lexeme
  lex: кӏоцӏ
  stem: .кӏоцӏ.//.кӏоцӏы.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  paradigm: poly_N_inalien_dir
  trans_ru: внутренность
@@ -72977,7 +72984,7 @@
 -lexeme
  lex: кӏыбы
  stem: .кӏыбы.//.кӏыб.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: спина
 -lexeme
@@ -72995,7 +73002,7 @@
 -lexeme
  lex: кӏым-сым
  stem: .кӏым-сым.//.кӏым-сымы.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N
  paradigm: poly_N_inalien
  trans_ru: безмолвие
@@ -73020,7 +73027,7 @@
 -lexeme
  lex: кӏышъу
  stem: .кӏышъу.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N
  paradigm: poly_N_inalien
  trans_ru: кожа; скорлупа; корка; кожура
@@ -73039,14 +73046,14 @@
 -lexeme
  lex: кӏэ
  stem: .кӏэ.//.кӏ.|.кӏа.|.кӏэ.//.кӏ.
- gramm: N|N,alt_stem,alt_stem1|N
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal
  paradigm: poly_N
  paradigm: poly_N_inalien
  trans_ru: семя
 -lexeme
  lex: кӏэ
  stem: .кӏэ.//.кӏ.|.кӏа.|.кӏэ.//.кӏ.
- gramm: N|N,alt_stem,alt_stem1|N
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal
  paradigm: poly_N_inalien
  trans_ru: хвост
 -lexeme
@@ -73124,7 +73131,7 @@
 -lexeme
  lex: кӏэнтӏыӏу
  stem: .кӏэнтӏыӏу.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: поясница
 -lexeme
@@ -73316,7 +73323,7 @@
 -lexeme
  lex: лъакъо
  stem: .лъэкъо.//.лъэкъу.|.лъэкъуа.|.лъакъо.//.лъакъу.
- gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal,alt_stem,alt_stem2
  paradigm: poly_N_inalien
  trans_ru: нога
 -lexeme
@@ -73328,7 +73335,7 @@
 -lexeme
  lex: лъапсэ
  stem: .лъэпсэ.//.лъэпс.|.лъэпса.|.лъапсэ.//.лъапс.
- gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal,alt_stem,alt_stem2
  paradigm: poly_N
  paradigm: poly_N_inalien
  trans_ru: основа; база; корень
@@ -73377,7 +73384,7 @@
 -lexeme
  lex: лъы
  stem: .лъы.//.лъ.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N
  paradigm: poly_N_inalien
  trans_ru: кровь
@@ -73402,7 +73409,7 @@
 -lexeme
  lex: лъынтфэ
  stem: .лъынтфэ.//.лъынтф.|.лъынтфа.|.лъынтфэ.//.лъынтф.
- gramm: N|N,alt_stem,alt_stem1|N
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal
  paradigm: poly_N_inalien
  trans_ru: жила; вена
 -lexeme
@@ -73432,7 +73439,7 @@
 -lexeme
  lex: лъэбжъан
  stem: .лъэбжъэнэ.//.лъэбжъэн.|.лъэбжъэна.|.лъэбжъанэ.//.лъэбжъан.
- gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal,alt_stem,alt_stem2
  paradigm: poly_N
  paradigm: poly_N_inalien
  trans_ru: коготь
@@ -73442,12 +73449,18 @@
  gramm: A
  paradigm: poly_A
  trans_ru: кривоногий; косолапый
+#-lexeme
+# lex: лъэбэкъон
+# stem: .лъэбэкъо.//.лъэбэкъу.|.лъэбэкъуа.|.лъэбакъо.//.лъэбакъу.
+# gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr,alt_stem,alt_stem2
+# paradigm: poly_V_intr
+# trans_ru: зашагать
 -lexeme
- lex: лъэбэкъон
- stem: .лъэбэкъо.//.лъэбэкъу.|.лъэбэкъуа.|.лъэбакъо.//.лъэбакъу.
- gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr,alt_stem,alt_stem2
- paradigm: poly_V_intr
- trans_ru: зашагать
+ lex: лъэбэкъу
+ stem: .лъэбэкъу.//.лъэбэкъо.|.лъэбэкъуа.|.лъэбакъо.//.лъэбакъу.
+ gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
+ paradigm: poly_N
+ trans_ru: шаг
 -lexeme
  lex: лъэгу
  stem: .лъэгу.
@@ -73463,7 +73476,7 @@
 -lexeme
  lex: лъэгуандж
  stem: .лъэгуандж.//.лъэгуанджы.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: колено
 -lexeme
@@ -73493,7 +73506,7 @@
 -lexeme
  lex: лъэдакъ
  stem: .лъэдакъ.//.лъэдакъы.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: пята
 -lexeme
@@ -73523,7 +73536,7 @@
 -lexeme
  lex: лъэкӏапӏ
  stem: .лъэкӏапӏ.//.лъэкӏапӏы.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: голень
 -lexeme
@@ -73535,7 +73548,7 @@
 -lexeme
  lex: лъэкӏэн
  stem: .лъэкӏэн.//.лъэкӏэны.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: лодыжка
 -lexeme
@@ -73643,13 +73656,13 @@
 -lexeme
  lex: ӏэхъуамбэ
  stem: .ӏэхъомбэ.//.ӏахъомбэ.//.ӏэхъомб.//.ӏахъомб.|.ӏэхъомба.//.ӏахъомба.|.ӏэхъуамбэ.//.ӏахъуамбэ.//.ӏэхъуамб.//.ӏахъуамб.
- gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal,alt_stem,alt_stem2
  paradigm: poly_N_inalien
  trans_ru: палец (на руке)
 -lexeme
  lex: лъэхъуамбэ
  stem: .лъэхъомбэ.//.лъэхъомб.|.лъэхъомба.|.лъэхъуамбэ.//.лъэхъуамб.
- gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal,alt_stem,alt_stem2
  paradigm: poly_N_inalien
  trans_ru: палец (на ноге)
 -lexeme
@@ -73962,7 +73975,7 @@
 -lexeme
  lex: макъэ
  stem: .мэкъэ.//.мэкъ.|.мэкъа.|.макъэ.//.макъ.
- gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal,alt_stem,alt_stem2
  paradigm: poly_N_inalien
  trans_ru: голос
 -lexeme
@@ -74303,7 +74316,7 @@
  trans_ru: мода
 -lexeme
  lex: модэ
- stem: .модэ.//.мод.|.мода.|.муадэ.//.муад.
+ stem: .модэ.//.мод.//.моды.|.мода.|.муадэ.//.муад.
  gramm: AD|AD,alt_stem,alt_stem1|AD,alt_stem,alt_stem2
  paradigm: poly_ADV
  trans_ru: там, туда
@@ -74374,6 +74387,12 @@
  paradigm: poly_A
  trans_ru: мраморный
 -lexeme
+ lex: муары
+ stem: .муар.//.муары.
+ gramm: APRO
+ paradigm: poly_APRO
+ trans_ru: вон
+-lexeme
  lex: мурад
  stem: .мурад.//.мурады.
  gramm: N
@@ -74399,10 +74418,10 @@
  trans_ru: неспелый
 -lexeme
  lex: мыдэ
- stem: .мыдэ.//.мыд.|.мыда.|.мыдэ.//.мыд.
+ stem: .мыдэ.//.мыд.//.мыды.|.мыда.|.мыдэ.//.мыд.//.мыды.
  gramm: AD|AD,alt_stem,alt_stem1|AD
  paradigm: poly_ADV
- trans_ru: сюда
+ trans_ru: здесь
 -lexeme
  lex: Мыекъуапэ
  stem: .мыекъопэ.//.мыекъоп.|.мыекъопа.|.мыекъуапэ.//.мыекъуап.
@@ -74838,26 +74857,26 @@
 -lexeme
  lex: нан
  stem: .нэнэ.//.нэн.|.нэна.|.нанэ.//.нан.
- gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal,alt_stem,alt_stem2
  paradigm: poly_N
  paradigm: poly_N_inalien
  trans_ru: мама
 -lexeme
  lex: напцэ
  stem: .нэпцэ.//.нэпц.|.нэпца.|.напцэ.//.напц.
- gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal,alt_stem,alt_stem2
  paradigm: poly_N_inalien
  trans_ru: бровь
 -lexeme
  lex: напэ
  stem: .нэпэ.//.нэп.|.нэпа.|.напэ.//.нап.
- gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal,alt_stem,alt_stem2
  paradigm: poly_N_inalien
  trans_ru: лицо; совесть
 -lexeme
  lex: напӏэ
  stem: .нэпӏэ.//.нэпӏ.|.нэпӏа.|.напӏэ.//.напӏ.
- gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal,alt_stem,alt_stem2
  paradigm: poly_N_inalien
  trans_ru: веко
 -lexeme
@@ -74881,7 +74900,7 @@
 -lexeme
  lex: натӏэ
  stem: .нэтӏэ.//.нэтӏ.|.нэтӏа.|.натӏэ.//.натӏ.
- gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal,alt_stem,alt_stem2
  paradigm: poly_N_inalien
  trans_ru: лоб
 -lexeme
@@ -75007,13 +75026,13 @@
 -lexeme
  lex: ныбжь
  stem: .ныбжь.//.ныбжьы.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: возраст
 -lexeme
  lex: ныбжьыкъу
  stem: .ныбжьыкъу.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: тень; призрак
 -lexeme
@@ -75025,7 +75044,7 @@
 -lexeme
  lex: ныбыдж
  stem: .ныбыдж.//.ныбыджы.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: пуп
 -lexeme
@@ -75116,7 +75135,7 @@
 -lexeme
  lex: нэгу
  stem: .нэгу.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: лицо; морда
 -lexeme
@@ -75128,7 +75147,7 @@
 -lexeme
  lex: нэгъу
  stem: .нэгъу.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: желудок
 -lexeme
@@ -75170,7 +75189,7 @@
 -lexeme
  lex: нэз
  stem: .нэз.//.нэзы.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: щель; кромка
 -lexeme
@@ -75320,7 +75339,7 @@
 -lexeme
  lex: нэпсы
  stem: .нэпсы.//.нэпс.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: слеза
 -lexeme
@@ -75372,8 +75391,8 @@
  paradigm: poly_POST
  trans_ru: до
 -lexeme
- lex: нэужым
- stem: .нэужым.
+ lex: нэужы
+ stem: .нэужы.
  gramm: AD
  paradigm: poly_ADV
  trans_ru: позже, после
@@ -75722,7 +75741,7 @@
 -lexeme
  lex: пакӏэ
  stem: .пэкӏэ.//.пэкӏ.|.пэкӏа.|.пакӏэ.//.пакӏ.
- gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal,alt_stem,alt_stem2
  paradigm: poly_N_inalien
  trans_ru: конец; усы
 -lexeme
@@ -75758,7 +75777,7 @@
 -lexeme
  lex: пашъхэ
  stem: .пэшъхэ.//.пэшъх.|.пэшъха.|.пашъхэ.//.пашъх.
- gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal,alt_stem,alt_stem2
  paradigm: poly_N_inalien
  trans_ru: у, перед, фасад
 -lexeme
@@ -75836,7 +75855,7 @@
 -lexeme
  lex: пкъы
  stem: .пкъы.//.пкъ.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: основа;тело;ствол
 -lexeme
@@ -75860,7 +75879,7 @@
 -lexeme
  lex: пкъышъол
  stem: .пкъышъол.//.пкъышъолы.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: плоть
 -lexeme
@@ -75872,7 +75891,7 @@
 -lexeme
  lex: пкӏантӏэ
  stem: .пкӏэнтӏэ.//.пкӏэнтӏ.|.пкӏэнтӏа.|.пкӏантӏэ.//.пкӏантӏ.
- gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal,alt_stem,alt_stem2
  paradigm: poly_N_inalien
  trans_ru: пот
 -lexeme
@@ -75890,7 +75909,7 @@
 -lexeme
  lex: пкӏэшъэ
  stem: .пкӏэшъэ.//.пкӏэшъ.|.пкӏэшъа.|.пкӏашъэ.//.пкӏашъ.
- gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal,alt_stem,alt_stem2
  paradigm: poly_N_inalien
  trans_ru: лист
 -lexeme
@@ -75956,7 +75975,7 @@
 -lexeme
  lex: пкӏэнтӏэпс
  stem: .пкӏэнтӏэпс.//.пкӏэнтӏэпсы.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: пот
 -lexeme
@@ -76292,7 +76311,7 @@
 -lexeme
  lex: пхъашъо
  stem: .пхъэшъо.//.пхъэшъу.|.пхъэшъуа.|.пхъашъо.//.пхъашъу.
- gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal,alt_stem,alt_stem2
  paradigm: poly_N_inalien
  trans_ru: кора
 -lexeme
@@ -76310,7 +76329,7 @@
 -lexeme
  lex: пхъу
  stem: .пхъу.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: дочь
 -lexeme
@@ -76478,7 +76497,7 @@
 -lexeme
  lex: пхэкӏ
  stem: .пхэкӏ.//.пхэкӏы.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: ягодица
 -lexeme
@@ -76568,7 +76587,7 @@
 -lexeme
  lex: пчанэ
  stem: .пчэнэ.//.пчэн.|.пчэна.|.пчанэ.//.пчан.
- gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal,alt_stem,alt_stem2
  paradigm: poly_N_inalien
  trans_ru: талия
 -lexeme
@@ -76628,7 +76647,7 @@
 -lexeme
  lex: пчэгу
  stem: .пчэгу.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: центр
 -lexeme
@@ -76730,7 +76749,7 @@
 -lexeme
  lex: пшъэӏупкӏан
  stem: .пшъэӏупкӏан.//.пшъэӏупкӏаны.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: позвонок
 -lexeme
@@ -76976,7 +76995,7 @@
 -lexeme
  lex: пэгъуанэ
  stem: .пэгъонэ.//.пэгъон.|.пэгъона.|.пэгъуанэ.//.пэгъуан.
- gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal,alt_stem,alt_stem2
  paradigm: poly_N_inalien
  trans_ru: ноздря
 -lexeme
@@ -77282,7 +77301,7 @@
 -lexeme
  lex: сабый
  stem: .сабый.//.сабыи.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: ребёнок
 -lexeme
@@ -77821,7 +77840,7 @@
  trans_ru: пылинка
 -lexeme
  lex: сэсый
- stem: .сэсый.//.сэсыйы.//.cэсые.//.cэсие.
+ stem: .сэсый.//.сэсий.//.сэсыйы.//.сэсые.//.сэсие.
  gramm: APRO
  paradigm: poly_APRO
  trans_ru: мой
@@ -77918,7 +77937,7 @@
 -lexeme
  lex: тамэ
  stem: .тэмэ.//.тэм.|.тэма.|.тамэ.//.там.
- gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal,alt_stem,alt_stem2
  paradigm: poly_N_inalien
  trans_ru: плечо; крыло
 -lexeme
@@ -77942,7 +77961,7 @@
 -lexeme
  lex: тат
  stem: .тэтэ.//.тэт.|.тэта.|.татэ.//.тат.
- gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal,alt_stem,alt_stem2
  paradigm: poly_N
  paradigm: poly_N_inalien
  trans_ru: папа
@@ -78027,7 +78046,7 @@
 -lexeme
  lex: теплъэ
  stem: .теплъэ.//.теплъ.|.теплъа.|.тяплъэ.//.тяплъ.
- gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal,alt_stem,alt_stem2
  paradigm: poly_N_inalien
  trans_ru: вид;внешность
 -lexeme
@@ -78237,7 +78256,7 @@
 -lexeme
  lex: тхы
  stem: .тхы.//.тх.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: спина
 -lexeme
@@ -78285,7 +78304,7 @@
 -lexeme
  lex: тхыцӏэ
  stem: .тхыцӏэ.//.тхыцӏ.|.тхыцӏа.|.тхыцӏэ.//.тхыцӏ.
- gramm: N|N,alt_stem,alt_stem1|N
+ gramm: N,inal|N,alt_stem,alt_stem1,inal|N,inal
  paradigm: poly_N_inalien
  trans_ru: спина
 -lexeme
@@ -78297,7 +78316,7 @@
 -lexeme
  lex: тхыӏупкӏан
  stem: .тхыӏупкӏан.//.тхыӏупкӏаны.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: позвонок
 -lexeme
@@ -78309,7 +78328,7 @@
 -lexeme
  lex: тхьабыл
  stem: .тхьабыл.//.тхьабылы.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: легкое
 -lexeme
@@ -78321,7 +78340,7 @@
 -lexeme
  lex: тхьакӏум
  stem: .тхьакӏум.//.тхьакӏумы.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: ухо
 -lexeme
@@ -78363,7 +78382,7 @@
 -lexeme
  lex: тхьапэ
  stem: .тхьэпэ.//.тхьапэ.//.тхьэп.//.тхьап.|.тхьэпа.//.тхьапа.|.тхьапэ.//.тхьап.
- gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal,alt_stem,alt_stem2
  paradigm: poly_N_inalien
  trans_ru: лист
 -lexeme
@@ -78512,7 +78531,7 @@
  trans_ru: мираж;марево
 -lexeme
  lex: тыдэ
- stem: .тыдэ.//.тыд.|.тыда.|.тыдэ.//.тыд.
+ stem: .тыдэ.//.тыд.//.тыды.|.тыда.|.тыдэ.//.тыд.//.тыды.
  gramm: APRO|APRO,alt_stem,alt_stem1|APRO
  paradigm: poly_APRO
  trans_ru: куда;где
@@ -78537,7 +78556,7 @@
 -lexeme
  lex: тыкъын
  stem: .тыкъын.//.тыкъыны.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: кадык
 -lexeme
@@ -78705,7 +78724,7 @@
 -lexeme
  lex: тӏолъфэныкъо
  stem: .тӏолъфэныкъо.//.тӏолъфэныкъу.|.тӏолъфэныкъуа.|.тӏолъфэныкъо.//.тӏолъфэныкъу.
- gramm: N|N,alt_stem,alt_stem1|N
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal
  paradigm: poly_N_inalien
  trans_ru: близнец
 -lexeme
@@ -78849,7 +78868,7 @@
 -lexeme
  lex: уасэ
  stem: .осэ.//.ос.|.оса.|.уасэ.//.уас.
- gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
+ gramm: N,inal|N,,inalalt_stem,alt_stem1|N,inal,alt_stem,alt_stem2
  paradigm: poly_N_inalien
  trans_ru: цена
 -lexeme
@@ -79197,7 +79216,7 @@
 -lexeme
  lex: унагъо
  stem: .унэгъо.//.унэгъу.|.унэгъуа.|.унагъо.//.унагъу.
- gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal,alt_stem,alt_stem2
  paradigm: poly_N_inalien
  trans_ru: семья
 -lexeme
@@ -79911,7 +79930,7 @@
 -lexeme
  lex: фэ
  stem: .фэ.|.фа.|.фэ.
- gramm: N|N,alt_stem,alt_stem1|N
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal
  paradigm: poly_N_inalien
  trans_ru: жила
 -lexeme
@@ -80853,13 +80872,13 @@
 -lexeme
  lex: цакӏ
  stem: .цэкӏэ.//.цэкӏ.|.цэкӏа.|.цакӏэ.//.цакӏ.
- gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal,alt_stem,alt_stem2
  paradigm: poly_N_inalien
  trans_ru: кромка
 -lexeme
  lex: цакӏэ
  stem: .цэкӏэ.//.цэкӏ.|.цэкӏа.|.цакӏэ.//.цакӏ.
- gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal,alt_stem,alt_stem2
  paradigm: poly_N_inalien
  trans_ru: край
 -lexeme
@@ -80967,7 +80986,7 @@
 -lexeme
  lex: цы
  stem: .цы.//.ц.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: волос
 -lexeme
@@ -80997,7 +81016,7 @@
 -lexeme
  lex: цыналъ
  stem: .цыналъ.//.цыналъы.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: волос
 -lexeme
@@ -81033,7 +81052,7 @@
 -lexeme
  lex: цэ
  stem: .цэ.|.ца.|.цэ.
- gramm: N|N,alt_stem,alt_stem1|N
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal
  paradigm: poly_N_inalien
  trans_ru: зуб
 -lexeme
@@ -81051,7 +81070,7 @@
 -lexeme
  lex: цэлы
  stem: .цэлы.//.цэл.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: десна
 -lexeme
@@ -81171,7 +81190,7 @@
 -lexeme
  lex: цӏэ
  stem: .цӏэ.//.цӏ.|.цӏа.|.цӏэ.//.цӏ.
- gramm: N|N,alt_stem,alt_stem1|N
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal
  paradigm: poly_N_inalien
  trans_ru: имя
 -lexeme
@@ -81219,7 +81238,7 @@
 -lexeme
  lex: цӏэрыӏу
  stem: .цӏэрыӏу.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: имя
 -lexeme
@@ -81327,7 +81346,7 @@
 -lexeme
  lex: чъыгыпкъ
  stem: .чъыгыпкъ.//.чъыгыпкъы.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: ствол
 -lexeme
@@ -81447,13 +81466,13 @@
 -lexeme
  lex: чыишъхь
  stem: .чыишъхь.//.чыишъхьы.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: носоглотка
 -lexeme
  lex: чый
  stem: .чый.//.чыи.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: горло; глотка
 -lexeme
@@ -81765,7 +81784,7 @@
 -lexeme
  lex: чӏэ
  stem: .чӏэ.//.чӏ.|.чӏа.|.чӏэ.//.чӏ.
- gramm: N|N,alt_stem,alt_stem1|N
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal
  paradigm: poly_N_inalien
  trans_ru: дно; днище
 -lexeme
@@ -81813,7 +81832,7 @@
 -lexeme
  lex: шнызэ
  stem: .шнызэ.//.шныз.|.шныза.|.шнызэ.//.шныз.
- gramm: N|N,alt_stem,alt_stem1|N
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal
  paradigm: poly_N_inalien
  trans_ru: кайма
 -lexeme
@@ -81927,7 +81946,7 @@
 -lexeme
  lex: шъо
  stem: .шъо.//.шъу.|.шъуа.|.шъо.//.шъу.
- gramm: N|N,alt_stem,alt_stem1|N
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal
  paradigm: poly_N_inalien
  trans_ru: кожа;шкура;оболочка;цвет
 -lexeme
@@ -81957,7 +81976,7 @@
 -lexeme
  lex: шъомбгъуагъэ
  stem: .гъэ.//.гъ.|.гъа.|.гъэ.//.гъ.
- gramm: N|N,alt_stem,alt_stem1|N
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal
  paradigm: poly_N_inalien
  trans_ru: ширина
 -lexeme
@@ -82065,7 +82084,7 @@
 -lexeme
  lex: шъуампӏ
  stem: .шъомпӏэ.//.шъомпӏ.|.шъомпӏа.|.шъуампӏэ.//.шъуампӏ.
- gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal,alt_stem,alt_stem2
  paradigm: poly_N_inalien
  trans_ru: корка; кожура
 -lexeme
@@ -82155,7 +82174,7 @@
 -lexeme
  lex: шъхьап
  stem: .шъхьэпэ.//.шъхьапэ.//.шъхьэп.//.шъхьап.|.шъхьэпа.//.шъхьапа.|.шъхьапэ.//.шъхьап.
- gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal,alt_stem,alt_stem2
  paradigm: poly_N_inalien
  trans_ru: верхушка; макушка
 -lexeme
@@ -82221,7 +82240,7 @@
 -lexeme
  lex: шъхьацы
  stem: .шъхьацы.//.шъхьац.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: волос
 -lexeme
@@ -82239,7 +82258,7 @@
 -lexeme
  lex: шъхьэ
  stem: .шъхьэ.//.шъхь.|.шъхьа.|.шъхьэ.//.шъхь.
- gramm: N|N,alt_stem,alt_stem1|N
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal
  paradigm: poly_N_inalien
  trans_ru: голова; верх
 -lexeme
@@ -82305,7 +82324,7 @@
 -lexeme
  lex: шъхьэпхэтыку
  stem: .шъхьэпхэтыку.//.шъхьапхэтыку.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: макушка
 -lexeme
@@ -82353,7 +82372,7 @@
 -lexeme
  lex: шъхьэшыгу
  stem: .шъхьэшыгу.//.шъхьашыгу.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: макушка
 -lexeme
@@ -82467,7 +82486,7 @@
 -lexeme
  lex: шы
  stem: .шы.//.ш.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: брат
 -lexeme
@@ -82491,7 +82510,7 @@
 -lexeme
  lex: шыгу
  stem: .шыгу.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: макушка
 -lexeme
@@ -82557,7 +82576,7 @@
 -lexeme
  lex: шыпхъу
  stem: .шыпхъу.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: сестра
 -lexeme
@@ -82629,7 +82648,7 @@
 -lexeme
  lex: шэ
  stem: .шэ.|.ша.|.шэ.
- gramm: N|N,alt_stem,alt_stem1|N
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal
  paradigm: poly_N_inalien
  trans_ru: сало; жир
 -lexeme
@@ -82671,7 +82690,7 @@
 -lexeme
  lex: шэны
  stem: .шэны.//.шэн.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: характер; привычка
 -lexeme
@@ -82749,7 +82768,7 @@
 -lexeme
  lex: шӏу
  stem: .шӏу.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: печень
 -lexeme
@@ -83007,8 +83026,8 @@
 -lexeme
  lex: щыны
  stem: .щыны.//.щын.
- gramm: N
- paradigm: poly_N_inalien
+ gramm: N,inal
+ paradigm: poly_N_in,inal
  trans_ru: гной
 -lexeme
  lex: щынын
@@ -83169,7 +83188,7 @@
 -lexeme
  lex: щэпкъ
  stem: .щэпкъ.//.щэпкъы.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: стебель
 -lexeme
@@ -83211,7 +83230,7 @@
 -lexeme
  lex: щэхэпс
  stem: .щэхэпс.//.щэхэпсы.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: моча
 -lexeme
@@ -83313,7 +83332,7 @@
 -lexeme
  lex: ягъэ
  stem: .егъэ.//.егъ.|.егъа.|.ягъэ.//.ягъ.
- gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal,alt_stem,alt_stem2
  paradigm: poly_N_inalien
  trans_ru: язва
 -lexeme
@@ -83433,7 +83452,7 @@
 -lexeme
  lex: ӏапшъэ
  stem: .ӏэпшъэ.//.ӏапшъэ.//.ӏэпшъ.//.ӏапшъ.|.ӏэпшъа.//.ӏапшъа.|.ӏапшъэ.//.ӏапшъ.
- gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal,alt_stem,alt_stem2
  paradigm: poly_N_inalien
  trans_ru: запястье
 -lexeme
@@ -83691,7 +83710,7 @@
 -lexeme
  lex: ӏупсы
  stem: .ӏупсы.//.ӏупс.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: слюна
 -lexeme
@@ -83703,7 +83722,7 @@
 -lexeme
  lex: ӏупшӏэ
  stem: .ӏупшӏэ.//.ӏупшӏ.|.ӏупшӏа.|.ӏупшӏэ.//.ӏупшӏ.
- gramm: N|N,alt_stem,alt_stem1|N
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal
  paradigm: poly_N_inalien
  trans_ru: губа
 -lexeme
@@ -83715,7 +83734,7 @@
 -lexeme
  lex: ӏупэ
  stem: .ӏупэ.//.ӏуп.|.ӏупа.|.ӏупэ.//.ӏуп.
- gramm: N|N,alt_stem,alt_stem1|N
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal
  paradigm: poly_N_inalien
  trans_ru: уста
 -lexeme
@@ -83763,13 +83782,13 @@
 -lexeme
  lex: ӏэ
  stem: .ӏэ.|.ӏа.|.ӏэ.
- gramm: N|N,alt_stem,alt_stem1|N
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal
  paradigm: poly_N_inalien
  trans_ru: рука
 -lexeme
  lex: ӏэбжъан
  stem: .ӏэбжъэнэ.//.ӏабжъэнэ.//.ӏэбжъэн.//.ӏабжъэн.|.ӏэбжъэна.//.ӏабжъэна.|.ӏэбжъанэ.//.ӏабжъанэ.//.ӏэбжъан.//.ӏабжъан.
- gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal,alt_stem,alt_stem2
  paradigm: poly_N_inalien
  trans_ru: ноготь
 -lexeme
@@ -83781,7 +83800,7 @@
 -lexeme
  lex: ӏэбл
  stem: .ӏэблэ.//.ӏаблэ.//.ӏэбл.//.ӏабл.|.ӏэбла.//.ӏабла.|.ӏаблэ.//.ӏабл.
- gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal,alt_stem,alt_stem2
  paradigm: poly_N_inalien
  trans_ru: предплечье
 -lexeme
@@ -83793,7 +83812,7 @@
 -lexeme
  lex: ӏэгу
  stem: .ӏэгу.//.ӏагу.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: двор; ладонь
 -lexeme
@@ -83859,7 +83878,7 @@
 -lexeme
  lex: ӏэнтэгъу
  stem: .ӏэнтэгъу.//.ӏантэгъу.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: локоть
 -lexeme
@@ -83961,7 +83980,7 @@
 -lexeme
  lex: ӏэтхьэцу
  stem: .ӏэтхьэцу.//.ӏэтхьацу.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: кисть
 -lexeme
@@ -84466,7 +84485,7 @@
 -lexeme
  lex: наӏэ
  stem: .нэӏэ.//.нэӏ.|.нэӏа.|.наӏэ.//.наӏ.
- gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal,alt_stem,alt_stem2
  paradigm: poly_N_inalien
  trans_ru: забота
 -lexeme
@@ -84526,7 +84545,7 @@
 -lexeme
  lex: нысэ
  stem: .нысэ.//.ныс.|.ныса.|.нысэ.//.ныс.
- gramm: N|N,alt_stem,alt_stem1|N
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal
  paradigm: poly_N_inalien
  trans_ru: невестка
 -lexeme
@@ -84610,7 +84629,7 @@
 -lexeme
  lex: лӏакъу
  stem: .лӏэкъо.//.лӏэкъу.|.лӏэкъуа.|.лӏакъо.//.лӏакъу.
- gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal,alt_stem,alt_stem2
  paradigm: poly_N_inalien
  trans_ru: род
 -lexeme
@@ -84640,7 +84659,7 @@
 -lexeme
  lex: напшӏэ
  stem: .нэпшӏэ.//.нэпшӏ.|.нэпшӏа.|.напшӏэ.//.напшӏ.
- gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal,alt_stem,alt_stem2
  paradigm: poly_N_inalien
  trans_ru: надбровная дуга
 -lexeme
@@ -84706,7 +84725,7 @@
 -lexeme
  lex: жэ
  stem: .жэ.
- gramm: N
+ gramm: N,inal
  paradigm: poly_N_inalien
  trans_ru: рот
 -lexeme
@@ -84862,7 +84881,7 @@
 -lexeme
  lex: лъап
  stem: .лъэпэ.//.лъэп.|.лъэпа.|.лъапэ.//.лъап.
- gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal,alt_stem,alt_stem2
  paradigm: poly_N_inalien
  trans_ru: палец ноги; носок
 -lexeme
@@ -84886,7 +84905,7 @@
 -lexeme
  lex: лъэгуандж
  stem: .лъэгонджэ.//.лъэгондж.|.лъэгонджа.|.лъэгуанджэ.//.лъэгуандж.
- gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
+ gramm: N,inal|N,inal,alt_stem,alt_stem1|N,inal,alt_stem,alt_stem2
  paradigm: poly_N_inalien
  trans_ru: колено
 -lexeme
