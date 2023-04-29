@@ -2,6 +2,7 @@
   {"lemma": "\\[[^ӏ].*\\]", "gloss": "^((DIR|[^-]+\\.ABS|[^-]+\\.ERG|[^-]+\\.IO|REL\\.SUB|DAT)-)*(STEM).*"},
   {"lemma": "\\[ӏэн\\]", "gloss": "^(([^-]+\\.ABS|[^-]+\\.ERG|[^-]+\\.IO|REL\\.SUB|DAT)-)*(STEM).*"},
   {"lemma": "мы", "wfGlossed": "м"},
+  {"lemma": "(мы|мэ)", "wfGlossed": "м-а"},
   {"lemma": "\\[ӏэн\\]", "wfGlossed": ".*-ӏ-(?!(эу|эп)).*"},
   {"wf": "ащ", "lemma": "щын"},
   {"wf": "ящэнэрэ", "lemma": "нэн"},
@@ -93,5 +94,7 @@
   {"wf": "^.*пфэ.*", "gloss": "^.*-LOC-BEN-.*$"},
   {"lemma": "лэн", "gloss": "^((?<!CAUS-).)*$"},
   {"lemma": "(дын|дэн)", "gloss": "^.*((?<!ABS-).)*$"},
-  {"gloss": "^.*-(PST|FUT|AUX|NMLZ\\.TIME|NMLZ\\.LOC|NMLZ\\.AG|NMLZ\\.MNR|OBL|ABS|SIM|UP|DOWN|ILL|EL|INCH|CONT|OPT|RE|POT|PITY|APPR|SEEM|COND|MOD|ADD|COORD|EMP|Q).*-STEM.*$"}
+  {"gloss": "^.*-(PST|FUT|AUX|NMLZ\\.TIME|NMLZ\\.LOC|NMLZ\\.AG|NMLZ\\.MNR|OBL|ABS|SIM|UP|DOWN|ILL|EL|INCH|CONT|OPT|RE|POT|PITY|APPR|SEEM|COND|MOD|ADD|COORD|EMP|Q).*-STEM.*$"},
+  {"gramm": "NPRO,.*sg,abs,.*add"},
+  {"lemma": "фэдэн", "gloss": "^.*(?<!BEN)-STEM.*$"}
 ]

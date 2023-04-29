@@ -945,6 +945,9 @@
   gloss: ADV
   regex-stem: .*[оэе][.,<>0-9]*$
   regex-prev: ^(\.[^.]*\.|.*\.<\.>)$
+ -flex: .м|джэ<.>
+  gramm: obl,ins,dial
+  gloss: OBL|INS
  paradigm: additives_case
 
 -paradigm: S_cond
@@ -995,6 +998,9 @@
   gloss: ADV
   regex-stem: .*[оэе][.,<>0-9]*$
   regex-prev: ^(\.[^.]*\.|.*\.<\.>)$
+ -flex: .м|джэ<.>
+  gramm: obl,ins,dial
+  gloss: OBL|INS
  paradigm: additives_case
 
 -paradigm: additives
@@ -1135,12 +1141,12 @@
   paradigm: V_minus_9_intr_NtoV
   paradigm: additives
   #paradigm: poly_V_intr
- -flex: .р<.>
-  gramm: pred
-  gloss: PRED
-  regex-gramm: ^NPRO.*$
-  paradigm: case_PRO
-  paradigm: additives
+# -flex: .р<.>
+#  gramm: pred
+#  gloss: PRED
+#  regex-gramm: ^NPRO.*$
+#  paradigm: case_PRO
+#  paradigm: additives
  -flex: .р|эп<.>
   gramm: pred,neg,neg_ep
   gloss: PRED|NEG
@@ -1908,6 +1914,16 @@
   paradigm: V_minus_2_3
   paradigm: V_minus_1
   paradigm: V_minus_1_empty
+ -flex: .шӏу<.>.<.>
+  gramm: mal,alt_stem
+  gloss: MAL
+  paradigm: V_minus_6
+  paradigm: V_minus_5
+  paradigm: V_minus_4
+  paradigm: V_minus_2_3
+  paradigm: V_minus_1
+  paradigm: V_minus_1_empty
+  regex-next: ^[.,<>0-9]*а.*
  -flex: .ды<.>.<.>
   gramm: com
   gloss: COM
@@ -2839,6 +2855,10 @@
 #  gramm: 2.io,sg.io,dat,alt_stem
 #  regex-stem: ^[^аеёиоуыэюя]*[оэе][.,<>0-9]*$
 #  paradigm: V_plus_1
+ -flex: .о<.>.<.>
+  gramm: 2.io,sg.io,dyn
+  gloss: 2SG.IO+DYN
+  paradigm: V_minus_1_dyn
  -flex: .е<.>.<.>
   gramm: 3.io,sg.io,dat
   gloss: DAT
@@ -2983,6 +3003,10 @@
   gloss: 2SG.IO|DAT
   regex-stem: ^[^аеёиоуыэюя]*[оэе][.,<>0-9]*$
   paradigm: V_plus_1
+ -flex: .о<.>.<.>
+  gramm: 2.io,sg.io,dyn
+  gloss: 2SG.IO+DYN
+  paradigm: V_minus_1_dyn
  -flex: .е<.>.<.>
   gramm: 3.io,sg.io,dat
   gloss: DAT
@@ -3878,6 +3902,9 @@
   gloss: ADV
   regex-stem: .*[оеэ][.,<>0-9]*$
   regex-prev: ^(\.[^.]*\.|.*\.<\.>)$
+ -flex: .м|джэ<.>
+  gramm: obl,ins,dial
+  gloss: OBL|INS
  -flex: .мэ<.>
   gramm: cond
   gloss: COND

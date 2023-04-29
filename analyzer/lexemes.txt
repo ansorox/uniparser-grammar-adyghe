@@ -70244,6 +70244,12 @@
  paradigm: poly_V_tr
  trans_ru: позволять
 -lexeme
+ lex: фэдэн
+ stem: .дэ.//.д.|.да.|.дэ.//.д.
+ gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr
+ paradigm: poly_V_intr
+ trans_ru: быть подобным
+-lexeme
  lex: дэнэшӏ
  stem: .дэнэшӏ.//.дэнэшӏы.
  gramm: A
@@ -70999,16 +71005,10 @@
  trans_ru: заслуженный
 -lexeme
  lex: заул
- stem: .заул.//.заулы.
- gramm: APRO
+ stem: .заулэ.//.заул.//.заулы.|.заула.|.заулэ.//.заул.//.заулы.
+ gramm: APRO|APRO,alt_stem,alt_stem1|APRO
  paradigm: poly_APRO
  trans_ru: немного; некоторое количество
--lexeme
- lex: заулэ
- stem: .заулэ.//.заул.//.заулы.|.заула.|.заулэ.//.заул.//.заулы.
- gramm: AD|AD,alt_stem,alt_stem1|AD
- paradigm: poly_ADV
- trans_ru: несколько
 -lexeme
  lex: землянк
  stem: .землянк.//.землянкы.
@@ -79318,8 +79318,8 @@
 -lexeme
  lex: упчӏын
  stem: .упчӏы.//.упчӏ.
- gramm: V,tr
- paradigm: poly_V_tr
+ gramm: V,intr
+ paradigm: poly_V_intr
  trans_ru: спросить
 -lexeme
  lex: упӏышкӏун
