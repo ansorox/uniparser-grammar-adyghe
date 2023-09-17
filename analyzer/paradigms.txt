@@ -385,23 +385,23 @@
  -flex: .п.<.>
   gramm: p.2sg
   gloss: 2SG.P
-  regex-stem: ^[.,<>0-9]*[аэикпстфхцчшлӏ].*
-  regex-next: ^[.,<>0-9]*[муиеыоаэбвгджзӏ].*
+  regex-stem: ^[.,<>0-9]*[уеаэиыокпстфхцчшлӏ].*
+  regex-next: ^[.,<>0-9]*[^мгбздвж].*
  -flex: .у.<.>
   gramm: p.2sg
   gloss: 2SG.P
-  regex-stem: ^[.,<>0-9]*[^аэикпстфхцчшлӏ.<>].*
+#  regex-stem: ^[.,<>0-9]*[^аэикпстфхцчшлӏ.<>].*
  -flex: .уа.<.>
   gramm: p.2sg
   gloss: 2SG.P
-  regex-stem: ^[.,<>0-9]*[^аэикпстфхцчшл.<>].*
+#  regex-stem: ^[.,<>0-9]*[^аэикпстфхцчшл.<>].*
  -flex: .ы.<.>
   gramm: p.3sg
   gloss: 3SG.P
  -flex: .т.<.>
   gramm: p.1pl
   gloss: 1PL.P
-  regex-stem: ^[.,<>0-9]*[аэикпстфхцчшлӏ].*
+#  regex-stem: ^[.,<>0-9]*[аэикпстфхцчшлӏ].*
 # -flex: .та.<.>
 #  gramm: p.1pl
 #  gloss: 1PL.P

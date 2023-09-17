@@ -68983,8 +68983,8 @@
  paradigm: poly_N
  trans_ru: упрёк
 -lexeme
- lex: гукъау
- stem: .гукъау.
+ lex: гукъао
+ stem: .гукъао.//.гукъау.
  gramm: N
  paradigm: poly_N
  trans_ru: печаль
@@ -74904,10 +74904,10 @@
  paradigm: poly_A
  trans_ru: ясный;отчетливый
 -lexeme
- lex: нахь
+ lex: 
  stem: .нахь.//.нахьы.
  gramm: AD
- paradigm: poly_N_inalien
+ paradigm: poly_POSTN
  trans_ru: более
 -lexeme
  lex: нахьпэ
@@ -75380,7 +75380,7 @@
  trans_ru: бинокль
 -lexeme
  lex: нэс
- stem: .нэс.
+ stem: .нэс.//.нэсы.
  gramm: POST
  paradigm: poly_POST
  trans_ru: до
