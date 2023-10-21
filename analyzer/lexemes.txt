@@ -78862,7 +78862,7 @@
 -lexeme
  lex: уасэ
  stem: .осэ.//.ос.|.оса.|.уасэ.//.уас.
- gramm: N,inal|N,,inalalt_stem,alt_stem1|N,inal,alt_stem,alt_stem2
+ gramm: N,inal|N,,inal,alt_stem,alt_stem1|N,inal,alt_stem,alt_stem2
  paradigm: poly_N_inalien
  trans_ru: цена
 -lexeme
