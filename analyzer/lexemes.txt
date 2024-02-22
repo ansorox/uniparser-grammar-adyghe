@@ -53,12 +53,12 @@
  gramm: V,intr
  paradigm: poly_V_intr
  trans_ru: входить
--lexeme
- lex: [кӏэн]
- stem: .кӏэ.|.кӏа.|.кӏэ.
- gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr
- paradigm: poly_V_intr
- trans_ru: выходить
+#-lexeme
+# lex: [кӏэн]
+# stem: .кӏэ.|.кӏа.|.кӏэ.
+# gramm: V,intr|V,intr,alt_stem,alt_stem1|V,intr
+# paradigm: poly_V_intr
+# trans_ru: выходить
 -lexeme
  lex: [хьэн]
  stem: .хьэ.|.хьа.|.хьэ.
@@ -73480,7 +73480,7 @@
  paradigm: poly_N
  trans_ru: крыльцо
 -lexeme
- lex: лъэгъожъый
+ lex: лъэгъо
  stem: .лъэгъо.//.лъэгъу.|.лъэгъуа.|.лъагъо.//.лъагъу.
  gramm: N|N,alt_stem,alt_stem1|N,alt_stem,alt_stem2
  paradigm: poly_N
@@ -73901,8 +73901,8 @@
  paradigm: poly_V_intr
  trans_ru: умирать
 -lexeme
- lex: лӏэужыгъу
- stem: .лӏэужыгъу.
+ lex: лӏэужыгъо
+ stem: .лӏэужыгъу.//.лӏэужыгъо.
  gramm: N
  paradigm: poly_N
  trans_ru: тип

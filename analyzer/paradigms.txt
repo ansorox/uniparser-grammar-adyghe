@@ -1022,6 +1022,9 @@
  -flex: .рэ
   gramm: coord
   gloss: COORD
+ -flex: .рэ|кӏэ
+  gramm: ins,coord
+  gloss: COORD|INS
  -flex: .ти
   gramm: cs
   gloss: CS
@@ -1052,6 +1055,9 @@
  -flex: .рэ
   gramm: coord
   gloss: COORD
+ -flex: .рэ|кӏэ
+  gramm: ins,coord
+  gloss: COORD|INS
  -flex: .ти
   gramm: cs
   gloss: CS
@@ -1139,6 +1145,7 @@
   gramm: pred
   gloss: PRED
   paradigm: V_minus_9_intr_NtoV
+  paradigm: V_plus_3
   paradigm: additives
   #paradigm: poly_V_intr
 # -flex: .р<.>
@@ -1711,11 +1718,17 @@
   gloss: 3PL.IO
   paradigm: V_minus_6_main_nonfinal
   paradigm: V_minus_6_main_final
- -flex: .зы<.>.<.>//.зэ<.>.<.>
+ -flex: .зы<.>.<.>
   gramm: rfl.io
   gloss: RFL.IO
   paradigm: V_minus_6_main_nonfinal
   paradigm: V_minus_6_main_final
+ -flex: .зэ<.>.<.>
+  gramm: rfl.io
+  gloss: RFL.IO
+  paradigm: V_minus_6_main_nonfinal
+  paradigm: V_minus_6_main_final
+  regex-next: ^[.,<>0-9]*р(ы|[.<>])
  -flex: .з<.>.<.>
   gramm: rfl.io
   gloss: RFL.IO
@@ -1806,11 +1819,17 @@
   gloss: 3PL.IO
   paradigm: V_minus_6_main_nonfinal_intr
   paradigm: V_minus_6_main_final_intr
- -flex: .зы<.>.<.>//.зэ<.>.<.>
+ -flex: .зы<.>.<.>
   gramm: rfl.io
   gloss: RFL.IO
   paradigm: V_minus_6_main_nonfinal_intr
   paradigm: V_minus_6_main_final_intr
+ -flex: .зэ<.>.<.>
+  gramm: rfl.io
+  gloss: RFL.IO
+  paradigm: V_minus_6_main_nonfinal_intr
+  paradigm: V_minus_6_main_final_intr
+  regex-next: ^[.,<>0-9]*р(ы|[.<>])
  -flex: .з<.>.<.>
   gramm: rfl.io
   gloss: RFL.IO
@@ -1864,10 +1883,15 @@
   gramm: 3.io,pl.io
   gloss: 3PL.IO
   paradigm: V_minus_6_main_jen
- -flex: .зы<.>.//.зэ<.>.
+ -flex: .зы<.>.
   gramm: rfl.io
   gloss: RFL.IO
   paradigm: V_minus_6_main_jen
+ -flex: .зэ<.>.
+  gramm: rfl.io
+  gloss: RFL.IO
+  paradigm: V_minus_6_main_jen
+  regex-next: ^[.,<>0-9]*р(ы|[.<>])
  -flex: .зы<.>.
   gramm: rel.io
   gloss: REL.IO
@@ -3811,19 +3835,19 @@
   gramm: re,asrt
   gloss: RE|ASRT
   regex-gramm: ^V.*$
- -flex: <.>.къо<.>
+ -flex: <0>.къо<.>
   gramm: appr
   gloss: APPR
- -flex: <.>.къуа<.>
+ -flex: <0>.къуа<.>
   gramm: appr,alt_stem
   gloss: APPR
- -flex: <.>.гъэ|къо<.>
+ -flex: <0>.гъэ|къо<.>
   gramm: pst,appr
   gloss: PST|APPR
- -flex: <.>.гъэ|къуа<.>
+ -flex: <0>.гъэ|къуа<.>
   gramm: pst,appr,alt_stem
   gloss: PST|APPR
- -flex: <.>.гъа|къо<.>
+ -flex: <0>.гъа|къо<.>
   gramm: pst,appr,alt_stem
   gloss: PST|APPR
  paradigm: V_plus_3

@@ -1,5 +1,6 @@
 ﻿[
   {"lemma": "\\[[^ӏ].*\\]", "gloss": "^((DIR|[^-]+\\.ABS|[^-]+\\.ERG|[^-]+\\.IO|REL\\.SUB|DAT)-)*(STEM).*"},
+  {"lemma": "\\[кӏын\\]", "gloss": "^((?<!(DAT|LOC)).)*$"},
   {"lemma": "\\[ӏэн\\]", "gloss": "^(([^-]+\\.ABS|[^-]+\\.ERG|[^-]+\\.IO|REL\\.SUB|DAT)-)*(STEM).*"},
   {"lemma": "мы", "wfGlossed": "м"},
   {"lemma": "(мы|мэ)", "wfGlossed": "м-а"},
