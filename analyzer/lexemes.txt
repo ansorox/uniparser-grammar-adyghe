@@ -75413,7 +75413,7 @@
  stem: .нэхэе.//.нэхэй.|.нэхэя.|.нэхае.//.нэхай.
  gramm: A|A,alt_stem,alt_stem1|A,alt_stem,alt_stem2
  paradigm: poly_A
- trans_ru: мрачный;угрюмый
+ trans_ru: мрачный; угрюмый
 -lexeme
  lex: нэцӏэн
  stem: .нэцӏэ.//.нэцӏ.|.нэцӏа.|.нацӏэ.//.нацӏ.
@@ -79944,7 +79944,7 @@
  stem: .фэдиз.//.фэдизы.
  gramm: N
  paradigm: poly_N
- trans_ru: эквивалент
+ trans_ru: столько
 -lexeme
  lex: фэмыф
  stem: .фэмыф.//.фэмыфы.
