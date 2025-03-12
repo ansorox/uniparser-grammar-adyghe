@@ -71082,8 +71082,8 @@
  paradigm: poly_V_tr
  trans_ru: поднять
 -lexeme
- lex: зэгорэм
- stem: .зэгорэм.//.зэгорэмы.
+ lex: зэгорэ
+ stem: .зэгорэ.
  gramm: AD
  paradigm: poly_ADV
  trans_ru: когда-то
@@ -75401,7 +75401,7 @@
  stem: .нэфынэ.//.нэфын.|.нэфына.|.нэфынэ.//.нэфын.
  gramm: A|A,alt_stem,alt_stem1|A
  paradigm: poly_A
- trans_ru: яркий;светлый
+ trans_ru: яркий; светлый
 -lexeme
  lex: нэфэ
  stem: .нэфэ.//.нэф.|.нэфа.|.нафэ.//.наф.
