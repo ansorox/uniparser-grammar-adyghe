@@ -1097,7 +1097,7 @@
 <w><ana lex="232" gr="NUM,digit" parts="232-рэ" gloss="STEM-ORD" trans_ru="232"></ana>232-рэ</w>
 <w><ana lex="2400" gr="NUM,digit" parts="2400" gloss="STEM" trans_ru="2400"></ana>2400-</w>
 <w><ana lex="245" gr="NUM,digit" parts="245-рэ" gloss="STEM-ORD" trans_ru="245"></ana>245-рэ</w>
-<w><ana lex="25" gr="NUM,digit" parts="25-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="25"></ana>25-мкӏэ</w>
+<w><ana lex="25" gr="NUM,digit" parts="25-м-кIэ" gloss="STEM-OBL-INS" trans_ru="25"></ana>25-мкIэ</w>
 <w><ana lex="261" gr="NUM,digit" parts="261" gloss="STEM" trans_ru="261"></ana>261-</w>
 <w><ana lex="282" gr="NUM,digit" parts="282" gloss="STEM" trans_ru="282"></ana>282-</w>
 <w><ana lex="288" gr="NUM,digit" parts="288" gloss="STEM" trans_ru="288"></ana>288-</w>
@@ -1133,7 +1133,7 @@
 <w><ana lex="94" gr="NUM,digit" parts="94-м" gloss="STEM-OBL" trans_ru="94"></ana>94-м</w>
 <w><ana lex="97" gr="NUM,digit" parts="97-м" gloss="STEM-OBL" trans_ru="97"></ana>97-м</w>
 <w><ana lex="06" gr="NUM,digit" parts="06" gloss="STEM" trans_ru="06"></ana>06-</w>
-<w><ana lex="1" gr="NUM,digit" parts="1-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="1"></ana>1-мкӏэ</w>
+<w><ana lex="1" gr="NUM,digit" parts="1-м-кIэ" gloss="STEM-OBL-INS" trans_ru="1"></ana>1-мкIэ</w>
 <w><ana lex="134" gr="NUM,digit" parts="134-рэ" gloss="STEM-ORD" trans_ru="134"></ana>134-рэ</w>
 <w><ana lex="142" gr="NUM,digit" parts="142-рэ" gloss="STEM-ORD" trans_ru="142"></ana>142-рэ</w>
 <w><ana lex="170" gr="NUM,digit" parts="170" gloss="STEM" trans_ru="170"></ana>170</w>
@@ -1161,7 +1161,7 @@
 <w><ana lex="5500" gr="NUM,digit" parts="5500" gloss="STEM" trans_ru="5500"></ana>5500-</w>
 <w><ana lex="57" gr="NUM,digit" parts="57-р" gloss="STEM-ABS" trans_ru="57"></ana>57-р</w>
 <w><ana lex="650" gr="NUM,digit" parts="650-м" gloss="STEM-OBL" trans_ru="650"></ana>650-м</w>
-<w><ana lex="8" gr="NUM,digit" parts="8-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="8"></ana>8-мкӏэ</w>
+<w><ana lex="8" gr="NUM,digit" parts="8-м-кIэ" gloss="STEM-OBL-INS" trans_ru="8"></ana>8-мкIэ</w>
 <w><ana lex="98" gr="NUM,digit" parts="98-м" gloss="STEM-OBL" trans_ru="98"></ana>98-м</w>
 <w><ana lex="02" gr="NUM,digit" parts="02-м" gloss="STEM-OBL" trans_ru="02"></ana>02-м</w>
 <w><ana lex="122" gr="NUM,digit" parts="122" gloss="STEM" trans_ru="122"></ana>122</w>
@@ -1192,7 +1192,7 @@
 <w><ana lex="385" gr="NUM,digit" parts="385" gloss="STEM" trans_ru="385"></ana>385-</w>
 <w><ana lex="425" gr="NUM,digit" parts="425" gloss="STEM" trans_ru="425"></ana>425-</w>
 <w><ana lex="49" gr="NUM,digit" parts="49-м" gloss="STEM-OBL" trans_ru="49"></ana>49-м</w>
-<w><ana lex="5" gr="NUM,digit" parts="5-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="5"></ana>5-мкӏэ</w>
+<w><ana lex="5" gr="NUM,digit" parts="5-м-кIэ" gloss="STEM-OBL-INS" trans_ru="5"></ana>5-мкIэ</w>
 <w><ana lex="512" gr="NUM,digit" parts="512" gloss="STEM" trans_ru="512"></ana>512-</w>
 <w><ana lex="52162" gr="NUM,digit" parts="52162" gloss="STEM" trans_ru="52162"></ana>52162-</w>
 <w><ana lex="52162" gr="NUM,digit" parts="52162-рэ" gloss="STEM-ORD" trans_ru="52162"></ana>52162-рэ</w>
@@ -1239,7 +1239,7 @@
 <w><ana lex="820" gr="NUM,digit" parts="820" gloss="STEM" trans_ru="820"></ana>820-</w>
 <w><ana lex="85" gr="NUM,digit" parts="85-р" gloss="STEM-ABS" trans_ru="85"></ana>85-р</w>
 <w><ana lex="880" gr="NUM,digit" parts="880" gloss="STEM" trans_ru="880"></ana>880-</w>
-<w><ana lex="01" gr="NUM,digit" parts="01-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="01"></ana>01-мкӏэ</w>
+<w><ana lex="01" gr="NUM,digit" parts="01-м-кIэ" gloss="STEM-OBL-INS" trans_ru="01"></ana>01-мкIэ</w>
 <w><ana lex="124" gr="NUM,digit" parts="124-м" gloss="STEM-OBL" trans_ru="124"></ana>124-м</w>
 <w><ana lex="14289" gr="NUM,digit" parts="14289-рэ" gloss="STEM-ORD" trans_ru="14289"></ana>14289-рэ</w>
 <w><ana lex="145" gr="NUM,digit" parts="145" gloss="STEM" trans_ru="145"></ana>145</w>
@@ -1393,7 +1393,7 @@
 <w><ana lex="120" gr="NUM,digit" parts="120-р" gloss="STEM-ABS" trans_ru="120"></ana>120-р</w>
 <w><ana lex="126" gr="NUM,digit" parts="126" gloss="STEM" trans_ru="126"></ana>126</w>
 <w><ana lex="129" gr="NUM,digit" parts="129" gloss="STEM" trans_ru="129"></ana>129</w>
-<w><ana lex="13" gr="NUM,digit" parts="13-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="13"></ana>13-мкӏэ</w>
+<w><ana lex="13" gr="NUM,digit" parts="13-м-кIэ" gloss="STEM-OBL-INS" trans_ru="13"></ana>13-мкIэ</w>
 <w><ana lex="134" gr="NUM,digit" parts="134" gloss="STEM" trans_ru="134"></ana>134</w>
 <w><ana lex="137" gr="NUM,digit" parts="137" gloss="STEM" trans_ru="137"></ana>137</w>
 <w><ana lex="138" gr="NUM,digit" parts="138" gloss="STEM" trans_ru="138"></ana>138</w>
@@ -1452,7 +1452,7 @@
 <w><ana lex="540" gr="NUM,digit" parts="540-рэ" gloss="STEM-ORD" trans_ru="540"></ana>540-рэ</w>
 <w><ana lex="55" gr="NUM,digit" parts="55-р" gloss="STEM-ABS" trans_ru="55"></ana>55-р</w>
 <w><ana lex="5500" gr="NUM,digit" parts="5500-рэ" gloss="STEM-ORD" trans_ru="5500"></ana>5500-рэ</w>
-<w><ana lex="6" gr="NUM,digit" parts="6-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="6"></ana>6-мкӏэ</w>
+<w><ana lex="6" gr="NUM,digit" parts="6-м-кIэ" gloss="STEM-OBL-INS" trans_ru="6"></ana>6-мкIэ</w>
 <w><ana lex="627" gr="NUM,digit" parts="627" gloss="STEM" trans_ru="627"></ana>627-</w>
 <w><ana lex="6500" gr="NUM,digit" parts="6500" gloss="STEM" trans_ru="6500"></ana>6500-</w>
 <w><ana lex="68" gr="NUM,digit" parts="68-р" gloss="STEM-ABS" trans_ru="68"></ana>68-р</w>
@@ -1533,7 +1533,7 @@
 <w><ana lex="863" gr="NUM,digit" parts="863" gloss="STEM" trans_ru="863"></ana>863-</w>
 <w><ana lex="870" gr="NUM,digit" parts="870-рэ" gloss="STEM-ORD" trans_ru="870"></ana>870-рэ</w>
 <w><ana lex="960" gr="NUM,digit" parts="960" gloss="STEM" trans_ru="960"></ana>960-</w>
-<w><ana lex="02" gr="NUM,digit" parts="02-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="02"></ana>02-мкӏэ</w>
+<w><ana lex="02" gr="NUM,digit" parts="02-м-кIэ" gloss="STEM-OBL-INS" trans_ru="02"></ana>02-мкIэ</w>
 <w><ana lex="07" gr="NUM,digit" parts="07" gloss="STEM" trans_ru="07"></ana>07-</w>
 <w><ana lex="1100" gr="NUM,digit" parts="1100-м" gloss="STEM-OBL" trans_ru="1100"></ana>1100-м</w>
 <w><ana lex="1250" gr="NUM,digit" parts="1250-рэ" gloss="STEM-ORD" trans_ru="1250"></ana>1250-рэ</w>
@@ -1552,13 +1552,13 @@
 <w><ana lex="1895" gr="NUM,digit" parts="1895-рэ" gloss="STEM-ORD" trans_ru="1895"></ana>1895-рэ</w>
 <w><ana lex="1922" gr="NUM,digit" parts="1922" gloss="STEM" trans_ru="1922"></ana>1922</w>
 <w><ana lex="1947" gr="NUM,digit" parts="1947" gloss="STEM" trans_ru="1947"></ana>1947</w>
-<w><ana lex="2" gr="NUM,digit" parts="2-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="2"></ana>2-мкӏэ</w>
+<w><ana lex="2" gr="NUM,digit" parts="2-м-кIэ" gloss="STEM-OBL-INS" trans_ru="2"></ana>2-мкIэ</w>
 <w><ana lex="20000" gr="NUM,digit" parts="20000" gloss="STEM" trans_ru="20000"></ana>20000</w>
 <w><ana lex="2050" gr="NUM,digit" parts="2050" gloss="STEM" trans_ru="2050"></ana>2050-</w>
 <w><ana lex="2100" gr="NUM,digit" parts="2100-рэ" gloss="STEM-ORD" trans_ru="2100"></ana>2100-рэ</w>
 <w><ana lex="223" gr="NUM,digit" parts="223-рэ" gloss="STEM-ORD" trans_ru="223"></ana>223-рэ</w>
 <w><ana lex="224" gr="NUM,digit" parts="224" gloss="STEM" trans_ru="224"></ana>224</w>
-<w><ana lex="23" gr="NUM,digit" parts="23-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="23"></ana>23-мкӏэ</w>
+<w><ana lex="23" gr="NUM,digit" parts="23-м-кIэ" gloss="STEM-OBL-INS" trans_ru="23"></ana>23-мкIэ</w>
 <w><ana lex="231" gr="NUM,digit" parts="231-рэ" gloss="STEM-ORD" trans_ru="231"></ana>231-рэ</w>
 <w><ana lex="247" gr="NUM,digit" parts="247-рэ" gloss="STEM-ORD" trans_ru="247"></ana>247-рэ</w>
 <w><ana lex="248" gr="NUM,digit" parts="248" gloss="STEM" trans_ru="248"></ana>248-</w>
@@ -2199,7 +2199,7 @@
 <w><ana lex="119" gr="NUM,digit" parts="119-р" gloss="STEM-ABS" trans_ru="119"></ana>119-р</w>
 <w><ana lex="1190" gr="NUM,digit" parts="1190" gloss="STEM" trans_ru="1190"></ana>1190-</w>
 <w><ana lex="1195" gr="NUM,digit" parts="1195-рэ" gloss="STEM-ORD" trans_ru="1195"></ana>1195-рэ</w>
-<w><ana lex="12" gr="NUM,digit" parts="12-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="12"></ana>12-мкӏэ</w>
+<w><ana lex="12" gr="NUM,digit" parts="12-м-кIэ" gloss="STEM-OBL-INS" trans_ru="12"></ana>12-мкIэ</w>
 <w><ana lex="12000" gr="NUM,digit" parts="12000" gloss="STEM" trans_ru="12000"></ana>12000-</w>
 <w><ana lex="12000" gr="NUM,digit" parts="12000-м" gloss="STEM-OBL" trans_ru="12000"></ana>12000-м</w>
 <w><ana lex="1225" gr="NUM,digit" parts="1225" gloss="STEM" trans_ru="1225"></ana>1225-</w>
@@ -2268,7 +2268,7 @@
 <w><ana lex="208" gr="NUM,digit" parts="208-м" gloss="STEM-OBL" trans_ru="208"></ana>208-м</w>
 <w><ana lex="210" gr="NUM,digit" parts="210-р" gloss="STEM-ABS" trans_ru="210"></ana>210-р</w>
 <w><ana lex="219" gr="NUM,digit" parts="219-м" gloss="STEM-OBL" trans_ru="219"></ana>219-м</w>
-<w><ana lex="22" gr="NUM,digit" parts="22-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="22"></ana>22-мкӏэ</w>
+<w><ana lex="22" gr="NUM,digit" parts="22-м-кIэ" gloss="STEM-OBL-INS" trans_ru="22"></ana>22-мкIэ</w>
 <w><ana lex="225" gr="NUM,digit" parts="225-м" gloss="STEM-OBL" trans_ru="225"></ana>225-м</w>
 <w><ana lex="22912" gr="NUM,digit" parts="22912" gloss="STEM" trans_ru="22912"></ana>22912-</w>
 <w><ana lex="230" gr="NUM,digit" parts="230" gloss="STEM" trans_ru="230"></ana>230</w>
@@ -2421,7 +2421,7 @@
 <w><ana lex="1032" gr="NUM,digit" parts="1032" gloss="STEM" trans_ru="1032"></ana>1032-</w>
 <w><ana lex="1070" gr="NUM,digit" parts="1070" gloss="STEM" trans_ru="1070"></ana>1070-</w>
 <w><ana lex="110" gr="NUM,digit" parts="110-р" gloss="STEM-ABS" trans_ru="110"></ana>110-р</w>
-<w><ana lex="112" gr="NUM,digit" parts="112-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="112"></ana>112-мкӏэ</w>
+<w><ana lex="112" gr="NUM,digit" parts="112-м-кIэ" gloss="STEM-OBL-INS" trans_ru="112"></ana>112-мкIэ</w>
 <w><ana lex="1130" gr="NUM,digit" parts="1130" gloss="STEM" trans_ru="1130"></ana>1130-</w>
 <w><ana lex="1131" gr="NUM,digit" parts="1131-рэ" gloss="STEM-ORD" trans_ru="1131"></ana>1131-рэ</w>
 <w><ana lex="1149" gr="NUM,digit" parts="1149" gloss="STEM" trans_ru="1149"></ana>1149-</w>
@@ -2514,7 +2514,7 @@
 <w><ana lex="1984" gr="NUM,digit" parts="1984-м" gloss="STEM-OBL" trans_ru="1984"></ana>1984-м</w>
 <w><ana lex="1990" gr="NUM,digit" parts="1990-м" gloss="STEM-OBL" trans_ru="1990"></ana>1990-м</w>
 <w><ana lex="1992" gr="NUM,digit" parts="1992-м" gloss="STEM-OBL" trans_ru="1992"></ana>1992-м</w>
-<w><ana lex="20" gr="NUM,digit" parts="20-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="20"></ana>20-мкӏэ</w>
+<w><ana lex="20" gr="NUM,digit" parts="20-м-кIэ" gloss="STEM-OBL-INS" trans_ru="20"></ana>20-мкIэ</w>
 <w><ana lex="2020" gr="NUM,digit" parts="2020" gloss="STEM" trans_ru="2020"></ana>2020</w>
 <w><ana lex="2076" gr="NUM,digit" parts="2076-рэ" gloss="STEM-ORD" trans_ru="2076"></ana>2076-рэ</w>
 <w><ana lex="211" gr="NUM,digit" parts="211" gloss="STEM" trans_ru="211"></ana>211</w>
@@ -2526,7 +2526,7 @@
 <w><ana lex="221" gr="NUM,digit" parts="221-рэ" gloss="STEM-ORD" trans_ru="221"></ana>221-рэ</w>
 <w><ana lex="222" gr="NUM,digit" parts="222-р" gloss="STEM-ABS" trans_ru="222"></ana>222-р</w>
 <w><ana lex="235" gr="NUM,digit" parts="235-м" gloss="STEM-OBL" trans_ru="235"></ana>235-м</w>
-<w><ana lex="24" gr="NUM,digit" parts="24-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="24"></ana>24-мкӏэ</w>
+<w><ana lex="24" gr="NUM,digit" parts="24-м-кIэ" gloss="STEM-OBL-INS" trans_ru="24"></ana>24-мкIэ</w>
 <w><ana lex="241" gr="NUM,digit" parts="241-м" gloss="STEM-OBL" trans_ru="241"></ana>241-м</w>
 <w><ana lex="244" gr="NUM,digit" parts="244" gloss="STEM" trans_ru="244"></ana>244</w>
 <w><ana lex="24987" gr="NUM,digit" parts="24987" gloss="STEM" trans_ru="24987"></ana>24987-</w>
@@ -2542,7 +2542,7 @@
 <w><ana lex="277" gr="NUM,digit" parts="277-рэ" gloss="STEM-ORD" trans_ru="277"></ana>277-рэ</w>
 <w><ana lex="283" gr="NUM,digit" parts="283" gloss="STEM" trans_ru="283"></ana>283-</w>
 <w><ana lex="2845" gr="NUM,digit" parts="2845" gloss="STEM" trans_ru="2845"></ana>2845-</w>
-<w><ana lex="3" gr="NUM,digit" parts="3-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="3"></ana>3-мкӏэ</w>
+<w><ana lex="3" gr="NUM,digit" parts="3-м-кIэ" gloss="STEM-OBL-INS" trans_ru="3"></ana>3-мкIэ</w>
 <w><ana lex="301" gr="NUM,digit" parts="301-рэ" gloss="STEM-ORD" trans_ru="301"></ana>301-рэ</w>
 <w><ana lex="303" gr="NUM,digit" parts="303-рэ" gloss="STEM-ORD" trans_ru="303"></ana>303-рэ</w>
 <w><ana lex="305" gr="NUM,digit" parts="305-рэ" gloss="STEM-ORD" trans_ru="305"></ana>305-рэ</w>
@@ -2806,7 +2806,7 @@
 <w><ana lex="157994" gr="NUM,digit" parts="157994-рэ" gloss="STEM-ORD" trans_ru="157994"></ana>157994-рэ</w>
 <w><ana lex="1580" gr="NUM,digit" parts="1580" gloss="STEM" trans_ru="1580"></ana>1580-</w>
 <w><ana lex="159" gr="NUM,digit" parts="159-м" gloss="STEM-OBL" trans_ru="159"></ana>159-м</w>
-<w><ana lex="16" gr="NUM,digit" parts="16-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="16"></ana>16-мкӏэ</w>
+<w><ana lex="16" gr="NUM,digit" parts="16-м-кIэ" gloss="STEM-OBL-INS" trans_ru="16"></ana>16-мкIэ</w>
 <w><ana lex="160" gr="NUM,digit" parts="160-р" gloss="STEM-ABS" trans_ru="160"></ana>160-р</w>
 <w><ana lex="163" gr="NUM,digit" parts="163-м" gloss="STEM-OBL" trans_ru="163"></ana>163-м</w>
 <w><ana lex="1630" gr="NUM,digit" parts="1630" gloss="STEM" trans_ru="1630"></ana>1630-</w>
@@ -2910,7 +2910,7 @@
 <w><ana lex="203" gr="NUM,digit" parts="203" gloss="STEM" trans_ru="203"></ana>203</w>
 <w><ana lex="205" gr="NUM,digit" parts="205-м" gloss="STEM-OBL" trans_ru="205"></ana>205-м</w>
 <w><ana lex="207" gr="NUM,digit" parts="207" gloss="STEM" trans_ru="207"></ana>207</w>
-<w><ana lex="21" gr="NUM,digit" parts="21-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="21"></ana>21-мкӏэ</w>
+<w><ana lex="21" gr="NUM,digit" parts="21-м-кIэ" gloss="STEM-OBL-INS" trans_ru="21"></ana>21-мкIэ</w>
 <w><ana lex="21093" gr="NUM,digit" parts="21093" gloss="STEM" trans_ru="21093"></ana>21093-</w>
 <w><ana lex="2112" gr="NUM,digit" parts="2112" gloss="STEM" trans_ru="2112"></ana>2112-</w>
 <w><ana lex="212" gr="NUM,digit" parts="212-м" gloss="STEM-OBL" trans_ru="212"></ana>212-м</w>
@@ -3250,7 +3250,7 @@
 <w><ana lex="1080" gr="NUM,digit" parts="1080-рэ" gloss="STEM-ORD" trans_ru="1080"></ana>1080-рэ</w>
 <w><ana lex="1084" gr="NUM,digit" parts="1084-рэ" gloss="STEM-ORD" trans_ru="1084"></ana>1084-рэ</w>
 <w><ana lex="10950" gr="NUM,digit" parts="10950" gloss="STEM" trans_ru="10950"></ana>10950-</w>
-<w><ana lex="11" gr="NUM,digit" parts="11-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="11"></ana>11-мкӏэ</w>
+<w><ana lex="11" gr="NUM,digit" parts="11-м-кIэ" gloss="STEM-OBL-INS" trans_ru="11"></ana>11-мкIэ</w>
 <w><ana lex="1100" gr="NUM,digit" parts="1100-р" gloss="STEM-ABS" trans_ru="1100"></ana>1100-р</w>
 <w><ana lex="1104" gr="NUM,digit" parts="1104" gloss="STEM" trans_ru="1104"></ana>1104-</w>
 <w><ana lex="1120" gr="NUM,digit" parts="1120" gloss="STEM" trans_ru="1120"></ana>1120-</w>
@@ -3476,7 +3476,7 @@
 <w><ana lex="1997" gr="NUM,digit" parts="1997-м" gloss="STEM-OBL" trans_ru="1997"></ana>1997-м</w>
 <w><ana lex="2002" gr="NUM,digit" parts="2002-м" gloss="STEM-OBL" trans_ru="2002"></ana>2002-м</w>
 <w><ana lex="2010" gr="NUM,digit" parts="2010-р" gloss="STEM-ABS" trans_ru="2010"></ana>2010-р</w>
-<w><ana lex="2016" gr="NUM,digit" parts="2016-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="2016"></ana>2016-мкӏэ</w>
+<w><ana lex="2016" gr="NUM,digit" parts="2016-м-кIэ" gloss="STEM-OBL-INS" trans_ru="2016"></ana>2016-мкIэ</w>
 <w><ana lex="202" gr="NUM,digit" parts="202" gloss="STEM" trans_ru="202"></ana>202</w>
 <w><ana lex="202" gr="NUM,digit" parts="202-р" gloss="STEM-ABS" trans_ru="202"></ana>202-р</w>
 <w><ana lex="2026" gr="NUM,digit" parts="2026-рэ" gloss="STEM-ORD" trans_ru="2026"></ana>2026-рэ</w>
@@ -3549,7 +3549,7 @@
 <w><ana lex="2570" gr="NUM,digit" parts="2570" gloss="STEM" trans_ru="2570"></ana>2570-</w>
 <w><ana lex="258" gr="NUM,digit" parts="258-м" gloss="STEM-OBL" trans_ru="258"></ana>258-м</w>
 <w><ana lex="2592" gr="NUM,digit" parts="2592" gloss="STEM" trans_ru="2592"></ana>2592-</w>
-<w><ana lex="26" gr="NUM,digit" parts="26-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="26"></ana>26-мкӏэ</w>
+<w><ana lex="26" gr="NUM,digit" parts="26-м-кIэ" gloss="STEM-OBL-INS" trans_ru="26"></ana>26-мкIэ</w>
 <w><ana lex="2611" gr="NUM,digit" parts="2611" gloss="STEM" trans_ru="2611"></ana>2611-</w>
 <w><ana lex="262" gr="NUM,digit" parts="262" gloss="STEM" trans_ru="262"></ana>262</w>
 <w><ana lex="263989" gr="NUM,digit" parts="263989" gloss="STEM" trans_ru="263989"></ana>263989-</w>
@@ -3596,7 +3596,7 @@
 <w><ana lex="3084" gr="NUM,digit" parts="3084" gloss="STEM" trans_ru="3084"></ana>3084-</w>
 <w><ana lex="3100" gr="NUM,digit" parts="3100" gloss="STEM" trans_ru="3100"></ana>3100-</w>
 <w><ana lex="3110" gr="NUM,digit" parts="3110" gloss="STEM" trans_ru="3110"></ana>3110-</w>
-<w><ana lex="3116" gr="NUM,digit" parts="3116-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="3116"></ana>3116-мкӏэ</w>
+<w><ana lex="3116" gr="NUM,digit" parts="3116-м-кIэ" gloss="STEM-OBL-INS" trans_ru="3116"></ana>3116-мкIэ</w>
 <w><ana lex="3142" gr="NUM,digit" parts="3142" gloss="STEM" trans_ru="3142"></ana>3142-</w>
 <w><ana lex="315" gr="NUM,digit" parts="315-р" gloss="STEM-ABS" trans_ru="315"></ana>315-р</w>
 <w><ana lex="317" gr="NUM,digit" parts="317-р" gloss="STEM-ABS" trans_ru="317"></ana>317-р</w>
@@ -3662,7 +3662,7 @@
 <w><ana lex="39660" gr="NUM,digit" parts="39660" gloss="STEM" trans_ru="39660"></ana>39660-</w>
 <w><ana lex="39660" gr="NUM,digit" parts="39660-рэ" gloss="STEM-ORD" trans_ru="39660"></ana>39660-рэ</w>
 <w><ana lex="397" gr="NUM,digit" parts="397" gloss="STEM" trans_ru="397"></ana>397</w>
-<w><ana lex="4" gr="NUM,digit" parts="4-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="4"></ana>4-мкӏэ</w>
+<w><ana lex="4" gr="NUM,digit" parts="4-м-кIэ" gloss="STEM-OBL-INS" trans_ru="4"></ana>4-мкIэ</w>
 <w><ana lex="401" gr="NUM,digit" parts="401" gloss="STEM" trans_ru="401"></ana>401</w>
 <w><ana lex="402" gr="NUM,digit" parts="402-рэ" gloss="STEM-ORD" trans_ru="402"></ana>402-рэ</w>
 <w><ana lex="403" gr="NUM,digit" parts="403" gloss="STEM" trans_ru="403"></ana>403</w>
@@ -3694,7 +3694,7 @@
 <w><ana lex="429" gr="NUM,digit" parts="429-м" gloss="STEM-OBL" trans_ru="429"></ana>429-м</w>
 <w><ana lex="4300" gr="NUM,digit" parts="4300-рэ" gloss="STEM-ORD" trans_ru="4300"></ana>4300-рэ</w>
 <w><ana lex="437" gr="NUM,digit" parts="437-м" gloss="STEM-OBL" trans_ru="437"></ana>437-м</w>
-<w><ana lex="44" gr="NUM,digit" parts="44-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="44"></ana>44-мкӏэ</w>
+<w><ana lex="44" gr="NUM,digit" parts="44-м-кIэ" gloss="STEM-OBL-INS" trans_ru="44"></ana>44-мкIэ</w>
 <w><ana lex="4400" gr="NUM,digit" parts="4400-рэ" gloss="STEM-ORD" trans_ru="4400"></ana>4400-рэ</w>
 <w><ana lex="441" gr="NUM,digit" parts="441" gloss="STEM" trans_ru="441"></ana>441</w>
 <w><ana lex="444" gr="NUM,digit" parts="444-рэ" gloss="STEM-ORD" trans_ru="444"></ana>444-рэ</w>
@@ -3837,7 +3837,7 @@
 <w><ana lex="691" gr="NUM,digit" parts="691" gloss="STEM" trans_ru="691"></ana>691-</w>
 <w><ana lex="6937" gr="NUM,digit" parts="6937" gloss="STEM" trans_ru="6937"></ana>6937-</w>
 <w><ana lex="696" gr="NUM,digit" parts="696" gloss="STEM" trans_ru="696"></ana>696-</w>
-<w><ana lex="7" gr="NUM,digit" parts="7-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="7"></ana>7-мкӏэ</w>
+<w><ana lex="7" gr="NUM,digit" parts="7-м-кIэ" gloss="STEM-OBL-INS" trans_ru="7"></ana>7-мкIэ</w>
 <w><ana lex="703" gr="NUM,digit" parts="703-м" gloss="STEM-OBL" trans_ru="703"></ana>703-м</w>
 <w><ana lex="704" gr="NUM,digit" parts="704-рэ" gloss="STEM-ORD" trans_ru="704"></ana>704-рэ</w>
 <w><ana lex="707" gr="NUM,digit" parts="707-м" gloss="STEM-OBL" trans_ru="707"></ana>707-м</w>
@@ -3923,7 +3923,7 @@
 <w><ana lex="8910" gr="NUM,digit" parts="8910" gloss="STEM" trans_ru="8910"></ana>8910-</w>
 <w><ana lex="897" gr="NUM,digit" parts="897" gloss="STEM" trans_ru="897"></ana>897-</w>
 <w><ana lex="898" gr="NUM,digit" parts="898-рэ" gloss="STEM-ORD" trans_ru="898"></ana>898-рэ</w>
-<w><ana lex="9" gr="NUM,digit" parts="9-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="9"></ana>9-мкӏэ</w>
+<w><ana lex="9" gr="NUM,digit" parts="9-м-кIэ" gloss="STEM-OBL-INS" trans_ru="9"></ana>9-мкIэ</w>
 <w><ana lex="912" gr="NUM,digit" parts="912" gloss="STEM" trans_ru="912"></ana>912</w>
 <w><ana lex="913" gr="NUM,digit" parts="913-м" gloss="STEM-OBL" trans_ru="913"></ana>913-м</w>
 <w><ana lex="915" gr="NUM,digit" parts="915-рэ" gloss="STEM-ORD" trans_ru="915"></ana>915-рэ</w>
@@ -3970,7 +3970,7 @@
 <w><ana lex="997" gr="NUM,digit" parts="997-рэ" gloss="STEM-ORD" trans_ru="997"></ana>997-рэ</w>
 <w><ana lex="999" gr="NUM,digit" parts="999-рэ" gloss="STEM-ORD" trans_ru="999"></ana>999-рэ</w>
 <w><ana lex="000" gr="NUM,digit" parts="000-м" gloss="STEM-OBL" trans_ru="000"></ana>000-м</w>
-<w><ana lex="010" gr="NUM,digit" parts="010-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="010"></ana>010-мкӏэ</w>
+<w><ana lex="010" gr="NUM,digit" parts="010-м-кIэ" gloss="STEM-OBL-INS" trans_ru="010"></ana>010-мкIэ</w>
 <w><ana lex="0105010768" gr="NUM,digit" parts="0105010768" gloss="STEM" trans_ru="0105010768"></ana>0105010768</w>
 <w><ana lex="02041" gr="NUM,digit" parts="02041" gloss="STEM" trans_ru="02041"></ana>02041</w>
 <w><ana lex="026" gr="NUM,digit" parts="026" gloss="STEM" trans_ru="026"></ana>026-</w>
@@ -3988,7 +3988,7 @@
 <w><ana lex="1005" gr="NUM,digit" parts="1005-м" gloss="STEM-OBL" trans_ru="1005"></ana>1005-м</w>
 <w><ana lex="1006" gr="NUM,digit" parts="1006" gloss="STEM" trans_ru="1006"></ana>1006-</w>
 <w><ana lex="1007" gr="NUM,digit" parts="1007-рэ" gloss="STEM-ORD" trans_ru="1007"></ana>1007-рэ</w>
-<w><ana lex="101" gr="NUM,digit" parts="101-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="101"></ana>101-мкӏэ</w>
+<w><ana lex="101" gr="NUM,digit" parts="101-м-кIэ" gloss="STEM-OBL-INS" trans_ru="101"></ana>101-мкIэ</w>
 <w><ana lex="1011" gr="NUM,digit" parts="1011" gloss="STEM" trans_ru="1011"></ana>1011-</w>
 <w><ana lex="10138" gr="NUM,digit" parts="10138" gloss="STEM" trans_ru="10138"></ana>10138-</w>
 <w><ana lex="1014" gr="NUM,digit" parts="1014" gloss="STEM" trans_ru="1014"></ana>1014-</w>
@@ -4090,7 +4090,7 @@
 <w><ana lex="122" gr="NUM,digit" parts="122-р" gloss="STEM-ABS" trans_ru="122"></ana>122-р</w>
 <w><ana lex="1220" gr="NUM,digit" parts="1220-рэ" gloss="STEM-ORD" trans_ru="1220"></ana>1220-рэ</w>
 <w><ana lex="1227" gr="NUM,digit" parts="1227-рэ" gloss="STEM-ORD" trans_ru="1227"></ana>1227-рэ</w>
-<w><ana lex="123" gr="NUM,digit" parts="123-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="123"></ana>123-мкӏэ</w>
+<w><ana lex="123" gr="NUM,digit" parts="123-м-кIэ" gloss="STEM-OBL-INS" trans_ru="123"></ana>123-мкIэ</w>
 <w><ana lex="12341" gr="NUM,digit" parts="12341" gloss="STEM" trans_ru="12341"></ana>12341-</w>
 <w><ana lex="12341" gr="NUM,digit" parts="12341-рэ" gloss="STEM-ORD" trans_ru="12341"></ana>12341-рэ</w>
 <w><ana lex="1235" gr="NUM,digit" parts="1235" gloss="STEM" trans_ru="1235"></ana>1235-</w>
@@ -4305,7 +4305,7 @@
 <w><ana lex="169" gr="NUM,digit" parts="169-р" gloss="STEM-ABS" trans_ru="169"></ana>169-р</w>
 <w><ana lex="1690" gr="NUM,digit" parts="1690-рэ" gloss="STEM-ORD" trans_ru="1690"></ana>1690-рэ</w>
 <w><ana lex="1695" gr="NUM,digit" parts="1695-рэ" gloss="STEM-ORD" trans_ru="1695"></ana>1695-рэ</w>
-<w><ana lex="17" gr="NUM,digit" parts="17-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="17"></ana>17-мкӏэ</w>
+<w><ana lex="17" gr="NUM,digit" parts="17-м-кIэ" gloss="STEM-OBL-INS" trans_ru="17"></ana>17-мкIэ</w>
 <w><ana lex="17000" gr="NUM,digit" parts="17000" gloss="STEM" trans_ru="17000"></ana>17000</w>
 <w><ana lex="1704" gr="NUM,digit" parts="1704" gloss="STEM" trans_ru="1704"></ana>1704-</w>
 <w><ana lex="1704" gr="NUM,digit" parts="1704-рэ" gloss="STEM-ORD" trans_ru="1704"></ana>1704-рэ</w>
@@ -4615,7 +4615,7 @@
 <w><ana lex="2600" gr="NUM,digit" parts="2600-м" gloss="STEM-OBL" trans_ru="2600"></ana>2600-м</w>
 <w><ana lex="2608" gr="NUM,digit" parts="2608" gloss="STEM" trans_ru="2608"></ana>2608-</w>
 <w><ana lex="261" gr="NUM,digit" parts="261-м" gloss="STEM-OBL" trans_ru="261"></ana>261-м</w>
-<w><ana lex="261" gr="NUM,digit" parts="261-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="261"></ana>261-мкӏэ</w>
+<w><ana lex="261" gr="NUM,digit" parts="261-м-кIэ" gloss="STEM-OBL-INS" trans_ru="261"></ana>261-мкIэ</w>
 <w><ana lex="261" gr="NUM,digit" parts="261-р" gloss="STEM-ABS" trans_ru="261"></ana>261-р</w>
 <w><ana lex="2611" gr="NUM,digit" parts="2611-рэ" gloss="STEM-ORD" trans_ru="2611"></ana>2611-рэ</w>
 <w><ana lex="2614" gr="NUM,digit" parts="2614" gloss="STEM" trans_ru="2614"></ana>2614-</w>
@@ -5181,7 +5181,7 @@
 <w><ana lex="6983" gr="NUM,digit" parts="6983" gloss="STEM" trans_ru="6983"></ana>6983-</w>
 <w><ana lex="6983" gr="NUM,digit" parts="6983-рэ" gloss="STEM-ORD" trans_ru="6983"></ana>6983-рэ</w>
 <w><ana lex="699" gr="NUM,digit" parts="699-рэ" gloss="STEM-ORD" trans_ru="699"></ana>699-рэ</w>
-<w><ana lex="700" gr="NUM,digit" parts="700-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="700"></ana>700-мкӏэ</w>
+<w><ana lex="700" gr="NUM,digit" parts="700-м-кIэ" gloss="STEM-OBL-INS" trans_ru="700"></ana>700-мкIэ</w>
 <w><ana lex="702" gr="NUM,digit" parts="702-м" gloss="STEM-OBL" trans_ru="702"></ana>702-м</w>
 <w><ana lex="702" gr="NUM,digit" parts="702-рэ" gloss="STEM-ORD" trans_ru="702"></ana>702-рэ</w>
 <w><ana lex="703" gr="NUM,digit" parts="703-рэ" gloss="STEM-ORD" trans_ru="703"></ana>703-рэ</w>
@@ -5531,7 +5531,7 @@
 <w><ana lex="089" gr="NUM,digit" parts="089" gloss="STEM" trans_ru="089"></ana>089</w>
 <w><ana lex="09" gr="NUM,digit" parts="09-рэ" gloss="STEM-ORD" trans_ru="09"></ana>09-рэ</w>
 <w><ana lex="090" gr="NUM,digit" parts="090" gloss="STEM" trans_ru="090"></ana>090</w>
-<w><ana lex="100" gr="NUM,digit" parts="100-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="100"></ana>100-мкӏэ</w>
+<w><ana lex="100" gr="NUM,digit" parts="100-м-кIэ" gloss="STEM-OBL-INS" trans_ru="100"></ana>100-мкIэ</w>
 <w><ana lex="1000" gr="NUM,digit" parts="1000-ым" gloss="STEM-OBL" trans_ru="1000"></ana>1000-ым</w>
 <w><ana lex="10006" gr="NUM,digit" parts="10006" gloss="STEM" trans_ru="10006"></ana>10006</w>
 <w><ana lex="1001" gr="NUM,digit" parts="1001-м" gloss="STEM-OBL" trans_ru="1001"></ana>1001-м</w>
@@ -5615,7 +5615,7 @@
 <w><ana lex="1039" gr="NUM,digit" parts="1039" gloss="STEM" trans_ru="1039"></ana>1039-</w>
 <w><ana lex="10392" gr="NUM,digit" parts="10392" gloss="STEM" trans_ru="10392"></ana>10392-</w>
 <w><ana lex="10392" gr="NUM,digit" parts="10392-рэ" gloss="STEM-ORD" trans_ru="10392"></ana>10392-рэ</w>
-<w><ana lex="104" gr="NUM,digit" parts="104-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="104"></ana>104-мкӏэ</w>
+<w><ana lex="104" gr="NUM,digit" parts="104-м-кIэ" gloss="STEM-OBL-INS" trans_ru="104"></ana>104-мкIэ</w>
 <w><ana lex="1040" gr="NUM,digit" parts="1040" gloss="STEM" trans_ru="1040"></ana>1040</w>
 <w><ana lex="10400" gr="NUM,digit" parts="10400" gloss="STEM" trans_ru="10400"></ana>10400</w>
 <w><ana lex="10400" gr="NUM,digit" parts="10400" gloss="STEM" trans_ru="10400"></ana>10400-</w>
@@ -5724,7 +5724,7 @@
 <w><ana lex="1089" gr="NUM,digit" parts="1089-рэ" gloss="STEM-ORD" trans_ru="1089"></ana>1089-рэ</w>
 <w><ana lex="10892" gr="NUM,digit" parts="10892-м" gloss="STEM-OBL" trans_ru="10892"></ana>10892-м</w>
 <w><ana lex="10892" gr="NUM,digit" parts="10892-рэ" gloss="STEM-ORD" trans_ru="10892"></ana>10892-рэ</w>
-<w><ana lex="109" gr="NUM,digit" parts="109-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="109"></ana>109-мкӏэ</w>
+<w><ana lex="109" gr="NUM,digit" parts="109-м-кIэ" gloss="STEM-OBL-INS" trans_ru="109"></ana>109-мкIэ</w>
 <w><ana lex="109074" gr="NUM,digit" parts="109074" gloss="STEM" trans_ru="109074"></ana>109074</w>
 <w><ana lex="1092" gr="NUM,digit" parts="1092" gloss="STEM" trans_ru="1092"></ana>1092-</w>
 <w><ana lex="10926" gr="NUM,digit" parts="10926" gloss="STEM" trans_ru="10926"></ana>10926-</w>
@@ -6046,7 +6046,7 @@
 <w><ana lex="12485" gr="NUM,digit" parts="12485-рэ" gloss="STEM-ORD" trans_ru="12485"></ana>12485-рэ</w>
 <w><ana lex="1249" gr="NUM,digit" parts="1249" gloss="STEM" trans_ru="1249"></ana>1249-</w>
 <w><ana lex="1249" gr="NUM,digit" parts="1249-рэ" gloss="STEM-ORD" trans_ru="1249"></ana>1249-рэ</w>
-<w><ana lex="125" gr="NUM,digit" parts="125-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="125"></ana>125-мкӏэ</w>
+<w><ana lex="125" gr="NUM,digit" parts="125-м-кIэ" gloss="STEM-OBL-INS" trans_ru="125"></ana>125-мкIэ</w>
 <w><ana lex="125" gr="NUM,digit" parts="125-р" gloss="STEM-ABS" trans_ru="125"></ana>125-р</w>
 <w><ana lex="1250" gr="NUM,digit" parts="1250-м" gloss="STEM-OBL" trans_ru="1250"></ana>1250-м</w>
 <w><ana lex="12500" gr="NUM,digit" parts="12500" gloss="STEM" trans_ru="12500"></ana>12500-</w>
@@ -6325,7 +6325,7 @@
 <w><ana lex="1396" gr="NUM,digit" parts="1396-рэ" gloss="STEM-ORD" trans_ru="1396"></ana>1396-рэ</w>
 <w><ana lex="1398" gr="NUM,digit" parts="1398" gloss="STEM" trans_ru="1398"></ana>1398-</w>
 <w><ana lex="1398" gr="NUM,digit" parts="1398-рэ" gloss="STEM-ORD" trans_ru="1398"></ana>1398-рэ</w>
-<w><ana lex="14" gr="NUM,digit" parts="14-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="14"></ana>14-мкӏэ</w>
+<w><ana lex="14" gr="NUM,digit" parts="14-м-кIэ" gloss="STEM-OBL-INS" trans_ru="14"></ana>14-мкIэ</w>
 <w><ana lex="14000" gr="NUM,digit" parts="14000" gloss="STEM" trans_ru="14000"></ana>14000</w>
 <w><ana lex="14000" gr="NUM,digit" parts="14000-м" gloss="STEM-OBL" trans_ru="14000"></ana>14000-м</w>
 <w><ana lex="140000" gr="NUM,digit" parts="140000" gloss="STEM" trans_ru="140000"></ana>140000</w>
@@ -6437,7 +6437,7 @@
 <w><ana lex="1458" gr="NUM,digit" parts="1458-рэ" gloss="STEM-ORD" trans_ru="1458"></ana>1458-рэ</w>
 <w><ana lex="1459" gr="NUM,digit" parts="1459" gloss="STEM" trans_ru="1459"></ana>1459-</w>
 <w><ana lex="1459" gr="NUM,digit" parts="1459-рэ" gloss="STEM-ORD" trans_ru="1459"></ana>1459-рэ</w>
-<w><ana lex="146" gr="NUM,digit" parts="146-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="146"></ana>146-мкӏэ</w>
+<w><ana lex="146" gr="NUM,digit" parts="146-м-кIэ" gloss="STEM-OBL-INS" trans_ru="146"></ana>146-мкIэ</w>
 <w><ana lex="14600" gr="NUM,digit" parts="14600" gloss="STEM" trans_ru="14600"></ana>14600-</w>
 <w><ana lex="14600" gr="NUM,digit" parts="14600-рэ" gloss="STEM-ORD" trans_ru="14600"></ana>14600-рэ</w>
 <w><ana lex="146000" gr="NUM,digit" parts="146000" gloss="STEM" trans_ru="146000"></ana>146000-</w>
@@ -6505,8 +6505,8 @@
 <w><ana lex="1498" gr="NUM,digit" parts="1498-рэ" gloss="STEM-ORD" trans_ru="1498"></ana>1498-рэ</w>
 <w><ana lex="1499" gr="NUM,digit" parts="1499" gloss="STEM" trans_ru="1499"></ana>1499-</w>
 <w><ana lex="1499" gr="NUM,digit" parts="1499-рэ" gloss="STEM-ORD" trans_ru="1499"></ana>1499-рэ</w>
-<w><ana lex="15" gr="NUM,digit" parts="15-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="15"></ana>15-мкӏэ</w>
-<w><ana lex="150" gr="NUM,digit" parts="150-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="150"></ana>150-мкӏэ</w>
+<w><ana lex="15" gr="NUM,digit" parts="15-м-кIэ" gloss="STEM-OBL-INS" trans_ru="15"></ana>15-мкIэ</w>
+<w><ana lex="150" gr="NUM,digit" parts="150-м-кIэ" gloss="STEM-OBL-INS" trans_ru="150"></ana>150-мкIэ</w>
 <w><ana lex="15000" gr="NUM,digit" parts="15000-рэ" gloss="STEM-ORD" trans_ru="15000"></ana>15000-рэ</w>
 <w><ana lex="150000" gr="NUM,digit" parts="150000" gloss="STEM" trans_ru="150000"></ana>150000</w>
 <w><ana lex="1501" gr="NUM,digit" parts="1501" gloss="STEM" trans_ru="1501"></ana>1501</w>
@@ -6588,7 +6588,7 @@
 <w><ana lex="1541" gr="NUM,digit" parts="1541-рэ" gloss="STEM-ORD" trans_ru="1541"></ana>1541-рэ</w>
 <w><ana lex="15430" gr="NUM,digit" parts="15430" gloss="STEM" trans_ru="15430"></ana>15430</w>
 <w><ana lex="154367" gr="NUM,digit" parts="154367" gloss="STEM" trans_ru="154367"></ana>154367-</w>
-<w><ana lex="154367" gr="NUM,digit" parts="154367-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="154367"></ana>154367-мкӏэ</w>
+<w><ana lex="154367" gr="NUM,digit" parts="154367-м-кIэ" gloss="STEM-OBL-INS" trans_ru="154367"></ana>154367-мкIэ</w>
 <w><ana lex="1546" gr="NUM,digit" parts="1546" gloss="STEM" trans_ru="1546"></ana>1546-</w>
 <w><ana lex="1546" gr="NUM,digit" parts="1546-рэ" gloss="STEM-ORD" trans_ru="1546"></ana>1546-рэ</w>
 <w><ana lex="1547" gr="NUM,digit" parts="1547-р" gloss="STEM-ABS" trans_ru="1547"></ana>1547-р</w>
@@ -6613,7 +6613,7 @@
 <w><ana lex="15582" gr="NUM,digit" parts="15582-рэ" gloss="STEM-ORD" trans_ru="15582"></ana>15582-рэ</w>
 <w><ana lex="1559" gr="NUM,digit" parts="1559" gloss="STEM" trans_ru="1559"></ana>1559-</w>
 <w><ana lex="1559" gr="NUM,digit" parts="1559-рэ" gloss="STEM-ORD" trans_ru="1559"></ana>1559-рэ</w>
-<w><ana lex="156" gr="NUM,digit" parts="156-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="156"></ana>156-мкӏэ</w>
+<w><ana lex="156" gr="NUM,digit" parts="156-м-кIэ" gloss="STEM-OBL-INS" trans_ru="156"></ana>156-мкIэ</w>
 <w><ana lex="156000" gr="NUM,digit" parts="156000" gloss="STEM" trans_ru="156000"></ana>156000-</w>
 <w><ana lex="156000" gr="NUM,digit" parts="156000-рэ" gloss="STEM-ORD" trans_ru="156000"></ana>156000-рэ</w>
 <w><ana lex="156013" gr="NUM,digit" parts="156013" gloss="STEM" trans_ru="156013"></ana>156013</w>
@@ -6705,7 +6705,7 @@
 <w><ana lex="16189" gr="NUM,digit" parts="16189-рэ" gloss="STEM-ORD" trans_ru="16189"></ana>16189-рэ</w>
 <w><ana lex="1619" gr="NUM,digit" parts="1619" gloss="STEM" trans_ru="1619"></ana>1619-</w>
 <w><ana lex="1619" gr="NUM,digit" parts="1619-рэ" gloss="STEM-ORD" trans_ru="1619"></ana>1619-рэ</w>
-<w><ana lex="162" gr="NUM,digit" parts="162-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="162"></ana>162-мкӏэ</w>
+<w><ana lex="162" gr="NUM,digit" parts="162-м-кIэ" gloss="STEM-OBL-INS" trans_ru="162"></ana>162-мкIэ</w>
 <w><ana lex="1620" gr="NUM,digit" parts="1620-м" gloss="STEM-OBL" trans_ru="1620"></ana>1620-м</w>
 <w><ana lex="1621" gr="NUM,digit" parts="1621" gloss="STEM" trans_ru="1621"></ana>1621-</w>
 <w><ana lex="1621" gr="NUM,digit" parts="1621-рэ" gloss="STEM-ORD" trans_ru="1621"></ana>1621-рэ</w>
@@ -6767,7 +6767,7 @@
 <w><ana lex="16576" gr="NUM,digit" parts="16576-рэ" gloss="STEM-ORD" trans_ru="16576"></ana>16576-рэ</w>
 <w><ana lex="1659" gr="NUM,digit" parts="1659" gloss="STEM" trans_ru="1659"></ana>1659-</w>
 <w><ana lex="1659" gr="NUM,digit" parts="1659-рэ" gloss="STEM-ORD" trans_ru="1659"></ana>1659-рэ</w>
-<w><ana lex="166" gr="NUM,digit" parts="166-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="166"></ana>166-мкӏэ</w>
+<w><ana lex="166" gr="NUM,digit" parts="166-м-кIэ" gloss="STEM-OBL-INS" trans_ru="166"></ana>166-мкIэ</w>
 <w><ana lex="1660" gr="NUM,digit" parts="1660" gloss="STEM" trans_ru="1660"></ana>1660-</w>
 <w><ana lex="1660" gr="NUM,digit" parts="1660-м" gloss="STEM-OBL" trans_ru="1660"></ana>1660-м</w>
 <w><ana lex="16644" gr="NUM,digit" parts="16644" gloss="STEM" trans_ru="16644"></ana>16644-</w>
@@ -6828,7 +6828,7 @@
 <w><ana lex="1698" gr="NUM,digit" parts="1698" gloss="STEM" trans_ru="1698"></ana>1698</w>
 <w><ana lex="1698" gr="NUM,digit" parts="1698-м" gloss="STEM-OBL" trans_ru="1698"></ana>1698-м</w>
 <w><ana lex="16999" gr="NUM,digit" parts="16999" gloss="STEM" trans_ru="16999"></ana>16999-</w>
-<w><ana lex="170" gr="NUM,digit" parts="170-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="170"></ana>170-мкӏэ</w>
+<w><ana lex="170" gr="NUM,digit" parts="170-м-кIэ" gloss="STEM-OBL-INS" trans_ru="170"></ana>170-мкIэ</w>
 <w><ana lex="1700" gr="NUM,digit" parts="1700-р" gloss="STEM-ABS" trans_ru="1700"></ana>1700-р</w>
 <w><ana lex="17009" gr="NUM,digit" parts="17009" gloss="STEM" trans_ru="17009"></ana>17009-</w>
 <w><ana lex="17009" gr="NUM,digit" parts="17009-рэ" gloss="STEM-ORD" trans_ru="17009"></ana>17009-рэ</w>
@@ -6918,7 +6918,7 @@
 <w><ana lex="17487" gr="NUM,digit" parts="17487-рэ" gloss="STEM-ORD" trans_ru="17487"></ana>17487-рэ</w>
 <w><ana lex="174927" gr="NUM,digit" parts="174927" gloss="STEM" trans_ru="174927"></ana>174927-</w>
 <w><ana lex="174927" gr="NUM,digit" parts="174927-рэ" gloss="STEM-ORD" trans_ru="174927"></ana>174927-рэ</w>
-<w><ana lex="175" gr="NUM,digit" parts="175-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="175"></ana>175-мкӏэ</w>
+<w><ana lex="175" gr="NUM,digit" parts="175-м-кIэ" gloss="STEM-OBL-INS" trans_ru="175"></ana>175-мкIэ</w>
 <w><ana lex="1750" gr="NUM,digit" parts="1750-р" gloss="STEM-ABS" trans_ru="1750"></ana>1750-р</w>
 <w><ana lex="1751" gr="NUM,digit" parts="1751" gloss="STEM" trans_ru="1751"></ana>1751</w>
 <w><ana lex="1752" gr="NUM,digit" parts="1752" gloss="STEM" trans_ru="1752"></ana>1752</w>
@@ -6985,7 +6985,7 @@
 <w><ana lex="1797" gr="NUM,digit" parts="1797-рэ" gloss="STEM-ORD" trans_ru="1797"></ana>1797-рэ</w>
 <w><ana lex="17986" gr="NUM,digit" parts="17986" gloss="STEM" trans_ru="17986"></ana>17986-</w>
 <w><ana lex="17986" gr="NUM,digit" parts="17986-рэ" gloss="STEM-ORD" trans_ru="17986"></ana>17986-рэ</w>
-<w><ana lex="18" gr="NUM,digit" parts="18-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="18"></ana>18-мкӏэ</w>
+<w><ana lex="18" gr="NUM,digit" parts="18-м-кIэ" gloss="STEM-OBL-INS" trans_ru="18"></ana>18-мкIэ</w>
 <w><ana lex="180000" gr="NUM,digit" parts="180000" gloss="STEM" trans_ru="180000"></ana>180000-</w>
 <w><ana lex="180000" gr="NUM,digit" parts="180000-рэ" gloss="STEM-ORD" trans_ru="180000"></ana>180000-рэ</w>
 <w><ana lex="1801" gr="NUM,digit" parts="1801" gloss="STEM" trans_ru="1801"></ana>1801-</w>
@@ -7223,15 +7223,15 @@
 <w><ana lex="2011" gr="NUM,digit" parts="2011-рэ" gloss="STEM-ORD" trans_ru="2011"></ana>2011рэ</w>
 <w><ana lex="20126147" gr="NUM,digit" parts="20126147" gloss="STEM" trans_ru="20126147"></ana>20126147-</w>
 <w><ana lex="20126147" gr="NUM,digit" parts="20126147-рэ" gloss="STEM-ORD" trans_ru="20126147"></ana>20126147-рэ</w>
-<w><ana lex="2015" gr="NUM,digit" parts="2015-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="2015"></ana>2015-мкӏэ</w>
+<w><ana lex="2015" gr="NUM,digit" parts="2015-м-кIэ" gloss="STEM-OBL-INS" trans_ru="2015"></ana>2015-мкIэ</w>
 <w><ana lex="20155" gr="NUM,digit" parts="20155" gloss="STEM" trans_ru="20155"></ana>20155-</w>
 <w><ana lex="20174" gr="NUM,digit" parts="20174" gloss="STEM" trans_ru="20174"></ana>20174</w>
 <w><ana lex="2018" gr="NUM,digit" parts="2018-р" gloss="STEM-ABS" trans_ru="2018"></ana>2018-р</w>
 <w><ana lex="201898" gr="NUM,digit" parts="201898" gloss="STEM" trans_ru="201898"></ana>201898-</w>
 <w><ana lex="201898" gr="NUM,digit" parts="201898-м" gloss="STEM-OBL" trans_ru="201898"></ana>201898-м</w>
 <w><ana lex="20197" gr="NUM,digit" parts="20197" gloss="STEM" trans_ru="20197"></ana>20197-</w>
-<w><ana lex="202" gr="NUM,digit" parts="202-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="202"></ana>202-мкӏэ</w>
-<w><ana lex="2020" gr="NUM,digit" parts="2020-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="2020"></ana>2020-мкӏэ</w>
+<w><ana lex="202" gr="NUM,digit" parts="202-м-кIэ" gloss="STEM-OBL-INS" trans_ru="202"></ana>202-мкIэ</w>
+<w><ana lex="2020" gr="NUM,digit" parts="2020-м-кIэ" gloss="STEM-OBL-INS" trans_ru="2020"></ana>2020-мкIэ</w>
 <w><ana lex="20240" gr="NUM,digit" parts="20240" gloss="STEM" trans_ru="20240"></ana>20240-</w>
 <w><ana lex="20240" gr="NUM,digit" parts="20240-м" gloss="STEM-OBL" trans_ru="20240"></ana>20240-м</w>
 <w><ana lex="2025" gr="NUM,digit" parts="2025-м" gloss="STEM-OBL" trans_ru="2025"></ana>2025-м</w>
@@ -7285,7 +7285,7 @@
 <w><ana lex="20705" gr="NUM,digit" parts="20705" gloss="STEM" trans_ru="20705"></ana>20705-</w>
 <w><ana lex="20705" gr="NUM,digit" parts="20705-рэ" gloss="STEM-ORD" trans_ru="20705"></ana>20705-рэ</w>
 <w><ana lex="2071" gr="NUM,digit" parts="2071" gloss="STEM" trans_ru="2071"></ana>2071-</w>
-<w><ana lex="2071" gr="NUM,digit" parts="2071-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="2071"></ana>2071-мкӏэ</w>
+<w><ana lex="2071" gr="NUM,digit" parts="2071-м-кIэ" gloss="STEM-OBL-INS" trans_ru="2071"></ana>2071-мкIэ</w>
 <w><ana lex="2072" gr="NUM,digit" parts="2072" gloss="STEM" trans_ru="2072"></ana>2072-</w>
 <w><ana lex="20725" gr="NUM,digit" parts="20725" gloss="STEM" trans_ru="20725"></ana>20725</w>
 <w><ana lex="20731" gr="NUM,digit" parts="20731" gloss="STEM" trans_ru="20731"></ana>20731-</w>
@@ -7332,7 +7332,7 @@
 <w><ana lex="21054" gr="NUM,digit" parts="21054" gloss="STEM" trans_ru="21054"></ana>21054-</w>
 <w><ana lex="2106" gr="NUM,digit" parts="2106-м" gloss="STEM-OBL" trans_ru="2106"></ana>2106-м</w>
 <w><ana lex="2107" gr="NUM,digit" parts="2107-м" gloss="STEM-OBL" trans_ru="2107"></ana>2107-м</w>
-<w><ana lex="2107" gr="NUM,digit" parts="2107-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="2107"></ana>2107-мкӏэ</w>
+<w><ana lex="2107" gr="NUM,digit" parts="2107-м-кIэ" gloss="STEM-OBL-INS" trans_ru="2107"></ana>2107-мкIэ</w>
 <w><ana lex="2107" gr="NUM,digit" parts="2107-рэ" gloss="STEM-ORD" trans_ru="2107"></ana>2107-рэ</w>
 <w><ana lex="21074" gr="NUM,digit" parts="21074-рэ" gloss="STEM-ORD" trans_ru="21074"></ana>21074-рэ</w>
 <w><ana lex="2108" gr="NUM,digit" parts="2108" gloss="STEM" trans_ru="2108"></ana>2108-</w>
@@ -7535,7 +7535,7 @@
 <w><ana lex="2277" gr="NUM,digit" parts="2277" gloss="STEM" trans_ru="2277"></ana>2277-</w>
 <w><ana lex="2277" gr="NUM,digit" parts="2277-рэ" gloss="STEM-ORD" trans_ru="2277"></ana>2277-рэ</w>
 <w><ana lex="228" gr="NUM,digit" parts="228-м" gloss="STEM-OBL" trans_ru="228"></ana>228-м</w>
-<w><ana lex="228" gr="NUM,digit" parts="228-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="228"></ana>228-мкӏэ</w>
+<w><ana lex="228" gr="NUM,digit" parts="228-м-кIэ" gloss="STEM-OBL-INS" trans_ru="228"></ana>228-мкIэ</w>
 <w><ana lex="2280" gr="NUM,digit" parts="2280" gloss="STEM" trans_ru="2280"></ana>2280-</w>
 <w><ana lex="2280" gr="NUM,digit" parts="2280-рэ" gloss="STEM-ORD" trans_ru="2280"></ana>2280-рэ</w>
 <w><ana lex="2281" gr="NUM,digit" parts="2281" gloss="STEM" trans_ru="2281"></ana>2281-</w>
@@ -7668,7 +7668,7 @@
 <w><ana lex="2378" gr="NUM,digit" parts="2378-рэ" gloss="STEM-ORD" trans_ru="2378"></ana>2378-рэ</w>
 <w><ana lex="237876" gr="NUM,digit" parts="237876" gloss="STEM" trans_ru="237876"></ana>237876-</w>
 <w><ana lex="237876" gr="NUM,digit" parts="237876-рэ" gloss="STEM-ORD" trans_ru="237876"></ana>237876-рэ</w>
-<w><ana lex="238" gr="NUM,digit" parts="238-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="238"></ana>238-мкӏэ</w>
+<w><ana lex="238" gr="NUM,digit" parts="238-м-кIэ" gloss="STEM-OBL-INS" trans_ru="238"></ana>238-мкIэ</w>
 <w><ana lex="23800" gr="NUM,digit" parts="23800" gloss="STEM" trans_ru="23800"></ana>23800</w>
 <w><ana lex="23800" gr="NUM,digit" parts="23800" gloss="STEM" trans_ru="23800"></ana>23800-</w>
 <w><ana lex="23800" gr="NUM,digit" parts="23800-м" gloss="STEM-OBL" trans_ru="23800"></ana>23800-м</w>
@@ -7801,7 +7801,7 @@
 <w><ana lex="2495" gr="NUM,digit" parts="2495" gloss="STEM" trans_ru="2495"></ana>2495</w>
 <w><ana lex="2496" gr="NUM,digit" parts="2496" gloss="STEM" trans_ru="2496"></ana>2496-</w>
 <w><ana lex="24987" gr="NUM,digit" parts="24987-рэ" gloss="STEM-ORD" trans_ru="24987"></ana>24987-рэ</w>
-<w><ana lex="250" gr="NUM,digit" parts="250-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="250"></ana>250-мкӏэ</w>
+<w><ana lex="250" gr="NUM,digit" parts="250-м-кIэ" gloss="STEM-OBL-INS" trans_ru="250"></ana>250-мкIэ</w>
 <w><ana lex="250000" gr="NUM,digit" parts="250000" gloss="STEM" trans_ru="250000"></ana>250000-</w>
 <w><ana lex="2501" gr="NUM,digit" parts="2501" gloss="STEM" trans_ru="2501"></ana>2501-</w>
 <w><ana lex="2501" gr="NUM,digit" parts="2501-рэ" gloss="STEM-ORD" trans_ru="2501"></ana>2501-рэ</w>
@@ -8103,7 +8103,7 @@
 <w><ana lex="2795" gr="NUM,digit" parts="2795-рэ" gloss="STEM-ORD" trans_ru="2795"></ana>2795-рэ</w>
 <w><ana lex="2796" gr="NUM,digit" parts="2796-м" gloss="STEM-OBL" trans_ru="2796"></ana>2796-м</w>
 <w><ana lex="2796" gr="NUM,digit" parts="2796-рэ" gloss="STEM-ORD" trans_ru="2796"></ana>2796-рэ</w>
-<w><ana lex="28" gr="NUM,digit" parts="28-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="28"></ana>28-мкӏэ</w>
+<w><ana lex="28" gr="NUM,digit" parts="28-м-кIэ" gloss="STEM-OBL-INS" trans_ru="28"></ana>28-мкIэ</w>
 <w><ana lex="280101001" gr="NUM,digit" parts="280101001" gloss="STEM" trans_ru="280101001"></ana>280101001</w>
 <w><ana lex="28011236618" gr="NUM,digit" parts="28011236618" gloss="STEM" trans_ru="28011236618"></ana>28011236618</w>
 <w><ana lex="28068" gr="NUM,digit" parts="28068" gloss="STEM" trans_ru="28068"></ana>28068-</w>
@@ -8419,7 +8419,7 @@
 <w><ana lex="3153" gr="NUM,digit" parts="3153-м" gloss="STEM-OBL" trans_ru="3153"></ana>3153-м</w>
 <w><ana lex="3153" gr="NUM,digit" parts="3153-рэ" gloss="STEM-ORD" trans_ru="3153"></ana>3153-рэ</w>
 <w><ana lex="316" gr="NUM,digit" parts="316" gloss="STEM" trans_ru="316"></ana>316</w>
-<w><ana lex="316" gr="NUM,digit" parts="316-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="316"></ana>316-мкӏэ</w>
+<w><ana lex="316" gr="NUM,digit" parts="316-м-кIэ" gloss="STEM-OBL-INS" trans_ru="316"></ana>316-мкIэ</w>
 <w><ana lex="3160" gr="NUM,digit" parts="3160" gloss="STEM" trans_ru="3160"></ana>3160-</w>
 <w><ana lex="3160" gr="NUM,digit" parts="3160-рэ" gloss="STEM-ORD" trans_ru="3160"></ana>3160-рэ</w>
 <w><ana lex="3166" gr="NUM,digit" parts="3166" gloss="STEM" trans_ru="3166"></ana>3166-</w>
@@ -8446,7 +8446,7 @@
 <w><ana lex="3195" gr="NUM,digit" parts="3195-м" gloss="STEM-OBL" trans_ru="3195"></ana>3195-м</w>
 <w><ana lex="3196" gr="NUM,digit" parts="3196" gloss="STEM" trans_ru="3196"></ana>3196-</w>
 <w><ana lex="3196" gr="NUM,digit" parts="3196-рэ" gloss="STEM-ORD" trans_ru="3196"></ana>3196-рэ</w>
-<w><ana lex="320" gr="NUM,digit" parts="320-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="320"></ana>320-мкӏэ</w>
+<w><ana lex="320" gr="NUM,digit" parts="320-м-кIэ" gloss="STEM-OBL-INS" trans_ru="320"></ana>320-мкIэ</w>
 <w><ana lex="3200" gr="NUM,digit" parts="3200" gloss="STEM" trans_ru="3200"></ana>3200</w>
 <w><ana lex="320000" gr="NUM,digit" parts="320000" gloss="STEM" trans_ru="320000"></ana>320000</w>
 <w><ana lex="3201" gr="NUM,digit" parts="3201-м" gloss="STEM-OBL" trans_ru="3201"></ana>3201-м</w>
@@ -8538,7 +8538,7 @@
 <w><ana lex="3298" gr="NUM,digit" parts="3298-рэ" gloss="STEM-ORD" trans_ru="3298"></ana>3298-рэ</w>
 <w><ana lex="3299" gr="NUM,digit" parts="3299" gloss="STEM" trans_ru="3299"></ana>3299-</w>
 <w><ana lex="3299" gr="NUM,digit" parts="3299-рэ" gloss="STEM-ORD" trans_ru="3299"></ana>3299-рэ</w>
-<w><ana lex="33" gr="NUM,digit" parts="33-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="33"></ana>33-мкӏэ</w>
+<w><ana lex="33" gr="NUM,digit" parts="33-м-кIэ" gloss="STEM-OBL-INS" trans_ru="33"></ana>33-мкIэ</w>
 <w><ana lex="330" gr="NUM,digit" parts="330" gloss="STEM" trans_ru="330"></ana>330</w>
 <w><ana lex="330" gr="NUM,digit" parts="330-р" gloss="STEM-ABS" trans_ru="330"></ana>330-р</w>
 <w><ana lex="3300" gr="NUM,digit" parts="3300-м" gloss="STEM-OBL" trans_ru="3300"></ana>3300-м</w>
@@ -8633,7 +8633,7 @@
 <w><ana lex="3398" gr="NUM,digit" parts="3398" gloss="STEM" trans_ru="3398"></ana>3398-</w>
 <w><ana lex="3398" gr="NUM,digit" parts="3398-рэ" gloss="STEM-ORD" trans_ru="3398"></ana>3398-рэ</w>
 <w><ana lex="33991" gr="NUM,digit" parts="33991" gloss="STEM" trans_ru="33991"></ana>33991-</w>
-<w><ana lex="34" gr="NUM,digit" parts="34-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="34"></ana>34-мкӏэ</w>
+<w><ana lex="34" gr="NUM,digit" parts="34-м-кIэ" gloss="STEM-OBL-INS" trans_ru="34"></ana>34-мкIэ</w>
 <w><ana lex="340" gr="NUM,digit" parts="340" gloss="STEM" trans_ru="340"></ana>340</w>
 <w><ana lex="340" gr="NUM,digit" parts="340-р" gloss="STEM-ABS" trans_ru="340"></ana>340-р</w>
 <w><ana lex="3400" gr="NUM,digit" parts="3400-м" gloss="STEM-OBL" trans_ru="3400"></ana>3400-м</w>
@@ -8691,7 +8691,7 @@
 <w><ana lex="34940" gr="NUM,digit" parts="34940-рэ" gloss="STEM-ORD" trans_ru="34940"></ana>34940-рэ</w>
 <w><ana lex="34950" gr="NUM,digit" parts="34950" gloss="STEM" trans_ru="34950"></ana>34950-</w>
 <w><ana lex="34950" gr="NUM,digit" parts="34950-м" gloss="STEM-OBL" trans_ru="34950"></ana>34950-м</w>
-<w><ana lex="35" gr="NUM,digit" parts="35-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="35"></ana>35-мкӏэ</w>
+<w><ana lex="35" gr="NUM,digit" parts="35-м-кIэ" gloss="STEM-OBL-INS" trans_ru="35"></ana>35-мкIэ</w>
 <w><ana lex="3500" gr="NUM,digit" parts="3500" gloss="STEM" trans_ru="3500"></ana>3500</w>
 <w><ana lex="350000" gr="NUM,digit" parts="350000" gloss="STEM" trans_ru="350000"></ana>350000</w>
 <w><ana lex="350000" gr="NUM,digit" parts="350000" gloss="STEM" trans_ru="350000"></ana>350000-</w>
@@ -8742,7 +8742,7 @@
 <w><ana lex="3549" gr="NUM,digit" parts="3549" gloss="STEM" trans_ru="3549"></ana>3549-</w>
 <w><ana lex="3549" gr="NUM,digit" parts="3549-рэ" gloss="STEM-ORD" trans_ru="3549"></ana>3549-рэ</w>
 <w><ana lex="355" gr="NUM,digit" parts="355-м" gloss="STEM-OBL" trans_ru="355"></ana>355-м</w>
-<w><ana lex="355" gr="NUM,digit" parts="355-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="355"></ana>355-мкӏэ</w>
+<w><ana lex="355" gr="NUM,digit" parts="355-м-кIэ" gloss="STEM-OBL-INS" trans_ru="355"></ana>355-мкIэ</w>
 <w><ana lex="355" gr="NUM,digit" parts="355-р" gloss="STEM-ABS" trans_ru="355"></ana>355-р</w>
 <w><ana lex="3550" gr="NUM,digit" parts="3550" gloss="STEM" trans_ru="3550"></ana>3550-</w>
 <w><ana lex="3550" gr="NUM,digit" parts="3550-рэ" gloss="STEM-ORD" trans_ru="3550"></ana>3550-рэ</w>
@@ -8857,7 +8857,7 @@
 <w><ana lex="36942" gr="NUM,digit" parts="36942-рэ" gloss="STEM-ORD" trans_ru="36942"></ana>36942-рэ</w>
 <w><ana lex="3699" gr="NUM,digit" parts="3699-м" gloss="STEM-OBL" trans_ru="3699"></ana>3699-м</w>
 <w><ana lex="3699" gr="NUM,digit" parts="3699-рэ" gloss="STEM-ORD" trans_ru="3699"></ana>3699-рэ</w>
-<w><ana lex="37" gr="NUM,digit" parts="37-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="37"></ana>37-мкӏэ</w>
+<w><ana lex="37" gr="NUM,digit" parts="37-м-кIэ" gloss="STEM-OBL-INS" trans_ru="37"></ana>37-мкIэ</w>
 <w><ana lex="370" gr="NUM,digit" parts="370-р" gloss="STEM-ABS" trans_ru="370"></ana>370-р</w>
 <w><ana lex="3700" gr="NUM,digit" parts="3700" gloss="STEM" trans_ru="3700"></ana>3700</w>
 <w><ana lex="37010" gr="NUM,digit" parts="37010" gloss="STEM" trans_ru="37010"></ana>37010-</w>
@@ -8921,7 +8921,7 @@
 <w><ana lex="3794" gr="NUM,digit" parts="3794-рэ" gloss="STEM-ORD" trans_ru="3794"></ana>3794-рэ</w>
 <w><ana lex="3795" gr="NUM,digit" parts="3795" gloss="STEM" trans_ru="3795"></ana>3795-</w>
 <w><ana lex="3795" gr="NUM,digit" parts="3795-рэ" gloss="STEM-ORD" trans_ru="3795"></ana>3795-рэ</w>
-<w><ana lex="38" gr="NUM,digit" parts="38-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="38"></ana>38-мкӏэ</w>
+<w><ana lex="38" gr="NUM,digit" parts="38-м-кIэ" gloss="STEM-OBL-INS" trans_ru="38"></ana>38-мкIэ</w>
 <w><ana lex="3800" gr="NUM,digit" parts="3800-м" gloss="STEM-OBL" trans_ru="3800"></ana>3800-м</w>
 <w><ana lex="3803" gr="NUM,digit" parts="3803-рэ" gloss="STEM-ORD" trans_ru="3803"></ana>3803-рэ</w>
 <w><ana lex="3806" gr="NUM,digit" parts="3806" gloss="STEM" trans_ru="3806"></ana>3806-</w>
@@ -9021,7 +9021,7 @@
 <w><ana lex="3990" gr="NUM,digit" parts="3990-м" gloss="STEM-OBL" trans_ru="3990"></ana>3990-м</w>
 <w><ana lex="3992" gr="NUM,digit" parts="3992" gloss="STEM" trans_ru="3992"></ana>3992-</w>
 <w><ana lex="3992" gr="NUM,digit" parts="3992-рэ" gloss="STEM-ORD" trans_ru="3992"></ana>3992-рэ</w>
-<w><ana lex="40" gr="NUM,digit" parts="40-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="40"></ana>40-мкӏэ</w>
+<w><ana lex="40" gr="NUM,digit" parts="40-м-кIэ" gloss="STEM-OBL-INS" trans_ru="40"></ana>40-мкIэ</w>
 <w><ana lex="4000" gr="NUM,digit" parts="4000-р" gloss="STEM-ABS" trans_ru="4000"></ana>4000-р</w>
 <w><ana lex="400000" gr="NUM,digit" parts="400000" gloss="STEM" trans_ru="400000"></ana>400000</w>
 <w><ana lex="400000" gr="NUM,digit" parts="400000" gloss="STEM" trans_ru="400000"></ana>400000-</w>
@@ -9151,7 +9151,7 @@
 <w><ana lex="4189" gr="NUM,digit" parts="4189" gloss="STEM" trans_ru="4189"></ana>4189-</w>
 <w><ana lex="4189" gr="NUM,digit" parts="4189-рэ" gloss="STEM-ORD" trans_ru="4189"></ana>4189-рэ</w>
 <w><ana lex="419" gr="NUM,digit" parts="419" gloss="STEM" trans_ru="419"></ana>419</w>
-<w><ana lex="42" gr="NUM,digit" parts="42-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="42"></ana>42-мкӏэ</w>
+<w><ana lex="42" gr="NUM,digit" parts="42-м-кIэ" gloss="STEM-OBL-INS" trans_ru="42"></ana>42-мкIэ</w>
 <w><ana lex="420" gr="NUM,digit" parts="420" gloss="STEM" trans_ru="420"></ana>420</w>
 <w><ana lex="4200" gr="NUM,digit" parts="4200" gloss="STEM" trans_ru="4200"></ana>4200</w>
 <w><ana lex="4200" gr="NUM,digit" parts="4200-м" gloss="STEM-OBL" trans_ru="4200"></ana>4200-м</w>
@@ -9416,7 +9416,7 @@
 <w><ana lex="4559" gr="NUM,digit" parts="4559" gloss="STEM" trans_ru="4559"></ana>4559-</w>
 <w><ana lex="4559" gr="NUM,digit" parts="4559-рэ" gloss="STEM-ORD" trans_ru="4559"></ana>4559-рэ</w>
 <w><ana lex="456" gr="NUM,digit" parts="456" gloss="STEM" trans_ru="456"></ana>456</w>
-<w><ana lex="456" gr="NUM,digit" parts="456-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="456"></ana>456-мкӏэ</w>
+<w><ana lex="456" gr="NUM,digit" parts="456-м-кIэ" gloss="STEM-OBL-INS" trans_ru="456"></ana>456-мкIэ</w>
 <w><ana lex="4562" gr="NUM,digit" parts="4562" gloss="STEM" trans_ru="4562"></ana>4562-</w>
 <w><ana lex="4562" gr="NUM,digit" parts="4562-рэ" gloss="STEM-ORD" trans_ru="4562"></ana>4562-рэ</w>
 <w><ana lex="4566" gr="NUM,digit" parts="4566" gloss="STEM" trans_ru="4566"></ana>4566-</w>
@@ -9514,7 +9514,7 @@
 <w><ana lex="4795" gr="NUM,digit" parts="4795" gloss="STEM" trans_ru="4795"></ana>4795</w>
 <w><ana lex="4795" gr="NUM,digit" parts="4795" gloss="STEM" trans_ru="4795"></ana>4795-</w>
 <w><ana lex="4795" gr="NUM,digit" parts="4795-м" gloss="STEM-OBL" trans_ru="4795"></ana>4795-м</w>
-<w><ana lex="48" gr="NUM,digit" parts="48-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="48"></ana>48-мкӏэ</w>
+<w><ana lex="48" gr="NUM,digit" parts="48-м-кIэ" gloss="STEM-OBL-INS" trans_ru="48"></ana>48-мкIэ</w>
 <w><ana lex="48000" gr="NUM,digit" parts="48000-м" gloss="STEM-OBL" trans_ru="48000"></ana>48000-м</w>
 <w><ana lex="48000" gr="NUM,digit" parts="48000-р" gloss="STEM-ABS" trans_ru="48000"></ana>48000-р</w>
 <w><ana lex="4804" gr="NUM,digit" parts="4804-м" gloss="STEM-OBL" trans_ru="4804"></ana>4804-м</w>
@@ -9605,7 +9605,7 @@
 <w><ana lex="4991" gr="NUM,digit" parts="4991-рэ" gloss="STEM-ORD" trans_ru="4991"></ana>4991-рэ</w>
 <w><ana lex="499800" gr="NUM,digit" parts="499800" gloss="STEM" trans_ru="499800"></ana>499800-</w>
 <w><ana lex="499800" gr="NUM,digit" parts="499800-рэ" gloss="STEM-ORD" trans_ru="499800"></ana>499800-рэ</w>
-<w><ana lex="50" gr="NUM,digit" parts="50-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="50"></ana>50-мкӏэ</w>
+<w><ana lex="50" gr="NUM,digit" parts="50-м-кIэ" gloss="STEM-OBL-INS" trans_ru="50"></ana>50-мкIэ</w>
 <w><ana lex="5000" gr="NUM,digit" parts="5000-рэ" gloss="STEM-ORD" trans_ru="5000"></ana>5000-рэ</w>
 <w><ana lex="500000" gr="NUM,digit" parts="500000" gloss="STEM" trans_ru="500000"></ana>500000</w>
 <w><ana lex="500000" gr="NUM,digit" parts="500000" gloss="STEM" trans_ru="500000"></ana>500000-</w>
@@ -9698,7 +9698,7 @@
 <w><ana lex="5182" gr="NUM,digit" parts="5182-рэ" gloss="STEM-ORD" trans_ru="5182"></ana>5182-рэ</w>
 <w><ana lex="5195" gr="NUM,digit" parts="5195" gloss="STEM" trans_ru="5195"></ana>5195-</w>
 <w><ana lex="5195" gr="NUM,digit" parts="5195-рэ" gloss="STEM-ORD" trans_ru="5195"></ana>5195-рэ</w>
-<w><ana lex="52" gr="NUM,digit" parts="52-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="52"></ana>52-мкӏэ</w>
+<w><ana lex="52" gr="NUM,digit" parts="52-м-кIэ" gloss="STEM-OBL-INS" trans_ru="52"></ana>52-мкIэ</w>
 <w><ana lex="5205" gr="NUM,digit" parts="5205-м" gloss="STEM-OBL" trans_ru="5205"></ana>5205-м</w>
 <w><ana lex="5205" gr="NUM,digit" parts="5205-рэ" gloss="STEM-ORD" trans_ru="5205"></ana>5205-рэ</w>
 <w><ana lex="5207" gr="NUM,digit" parts="5207" gloss="STEM" trans_ru="5207"></ana>5207-</w>
@@ -9861,7 +9861,7 @@
 <w><ana lex="5494" gr="NUM,digit" parts="5494" gloss="STEM" trans_ru="5494"></ana>5494</w>
 <w><ana lex="5499" gr="NUM,digit" parts="5499" gloss="STEM" trans_ru="5499"></ana>5499-</w>
 <w><ana lex="5499" gr="NUM,digit" parts="5499-рэ" gloss="STEM-ORD" trans_ru="5499"></ana>5499-рэ</w>
-<w><ana lex="55" gr="NUM,digit" parts="55-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="55"></ana>55-мкӏэ</w>
+<w><ana lex="55" gr="NUM,digit" parts="55-м-кIэ" gloss="STEM-OBL-INS" trans_ru="55"></ana>55-мкIэ</w>
 <w><ana lex="550" gr="NUM,digit" parts="550-р" gloss="STEM-ABS" trans_ru="550"></ana>550-р</w>
 <w><ana lex="5500" gr="NUM,digit" parts="5500-р" gloss="STEM-ABS" trans_ru="5500"></ana>5500-р</w>
 <w><ana lex="55059" gr="NUM,digit" parts="55059" gloss="STEM" trans_ru="55059"></ana>55059-</w>
@@ -9952,7 +9952,7 @@
 <w><ana lex="569" gr="NUM,digit" parts="569-м" gloss="STEM-OBL" trans_ru="569"></ana>569-м</w>
 <w><ana lex="5694" gr="NUM,digit" parts="5694" gloss="STEM" trans_ru="5694"></ana>5694-</w>
 <w><ana lex="5694" gr="NUM,digit" parts="5694-рэ" gloss="STEM-ORD" trans_ru="5694"></ana>5694-рэ</w>
-<w><ana lex="57" gr="NUM,digit" parts="57-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="57"></ana>57-мкӏэ</w>
+<w><ana lex="57" gr="NUM,digit" parts="57-м-кIэ" gloss="STEM-OBL-INS" trans_ru="57"></ana>57-мкIэ</w>
 <w><ana lex="570" gr="NUM,digit" parts="570" gloss="STEM" trans_ru="570"></ana>570</w>
 <w><ana lex="570" gr="NUM,digit" parts="570-р" gloss="STEM-ABS" trans_ru="570"></ana>570-р</w>
 <w><ana lex="5716" gr="NUM,digit" parts="5716" gloss="STEM" trans_ru="5716"></ana>5716-</w>
@@ -10090,8 +10090,8 @@
 <w><ana lex="5992" gr="NUM,digit" parts="5992-рэ" gloss="STEM-ORD" trans_ru="5992"></ana>5992-рэ</w>
 <w><ana lex="5995" gr="NUM,digit" parts="5995" gloss="STEM" trans_ru="5995"></ana>5995-</w>
 <w><ana lex="5995" gr="NUM,digit" parts="5995-рэ" gloss="STEM-ORD" trans_ru="5995"></ana>5995-рэ</w>
-<w><ana lex="60" gr="NUM,digit" parts="60-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="60"></ana>60-мкӏэ</w>
-<w><ana lex="600" gr="NUM,digit" parts="600-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="600"></ana>600-мкӏэ</w>
+<w><ana lex="60" gr="NUM,digit" parts="60-м-кIэ" gloss="STEM-OBL-INS" trans_ru="60"></ana>60-мкIэ</w>
+<w><ana lex="600" gr="NUM,digit" parts="600-м-кIэ" gloss="STEM-OBL-INS" trans_ru="600"></ana>600-мкIэ</w>
 <w><ana lex="60000" gr="NUM,digit" parts="60000" gloss="STEM" trans_ru="60000"></ana>60000</w>
 <w><ana lex="6006" gr="NUM,digit" parts="6006" gloss="STEM" trans_ru="6006"></ana>6006-</w>
 <w><ana lex="6006" gr="NUM,digit" parts="6006-рэ" gloss="STEM-ORD" trans_ru="6006"></ana>6006-рэ</w>
@@ -10174,7 +10174,7 @@
 <w><ana lex="619" gr="NUM,digit" parts="619-рэ" gloss="STEM-ORD" trans_ru="619"></ana>619-рэ</w>
 <w><ana lex="61995" gr="NUM,digit" parts="61995" gloss="STEM" trans_ru="61995"></ana>61995-</w>
 <w><ana lex="61995" gr="NUM,digit" parts="61995-рэ" gloss="STEM-ORD" trans_ru="61995"></ana>61995-рэ</w>
-<w><ana lex="62" gr="NUM,digit" parts="62-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="62"></ana>62-мкӏэ</w>
+<w><ana lex="62" gr="NUM,digit" parts="62-м-кIэ" gloss="STEM-OBL-INS" trans_ru="62"></ana>62-мкIэ</w>
 <w><ana lex="620" gr="NUM,digit" parts="620" gloss="STEM" trans_ru="620"></ana>620</w>
 <w><ana lex="620" gr="NUM,digit" parts="620-р" gloss="STEM-ABS" trans_ru="620"></ana>620-р</w>
 <w><ana lex="6200" gr="NUM,digit" parts="6200-м" gloss="STEM-OBL" trans_ru="6200"></ana>6200-м</w>
@@ -10254,7 +10254,7 @@
 <w><ana lex="6350" gr="NUM,digit" parts="6350-рэ" gloss="STEM-ORD" trans_ru="6350"></ana>6350-рэ</w>
 <w><ana lex="6371" gr="NUM,digit" parts="6371" gloss="STEM" trans_ru="6371"></ana>6371-</w>
 <w><ana lex="63728" gr="NUM,digit" parts="63728" gloss="STEM" trans_ru="63728"></ana>63728-</w>
-<w><ana lex="63728" gr="NUM,digit" parts="63728-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="63728"></ana>63728-мкӏэ</w>
+<w><ana lex="63728" gr="NUM,digit" parts="63728-м-кIэ" gloss="STEM-OBL-INS" trans_ru="63728"></ana>63728-мкIэ</w>
 <w><ana lex="6378" gr="NUM,digit" parts="6378" gloss="STEM" trans_ru="6378"></ana>6378-</w>
 <w><ana lex="6378" gr="NUM,digit" parts="6378-рэ" gloss="STEM-ORD" trans_ru="6378"></ana>6378-рэ</w>
 <w><ana lex="638" gr="NUM,digit" parts="638-м" gloss="STEM-OBL" trans_ru="638"></ana>638-м</w>
@@ -10384,7 +10384,7 @@
 <w><ana lex="67814" gr="NUM,digit" parts="67814" gloss="STEM" trans_ru="67814"></ana>67814</w>
 <w><ana lex="6785" gr="NUM,digit" parts="6785-м" gloss="STEM-OBL" trans_ru="6785"></ana>6785-м</w>
 <w><ana lex="67891" gr="NUM,digit" parts="67891" gloss="STEM" trans_ru="67891"></ana>67891-</w>
-<w><ana lex="67891" gr="NUM,digit" parts="67891-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="67891"></ana>67891-мкӏэ</w>
+<w><ana lex="67891" gr="NUM,digit" parts="67891-м-кIэ" gloss="STEM-OBL-INS" trans_ru="67891"></ana>67891-мкIэ</w>
 <w><ana lex="679" gr="NUM,digit" parts="679-рэ" gloss="STEM-ORD" trans_ru="679"></ana>679-рэ</w>
 <w><ana lex="680" gr="NUM,digit" parts="680" gloss="STEM" trans_ru="680"></ana>680</w>
 <w><ana lex="6800" gr="NUM,digit" parts="6800" gloss="STEM" trans_ru="6800"></ana>6800</w>
@@ -10444,7 +10444,7 @@
 <w><ana lex="6990" gr="NUM,digit" parts="6990" gloss="STEM" trans_ru="6990"></ana>6990-</w>
 <w><ana lex="6990" gr="NUM,digit" parts="6990-рэ" gloss="STEM-ORD" trans_ru="6990"></ana>6990-рэ</w>
 <w><ana lex="6" gr="NUM,digit" parts="6-рэ" gloss="STEM-ORD" trans_ru="6"></ana>6рэ</w>
-<w><ana lex="70" gr="NUM,digit" parts="70-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="70"></ana>70-мкӏэ</w>
+<w><ana lex="70" gr="NUM,digit" parts="70-м-кIэ" gloss="STEM-OBL-INS" trans_ru="70"></ana>70-мкIэ</w>
 <w><ana lex="70000" gr="NUM,digit" parts="70000" gloss="STEM" trans_ru="70000"></ana>70000</w>
 <w><ana lex="70000" gr="NUM,digit" parts="70000" gloss="STEM" trans_ru="70000"></ana>70000-</w>
 <w><ana lex="70000" gr="NUM,digit" parts="70000-м" gloss="STEM-OBL" trans_ru="70000"></ana>70000-м</w>
@@ -10827,7 +10827,7 @@
 <w><ana lex="798866" gr="NUM,digit" parts="798866-рэ" gloss="STEM-ORD" trans_ru="798866"></ana>798866-рэ</w>
 <w><ana lex="799" gr="NUM,digit" parts="799-рэ" gloss="STEM-ORD" trans_ru="799"></ana>799-рэ</w>
 <w><ana lex="7993" gr="NUM,digit" parts="7993" gloss="STEM" trans_ru="7993"></ana>7993-</w>
-<w><ana lex="800" gr="NUM,digit" parts="800-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="800"></ana>800-мкӏэ</w>
+<w><ana lex="800" gr="NUM,digit" parts="800-м-кIэ" gloss="STEM-OBL-INS" trans_ru="800"></ana>800-мкIэ</w>
 <w><ana lex="8000" gr="NUM,digit" parts="8000-м" gloss="STEM-OBL" trans_ru="8000"></ana>8000-м</w>
 <w><ana lex="8000" gr="NUM,digit" parts="8000-р" gloss="STEM-ABS" trans_ru="8000"></ana>8000-р</w>
 <w><ana lex="80000" gr="NUM,digit" parts="80000" gloss="STEM" trans_ru="80000"></ana>80000-</w>
@@ -10935,7 +10935,7 @@
 <w><ana lex="828" gr="NUM,digit" parts="828-м" gloss="STEM-OBL" trans_ru="828"></ana>828-м</w>
 <w><ana lex="828" gr="NUM,digit" parts="828-рэ" gloss="STEM-ORD" trans_ru="828"></ana>828-рэ</w>
 <w><ana lex="829" gr="NUM,digit" parts="829-рэ" gloss="STEM-ORD" trans_ru="829"></ana>829-рэ</w>
-<w><ana lex="83" gr="NUM,digit" parts="83-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="83"></ana>83-мкӏэ</w>
+<w><ana lex="83" gr="NUM,digit" parts="83-м-кIэ" gloss="STEM-OBL-INS" trans_ru="83"></ana>83-мкIэ</w>
 <w><ana lex="830" gr="NUM,digit" parts="830" gloss="STEM" trans_ru="830"></ana>830</w>
 <w><ana lex="830" gr="NUM,digit" parts="830-м" gloss="STEM-OBL" trans_ru="830"></ana>830-м</w>
 <w><ana lex="831" gr="NUM,digit" parts="831" gloss="STEM" trans_ru="831"></ana>831</w>
@@ -11154,13 +11154,13 @@
 <w><ana lex="896" gr="NUM,digit" parts="896-м" gloss="STEM-OBL" trans_ru="896"></ana>896-м</w>
 <w><ana lex="896" gr="NUM,digit" parts="896-рэ" gloss="STEM-ORD" trans_ru="896"></ana>896-рэ</w>
 <w><ana lex="89619704447" gr="NUM,digit" parts="89619704447" gloss="STEM" trans_ru="89619704447"></ana>89619704447-</w>
-<w><ana lex="89619704447" gr="NUM,digit" parts="89619704447-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="89619704447"></ana>89619704447-мкӏэ</w>
+<w><ana lex="89619704447" gr="NUM,digit" parts="89619704447-м-кIэ" gloss="STEM-OBL-INS" trans_ru="89619704447"></ana>89619704447-мкIэ</w>
 <w><ana lex="89688" gr="NUM,digit" parts="89688" gloss="STEM" trans_ru="89688"></ana>89688-</w>
 <w><ana lex="8982" gr="NUM,digit" parts="8982" gloss="STEM" trans_ru="8982"></ana>8982-</w>
 <w><ana lex="8982" gr="NUM,digit" parts="8982-рэ" gloss="STEM-ORD" trans_ru="8982"></ana>8982-рэ</w>
 <w><ana lex="8984" gr="NUM,digit" parts="8984" gloss="STEM" trans_ru="8984"></ana>8984-</w>
 <w><ana lex="899" gr="NUM,digit" parts="899" gloss="STEM" trans_ru="899"></ana>899</w>
-<w><ana lex="90" gr="NUM,digit" parts="90-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="90"></ana>90-мкӏэ</w>
+<w><ana lex="90" gr="NUM,digit" parts="90-м-кIэ" gloss="STEM-OBL-INS" trans_ru="90"></ana>90-мкIэ</w>
 <w><ana lex="900" gr="NUM,digit" parts="900-р" gloss="STEM-ABS" trans_ru="900"></ana>900-р</w>
 <w><ana lex="9000" gr="NUM,digit" parts="9000" gloss="STEM" trans_ru="9000"></ana>9000</w>
 <w><ana lex="9000" gr="NUM,digit" parts="9000-м" gloss="STEM-OBL" trans_ru="9000"></ana>9000-м</w>
@@ -11258,7 +11258,7 @@
 <w><ana lex="9280" gr="NUM,digit" parts="9280-рэ" gloss="STEM-ORD" trans_ru="9280"></ana>9280-рэ</w>
 <w><ana lex="929" gr="NUM,digit" parts="929-рэ" gloss="STEM-ORD" trans_ru="929"></ana>929-рэ</w>
 <w><ana lex="9291" gr="NUM,digit" parts="9291-м" gloss="STEM-OBL" trans_ru="9291"></ana>9291-м</w>
-<w><ana lex="93" gr="NUM,digit" parts="93-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="93"></ana>93-мкӏэ</w>
+<w><ana lex="93" gr="NUM,digit" parts="93-м-кIэ" gloss="STEM-OBL-INS" trans_ru="93"></ana>93-мкIэ</w>
 <w><ana lex="9303" gr="NUM,digit" parts="9303-р" gloss="STEM-ABS" trans_ru="9303"></ana>9303-р</w>
 <w><ana lex="9303" gr="NUM,digit" parts="9303-рэ" gloss="STEM-ORD" trans_ru="9303"></ana>9303-рэ</w>
 <w><ana lex="9316" gr="NUM,digit" parts="9316" gloss="STEM" trans_ru="9316"></ana>9316-</w>
@@ -11353,7 +11353,7 @@
 <w><ana lex="957" gr="NUM,digit" parts="957-р" gloss="STEM-ABS" trans_ru="957"></ana>957-р</w>
 <w><ana lex="9574" gr="NUM,digit" parts="9574" gloss="STEM" trans_ru="9574"></ana>9574-</w>
 <w><ana lex="9574" gr="NUM,digit" parts="9574-м" gloss="STEM-OBL" trans_ru="9574"></ana>9574-м</w>
-<w><ana lex="96" gr="NUM,digit" parts="96-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="96"></ana>96-мкӏэ</w>
+<w><ana lex="96" gr="NUM,digit" parts="96-м-кIэ" gloss="STEM-OBL-INS" trans_ru="96"></ana>96-мкIэ</w>
 <w><ana lex="960" gr="NUM,digit" parts="960-р" gloss="STEM-ABS" trans_ru="960"></ana>960-р</w>
 <w><ana lex="9610" gr="NUM,digit" parts="9610-м" gloss="STEM-OBL" trans_ru="9610"></ana>9610-м</w>
 <w><ana lex="9614" gr="NUM,digit" parts="9614" gloss="STEM" trans_ru="9614"></ana>9614-</w>
@@ -11456,7 +11456,7 @@
 <w><ana lex="995" gr="NUM,digit" parts="995-р" gloss="STEM-ABS" trans_ru="995"></ana>995-р</w>
 <w><ana lex="9959" gr="NUM,digit" parts="9959" gloss="STEM" trans_ru="9959"></ana>9959-</w>
 <w><ana lex="9959" gr="NUM,digit" parts="9959-рэ" gloss="STEM-ORD" trans_ru="9959"></ana>9959-рэ</w>
-<w><ana lex="996" gr="NUM,digit" parts="996-м-кӏэ" gloss="STEM-OBL-INS" trans_ru="996"></ana>996-мкӏэ</w>
+<w><ana lex="996" gr="NUM,digit" parts="996-м-кIэ" gloss="STEM-OBL-INS" trans_ru="996"></ana>996-мкIэ</w>
 <w><ana lex="997" gr="NUM,digit" parts="997-р" gloss="STEM-ABS" trans_ru="997"></ana>997-р</w>
 <w><ana lex="9978" gr="NUM,digit" parts="9978" gloss="STEM" trans_ru="9978"></ana>9978-</w>
 <w><ana lex="997822" gr="NUM,digit" parts="997822" gloss="STEM" trans_ru="997822"></ana>997822-</w>
