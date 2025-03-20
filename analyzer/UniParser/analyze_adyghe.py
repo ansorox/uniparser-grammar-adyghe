@@ -1,3 +1,4 @@
+import os
 from analyze import analyze
 from postprocessor import finalize, split_o_wordlist, split_lar_wordlist
 
@@ -21,9 +22,10 @@ if __name__ == '__main__':
     nOWords = split_o_wordlist('../wordlist_full.csv', '../wordlist.csv-unparsed-main.txt')
     nLarWords = split_lar_wordlist('../wordlist_full.csv', '../wordlist.csv-unparsed-main.txt')
     
-    analyze('../wordlist-unparsed-all.csv', '../paradigms-NtoV.txt', lexFile, lexRulesFile, derivFile, conversionFile,
-            cliticFile, delAnaFile, '../wordlist.csv-parsed-NtoV.txt', '../wordlist.csv-unparsed-NtoV.txt',
-            errorFile, xmlOutput, False, parserVerbosity, freqListSeparator, parsingMethod=parsingMethod)
+    if os.stat("../wordlist-unparsed-all.csv").st_size > 0:
+        analyze('../wordlist-unparsed-all.csv', '../paradigms-NtoV.txt', lexFile, lexRulesFile, derivFile, conversionFile,
+                cliticFile, delAnaFile, '../wordlist.csv-parsed-NtoV.txt', '../wordlist.csv-unparsed-NtoV.txt',
+                errorFile, xmlOutput, False, parserVerbosity, freqListSeparator, parsingMethod=parsingMethod)
     if nOWords > 0:
         analyze('../wordlist-o.csv', '../paradigms.txt', lexFile, lexRulesFile, derivFile, conversionFile,
                 cliticFile, delAnaFile, '../wordlist.csv-parsed-o.txt', '../wordlist.csv-unparsed-o.txt',
