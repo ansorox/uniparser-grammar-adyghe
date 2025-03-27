@@ -112,8 +112,8 @@ def transform_parsed_o(fnameIn, fnameOut):
 
 def transform_parsed_lar(fnameIn, fnameOut):
     """
-    Change the words containing 'хьа', 'ӏа' back to the original
-    orthography (хьэ -> хьа), (ӏэ -> ӏа)
+    Change the words containing 'хьа', 'Iа' back to the original
+    orthography (хьэ -> хьа), (Iэ -> Iа)
     """
     fIn = open(fnameIn, 'r', encoding='utf-8-sig')
     fOut = open(fnameOut, 'w', encoding='utf-8')
@@ -124,7 +124,7 @@ def transform_parsed_lar(fnameIn, fnameOut):
             print('Error:', line)
             continue
         fOut.write(m.group(1) + m.group(2).replace('хьэ', 'хьа'))
-        fOut.write(m.group(1) + m.group(2).replace('ӏэ', 'ӏа'))
+        fOut.write(m.group(1) + m.group(2).replace('Iэ', 'Iа'))
     fIn.close()
     fOut.close()
 
@@ -200,7 +200,7 @@ def split_lar_wordlist(wordlistName, unparsedName):
         line = line.strip()
         freq = freqDict[line]
         fOutAll.write(line + '\t' + str(freq) + '\n')
-        m = re.search('^(.*хь|ӏ|.+[^чтфлпцшк]ӏ)(а)(.*)$', line)
+        m = re.search('^(.*хь|I|.+[^чтфлпцшк]I)(а)(.*)$', line)
         if m is None:
             continue
         fOutLar.write(m.group(1) + 'э' + m.group(3) + '\t' + str(freq) + '\n')
